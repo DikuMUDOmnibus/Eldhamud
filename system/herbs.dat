@@ -1,0 +1,149 @@
+#HERB
+Name         pipeweed~
+Type         Herb
+Info         0
+Flags        0
+Rounds       5
+Dammsg       smoke~
+End
+
+#HERB
+Name         black gwyvel~
+Type         Herb
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         1
+Rounds       12
+Code         spell_smaug
+Dammsg       smoke~
+Hitvict      You start to cough and choke!~
+Affect       '' 13 '-10' -1
+End
+
+#HERB
+Name         vermeir~
+Type         Herb
+Info         0
+Flags        0
+Target       3
+Minpos       106
+Slot         2
+Rounds       4
+Code         spell_smaug
+Dammsg       ~
+Hitchar      .~
+Hitvict      You feel a sparkling warmth flow through your limbs.~
+Hitroom      $N leans back, relishing the flavor of the vermeir.~
+Affect       '' 14 '20' -1
+End
+
+#HERB
+Name         nooracht~
+Type         Herb
+Info         0
+Flags        1024
+Target       3
+Minpos       106
+Slot         3
+Rounds       4
+Code         spell_smaug
+Dammsg       ~
+Wearoff      Your feet slowly lower to the ground.~
+Hitvict      The acrid taste of the smoke overwhelms your senses. You feel light headed.~
+Hitroom      $N grimaces at the acrid flavor of the nooracht.~
+Affect       '30' 0 '' 21
+Affect       '' 12 '20' -1
+End
+
+#HERB
+Name         occadaal~
+Type         Herb
+Info         0
+Flags        0
+Target       3
+Slot         4
+Code         spell_smaug
+Dammsg       ~
+Hitvict      The sharp flavor of the smoke sends a flow of warmth through your body.~
+Hitroom      $N's eyes water as the smoke flows around $m.~
+Affect       '' 13 '20' -1
+End
+
+#HERB
+Name         breadl~
+Type         Herb
+Info         0
+Flags        0
+Target       3
+Minpos       106
+Slot         5
+Code         spell_smaug
+Dammsg       ~
+Wearoff      Everything about you takes on it's normal drab tone.~
+Hitvict      Life takes on a brighter, crisper outlook as you savor the breadl's flavor.~
+Hitroom      $N smiles as $s enjoys the mellow flavor of the breadl.~
+Affect       '10' 0 '' 22
+End
+
+#HERB
+Name         lustrous moss~
+Type         Herb
+Info         0
+Flags        2048
+Target       3
+Slot         6
+Code         spell_smaug
+Dammsg       ~
+Hitvict      The smoke surges through your body as you inhale.~
+Hitroom      An aroma of lustrous moss fill the air as $N exhales~
+Affect       '' 12 '10' -1
+Affect       '' 13 '10' -1
+End
+
+#HERB
+Name         slippery elm~
+Type         Herb
+Info         0
+Flags        2048
+Target       3
+Slot         7
+Code         spell_smaug
+Dammsg       ~
+Hitvict      You smoke some slippery elm.~
+Hitroom      $N puffs away on some slippery elm.~
+Affect       '' 13 '25' -1
+Affect       '200' 1 '+2' -1
+End
+
+#HERB
+Name         elm~
+Type         Herb
+Info         0
+Flags        2048
+Target       3
+Slot         8
+Code         spell_smaug
+Dammsg       ~
+Hitvict      You inhale some elm.~
+Hitroom      Smoke fills the room as $N smokes some elm.~
+Affect       '100' 26 'infravision' -1
+Affect       '100' 26 'alertness' -1
+End
+
+#HERB
+Name         bloodroot~
+Type         Herb
+Info         0
+Flags        2112
+Target       3
+Slot         9
+Code         spell_smaug
+Dammsg       ~
+Hitvict      You some some bloodroot.~
+Hitroom      $N smokes it up!~
+Affect       '200' 26 'paralysis' -1
+End
+
+#END

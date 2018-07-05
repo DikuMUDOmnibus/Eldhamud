@@ -1,0 +1,1883 @@
+#AREA        The Wilderness of Engen Wu~
+#VERSION            2
+#AUTHOR             The_Fury~
+#RANGES             1 30 1 45
+#SPELLLIMIT         0
+#RESETMSG           The Gods give their blessing to the land, and life is restored.~
+#RESETFREQ          20
+#FLAGS              0
+#ECONOMY            0 31250800
+#CONTINENT          xianza~
+#CLIMATE            2 2 2
+
+
+#MOBILES
+#  500
+kappa soldier overland~
+a kappa soldier~
+A kappa soldier is on patrol here.
+~
+~
+
+2 6 3
+0 0 0 0
+1 89 12 12 0
+0 0 0 0 0
+0 0 0
+#  501
+kappa mystic soldier overland~
+a kappa mystic~
+A kappa mystic soldier is on patrol here.
+~
+This small white mouse runs about the dark ground foraging for something to
+eat. Its pointed nose twitches in the air sniffing out any scents that
+lead to food. Dark beady eyes jump back and forth as  its long tail
+swivels in the dirt. 
+~
+
+2 6 4
+0 0 0 0
+1 49 12 12 0
+0 0 0 0 0
+0 0 0
+#  502
+kappa leader overland~
+a kappa leader~
+A kappa leader is here keeping the troops in order.
+~
+This small yellow and black bee flies along the currents of the air in
+search of flowers. Humming within the currents of the wind it gently
+levitates against its weight  
+~
+
+3 6 3
+0 0 0 0
+33 30 12 12 0
+0 0 0 0 0
+0 0 0
+#  503
+kappa general overland~
+a kappa general~
+A kappa general is here surveying the battlefield.
+~
+The dark green color of its skin helps it blend in with the many trees and
+brush in the area. 
+~
+
+4 6 3
+0 0 0 0
+16385 40 12 12 0
+0 0 0 0 0
+0 0 0
+#  504
+kitsune overland soldier~
+a kitsune soldier~
+A kitsune soldier.
+~
+For a wild cat, she is able to find a meal from the ground or stream, or
+air nearby with ease and grace. Vibrant orange fur, sharp claws and quick
+pounce makes this animal a formidable foe.  
+~
+
+6 7 0
+0 0 0 0
+1 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  505
+kitsune overland soldier~
+a kitsune mystic soldier~
+A kitsune mystic soldier.
+~
+A tree of the forest forages the ground with its roots taking in whatever
+elements it needs to grow larger.
+~
+
+6 7 3
+0 0 0 0
+1 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  506
+overland kitsune captain~
+a kitsune captain~
+A kitsune captain.
+~
+~
+
+7 7 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  507
+overland kitsune general~
+a kitsune general~
+A kitsune general.
+~
+Aside from the discolored grey patches of fur on this, it is still able to
+find a meal from its pudginess on both sides of its stomach. Its long
+slender tail trails from the rest of his body like a dead arm aside from
+it moving left or right once in a while. 
+~
+
+8 7 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  508
+otoroshi overland soldier~
+an otoroshi soldier~
+An otoroshi soldier.
+~
+This small black and white wasp buzzes around protecting a nearby  nest
+from intruders. Even though it may seem small, its sting can cause some
+damage. 
+~
+
+10 8 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  509
+otoroshi overland mystic soldier ~
+an otoroshi mystic soldier ~
+An otoroshi mystic soldier. 
+~
+A small white earth worm crawls about the earth floor, trying
+to hide from the light above ground.
+~
+
+10 8 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  510
+otoroshi overland leader~
+an otoroshi leader~
+An otoroshi leader.
+~
+The brown light down of this small spider catches the sun on its back as it
+swiftly makes its way to find something to eat. 
+~
+
+11 8 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  511
+otoroshi overland general~
+an otoroshi overland general~
+An otoroshi overland general.
+~
+This black glossy bird dives and swoops through the air scouting its next
+meal. Outstretched wings glide above the wind making it effortless to fly.
+~
+
+12 8 3
+0 0 0 0
+1 -40 12 12 0
+0 0 0 0 0
+0 0 0
+#  512
+jubokko overland soldier~
+a jubokko soldier~
+A jubokko soldier.
+~
+This ants' body is made completely of reflective dark red bone which is
+able to absorb damage. Its' coal black eyes dart back and forth from
+instinctive nature. 
+~
+
+14 9 3
+0 0 0 0
+1 -49 12 12 0
+0 0 0 0 0
+0 0 0
+#  513
+jubokko overland mystic soldier~
+a jubokko mystic soldier~
+A jubokko mystic soldier.
+~
+With acloser look, what looked like a puddle of viscious liquid,the ooze
+seems to make is way around the area with no help. 
+~
+
+14 9 3
+0 0 0 0
+1 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  514
+jubokko overland leader~
+a jubokko leader~
+A jubokko leader.
+~
+When this bat spreads its small shrivelled arms, beautiful soft black
+leather unfolds allowing for the small creature to become airborne. Its
+small pink snout sniffs the air gently as its eyes blink slowly. 
+~
+
+15 9 3
+0 0 0 0
+1 -89 12 12 0
+0 0 0 0 0
+0 0 0
+#  515
+jubokko overland general~
+a jubokko general~
+A jubokko general.
+~
+~
+
+16 9 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  516
+baku overland soldier~
+a baku soldier~
+A baku soldier.
+~
+A white fuzz the color of snow surrounds this sheep. Covering all of its
+features except for its small black eyes, it troddles along to some
+unknown destination. 
+~
+
+18 10 3
+0 0 0 0
+1 199 12 12 0
+0 0 0 0 0
+0 0 0
+#  517
+baku overland mystic soldier~
+a baku mystic soldier~
+A baku mystic soldier.
+~
+Brown and white colored patches of wired stiff fur cover the body of this
+animal. Its hooves paw at the dirt while trying to eat a few blades of
+grass. 
+~
+
+18 10 3
+0 0 0 0
+1 34 12 12 0
+0 0 0 0 0
+0 0 0
+#  518
+baku overland leader~
+a baku leader~
+A baku leader.
+~
+This odd creature may seem defenseless as its body remains rigid but an
+experienced adventurer knows to be cautious around it. 
+~
+
+19 10 3
+0 0 0 0
+1 100 12 12 0
+0 0 0 0 0
+0 0 0
+#  519
+baku overland general~
+a baku general~
+A baku general.
+~
+The colors green and yellow make up the entirety of this bee. Small
+translucent wings flutter quickly making the buzzing sounds and letting
+any traveller know that its nearby. 
+~
+
+20 10 3
+0 0 0 0
+1 12 12 12 0
+0 0 0 0 0
+0 0 0
+#  520
+overland tengu soldier~
+a tengu soldier~
+A tengu soldier.
+~
+Many believe that this bizarre combination of man and bird still haunts
+remote forests, its unreal wings conveying it great distances in a
+heartbeat, and its fearsome eyes shining with the mischief it still
+perpetrates upon unwary humans. They are said to enjoy spreading chaos and
+confusion in the human world, punishing the vain, annoying the powerful
+and rewarding the humble folk who can join in their nocturnal merrymaking
+without fear. Sometimes they kidnap people and leave them wandering
+through the woods in a state of dementia called tengu-kakushi, but
+sometimes they are called upon to help lost children find their way home.
+~
+
+22 11 3
+0 0 0 0
+1 105 12 12 0
+0 0 0 0 0
+0 0 0
+#  521
+overland tengu mystic~
+a tengu mystic~
+A tengu mystic.
+~
+Many believe that this bizarre combination of man and bird still haunts
+remote forests, its unreal wings conveying it great distances in a
+heartbeat, and its fearsome eyes shining with the mischief it still
+perpetrates upon unwary humans. They are said to enjoy spreading chaos and
+confusion in the human world, punishing the vain, annoying the powerful
+and rewarding the humble folk who can join in their nocturnal merrymaking
+without fear. Sometimes they kidnap people and leave them wandering
+through the woods in a state of dementia called tengu-kakushi, but
+sometimes they are called upon to help lost children find their way home.
+~
+
+22 11 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  522
+overland tengu leader~
+a tengu leader~
+A tengu leader.
+~
+Many believe that this bizarre combination of man and bird still haunts
+remote forests, its unreal wings conveying it great distances in a
+heartbeat, and its fearsome eyes shining with the mischief it still
+perpetrates upon unwary humans. They are said to enjoy spreading chaos and
+confusion in the human world, punishing the vain, annoying the powerful
+and rewarding the humble folk who can join in their nocturnal merrymaking
+without fear. Sometimes they kidnap people and leave them wandering
+through the woods in a state of dementia called tengu-kakushi, but
+sometimes they are called upon to help lost children find their way home.
+~
+
+23 55 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  523
+overland tengu general~
+a tengu general~
+A tengu general.
+~
+Many believe that this bizarre combination of man and bird still haunts
+remote forests, its unreal wings conveying it great distances in a
+heartbeat, and its fearsome eyes shining with the mischief it still
+perpetrates upon unwary humans. They are said to enjoy spreading chaos and
+confusion in the human world, punishing the vain, annoying the powerful
+and rewarding the humble folk who can join in their nocturnal merrymaking
+without fear. Sometimes they kidnap people and leave them wandering
+through the woods in a state of dementia called tengu-kakushi, but
+sometimes they are called upon to help lost children find their way home.
+~
+
+24 0 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  524
+overland nue fighter~
+a nue fighter~
+A nue fighter.
+~
+This mysterious creature is usually described as having the head of a
+monkey, the body of a racoon dog, the limbs of a tiger, and a snake tail.
+But it is sometimes thought to have a bird-like shape instead, perhaps
+because its distinctive cry is said to be similar to that of a mountain
+thrush. Either way its name is synonymous with a nebulous, elusive, and
+cunning nature.
+~
+
+26 12 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  525
+overland nue mystic~
+a nue mystic~
+A nue mystic.
+~
+This mysterious creature is usually described as having the head of a
+monkey, the body of a racoon dog, the limbs of a tiger, and a snake tail.
+But it is sometimes thought to have a bird-like shape instead, perhaps
+because its distinctive cry is said to be similar to that of a mountain
+thrush. Either way its name is synonymous with a nebulous, elusive, and
+cunning nature. 
+~
+
+26 12 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  526
+overland nue leader~
+a nue leader~
+A nue leader.
+~
+This mysterious creature is usually described as having the head of a
+monkey, the body of a racoon dog, the limbs of a tiger, and a snake tail.
+But it is sometimes thought to have a bird-like shape instead, perhaps
+because its distinctive cry is said to be similar to that of a mountain
+thrush. Either way its name is synonymous with a nebulous, elusive, and
+cunning nature.
+~
+
+27 12 3
+0 0 0 0
+1 -109 12 12 0
+0 0 0 0 0
+0 0 0
+#  527
+overland nue general~
+a nue general~
+A nue general.
+~
+This mysterious creature is usually described as having the head of a
+monkey, the body of a racoon dog, the limbs of a tiger, and a snake tail.
+But it is sometimes thought to have a bird-like shape instead, perhaps
+because its distinctive cry is said to be similar to that of a mountain
+thrush. Either way its name is synonymous with a nebulous, elusive, and
+cunning nature. 
+~
+
+28 12 3
+0 0 0 0
+1 -222 12 12 0
+0 0 0 0 0
+0 0 0
+#  528
+overland hainu soldier~
+a hainu soldier~
+A hainu soldier.
+~
+The hainu is a winged dog that is ferocious creature which attackes humans and
+livestock.
+~
+
+29 13 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  529
+overland hainu mystic~
+a hainu mystic~
+A hainu mystic.
+~
+The hainu is a winged dog that is ferocious creature which attackes humans and
+livestock.
+~
+
+29 13 3
+0 0 0 0
+1 -299 12 12 0
+0 0 0 0 0
+0 0 0
+#  530
+overland hainu leader~
+a hainu leader~
+A hainu leader.
+~
+The hainu is a winged dog that is ferocious creature which attackes humans and
+livestock.
+~
+
+30 13 3
+0 0 0 0
+1 -90 12 12 0
+0 0 0 0 0
+0 0 0
+#  531
+overland hainu general~
+a hainu general~
+A hainu general.
+~
+The hainu is a winged dog that is ferocious creature which attackes humans and
+livestock.
+~
+
+31 13 3
+0 0 0 0
+1 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  532
+overlant hainu soldier~
+a hainu soldier~
+A hainu soldier.
+~
+The hainu is a winged dog that is a ferocious creature which attacked humans
+and livestock.
+~
+
+29 14 3
+0 0 0 0
+1 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  533
+overland tanuki mystic~
+a tanuki mystic~
+A tanuki mystic.
+~
+The tanuki is a rotund, jolly little bear-like animal, wearing a large straw
+hat and carrying a bottle of sake, and most unabashedly propped on top of his
+own enormous, dragging scrotum.
+~
+
+32 14 3
+0 0 0 0
+1 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  534
+overland tanuki leader~
+a tanuki leader~
+A tanuki leader.
+~
+The tanuki is a rotund, jolly little bear-like animal, wearing a large straw
+hat and carrying a bottle of sake, and most unabashedly propped on top of his
+own enormous, dragging scrotum.
+~
+
+34 14 3
+0 0 0 0
+1 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  535
+overland tanuki general~
+a tanuki general~
+A tanuki general.
+~
+~
+
+35 14 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  536
+overland tanuki soldier~
+a tanuki soldier~
+A tanuki soldier.
+~
+The tanuki is a rotund, jolly little bear-like animal, wearing a large straw
+hat and carrying a bottle of sake, and most unabashedly propped on top of his
+own enormous, dragging scrotum.
+~
+
+32 67 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  599
+c1 portal guardian~
+The guardian~
+The guardian of the C1 portal stands watch over the continent below.~
+~
+
+30 3 3
+3 1 0 0
+3 0 12 12 0
+0 1 1 1 0
+0 0 0
+#0
+
+
+#OBJECTS
+#500
+ancient tomb magic faerie fire~
+an ancient tomb of faerie fire~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+4 -1 -1 -1
+1 6000 200
+'NONE' 'NONE' 'NONE'
+#501
+ancient tomb magic alertness~
+an ancient tomb of alertness~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 7000 200
+'NONE' 'NONE' 'NONE'
+#502
+ancient tomb magic benediction~
+an ancient tomb of benediction~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 7000 200
+'NONE' 'NONE' 'NONE'
+#504
+ancient tomb magic missile~
+an ancient tomb of magic missile~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 7000 200
+'NONE' 'NONE' 'NONE'
+#505
+ancient tomb magic infravision~
+an ancient tomb of infravision~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+6 -1 -1 -1
+1 8000 200
+'NONE' 'NONE' 'NONE'
+#506
+ancient tomb magic create water~
+an ancient tomb of create water~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+8 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#507
+ancient tomb magic earthquake~
+an ancient tomb of earthquake~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+8 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#508
+ancient tomb magic fly flying~
+an ancient tomb of flying~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+9 -1 -1 -1
+1 10000 200
+'fly' 'NONE' 'NONE'
+#509
+ancient tomb magic acid blast~
+an ancient tomb of acid blast~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#510
+ancient tomb magic create fire~
+an ancient tomb of create fire~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#512
+ancient tomb magic invis invisibility~
+an ancient tomb of invis~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 15000 200
+'NONE' 'NONE' 'NONE'
+#513
+ancient tomb magic faerie fog~
+an ancient tomb of faerie fog~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+11 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#514
+ancient tomb magic fireball~
+an ancient tomb of fireball~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+13 -1 -1 -1
+1 12000 200
+'fireball' 'NONE' 'NONE'
+#516
+ancient tomb magic transport~
+an ancient tomb of transport~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+15 -1 -1 -1
+1 12000 200
+'NONE' 'NONE' 'NONE'
+#518
+ancient tomb magic protection~
+an ancient tomb of protection~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+17 -1 -1 -1
+1 20000 200
+'NONE' 'NONE' 'NONE'
+#519
+ancient tomb magic remove curse~
+an ancient tomb of remove curse~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+17 -1 -1 -1
+1 20000 200
+'remove curse' 'NONE' 'NONE'
+#520
+ancient tomb magic gods blessing~
+an ancient tomb of gods blessing~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 21000 200
+'NONE' 'NONE' 'NONE'
+#521
+ancient tomb magic cure blindness~
+an ancient tomb of cure blindness~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 25000 200
+'cure blindness' 'NONE' 'NONE'
+#523
+ancient tomb magic cure poison~
+an ancient tomb of cure poison~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 2000 200
+'cure poison' 'NONE' 'NONE'
+#524
+ancient tomb magic detect poison~
+an ancient tomb of detect poison~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 2000 200
+'NONE' 'NONE' 'NONE'
+#525
+ancient tomb magic remove trap~
+an ancient tomb of remove trap~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 2000 200
+'NONE' 'NONE' 'NONE'
+#526
+ancient tomb magic heal~
+an ancient tomb of heal~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 19000 200
+'heal' 'NONE' 'NONE'
+#527
+ancient tomb magic poison~
+an ancient tomb of poison~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+19 -1 -1 -1
+1 22000 200
+'poison' 'NONE' 'NONE'
+#529
+ancient tomb magic acid breath~
+an ancient tomb of acid breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#530
+ancient tomb magic armor~
+an ancient tomb of armor~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'armor' 'NONE' 'NONE'
+#531
+ancient tomb magic fire breath~
+an ancient tomb of fire breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#532
+ancient tomb magic fletch~
+an ancient tomb of fletch~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 42000 200
+'NONE' 'NONE' 'NONE'
+#533
+ancient tomb magic gas breath~
+an ancient tomb of gas breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#534
+ancient tomb magic lightning breath~
+an ancient tomb of lightning breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#535
+ancient tomb magic refresh~
+an ancient tomb of refresh~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 12000 200
+'refresh' 'NONE' 'NONE'
+#537
+ancient tomb magic detect magic~
+an ancient tomb of detect magic~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+24 -1 -1 -1
+1 42000 200
+'NONE' 'NONE' 'NONE'
+#538
+ancient tomb magic identify~
+an ancient tomb of identify~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+14 -1 -1 -1
+1 52000 200
+'identify' 'NONE' 'NONE'
+#539
+ancient tomb magic detect invis~
+an ancient tomb of detect invis~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+25 -1 -1 -1
+1 62000 200
+'NONE' 'NONE' 'NONE'
+#540
+ancient tomb magic frost breath~
+an ancient tomb of frost breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+25 -1 -1 -1
+1 62000 200
+'NONE' 'NONE' 'NONE'
+#541
+ancient tomb magic iceshield~
+an ancient tomb of iceshield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+25 -1 -1 -1
+1 62000 200
+'NONE' 'NONE' 'NONE'
+#542
+ancient tomb magic shield~
+an ancient tomb of shield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+29 -1 -1 -1
+1 72000 200
+'shield' 'NONE' 'NONE'
+#543
+ancient tomb magic enchant weapon~
+an ancient tomb of enchant weapon~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 102000 200
+'enchant weapon' 'NONE' 'NONE'
+#544
+ancient tomb magic recharge~
+an ancient tomb of recharge~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 92000 200
+'NONE' 'NONE' 'NONE'
+#545
+ancient tomb magic sanctuary~
+an ancient tomb of sanctuary~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 432000 200
+'sanctuary' 'NONE' 'NONE'
+#546
+ancient tomb magic scry~
+an ancient tomb of scry~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 82000 200
+'NONE' 'NONE' 'NONE'
+#547
+ancient tomb magic true sight~
+an ancient tomb of true sight~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 92000 200
+'NONE' 'NONE' 'NONE'
+#548
+ancient tomb magic control weather~
+an ancient tomb of control weather~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+32 -1 -1 -1
+1 52000 200
+'NONE' 'NONE' 'NONE'
+#549
+ancient tomb magic create spring~
+an ancient tomb of create spring~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 22000 200
+'NONE' 'NONE' 'NONE'
+#550
+ancient tomb magic continual light~
+an ancient tomb of continual light~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+35 -1 -1 -1
+1 23000 200
+'NONE' 'NONE' 'NONE'
+#552
+ancient tomb magic energy drain~
+an ancient tomb of energy drain~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+35 -1 -1 -1
+1 350000 200
+'energy drain' 'NONE' 'NONE'
+#553
+ancient tomb magic fireshield~
+an ancient tomb of fireshield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+35 -1 -1 -1
+1 350000 200
+'NONE' 'NONE' 'NONE'
+#555
+ancient tomb magic cure critical~
+an ancient tomb of cure critical~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+36 -1 -1 -1
+1 2000 200
+'NONE' 'NONE' 'NONE'
+#556
+ancient tomb magic charm person~
+an ancient tomb of charm person~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+37 -1 -1 -1
+1 370000 200
+'NONE' 'NONE' 'NONE'
+#557
+ancient tomb magic stone skin~
+an ancient tomb of stone skin~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+39 -1 -1 -1
+1 390000 200
+'stone skin' 'NONE' 'NONE'
+#558
+ancient tomb magic blindness~
+an ancient tomb of blindness~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+40 -1 -1 -1
+1 400000 200
+'blindness' 'NONE' 'NONE'
+#559
+ancient tomb magic dispel magic~
+an ancient tomb of dispel magic~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+40 -1 -1 -1
+1 400000 200
+'dispel magic' 'NONE' 'NONE'
+#560
+ancient tomb magic detect hidden~
+an ancient tomb of detect hidden~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+43 -1 -1 -1
+1 43000 200
+'NONE' 'NONE' 'NONE'
+#563
+ancient tomb magic sleep~
+an ancient tomb of sleep~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+48 -1 -1 -1
+1 480000 48000
+'NONE' 'NONE' 'NONE'
+#564
+ancient tomb magic demonskin~
+an ancient tomb of demonskin~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+50 -1 -1 -1
+1 500000 50000
+'NONE' 'NONE' 'NONE'
+#565
+ancient tomb magic pass door~
+an ancient tomb of pass door~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+50 -1 -1 -1
+1 500000 50000
+'pass door' 'NONE' 'NONE'
+#566
+ancient tomb magic astral walk~
+an ancient tomb of astral walk~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+60 -1 -1 -1
+1 600000 60000
+'NONE' 'NONE' 'NONE'
+#567
+ancient tomb magic chill touch~
+an ancient tomb of chill touch~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+65 -1 -1 -1
+1 650000 65000
+'NONE' 'NONE' 'NONE'
+#568
+ancient tomb magic shockshield~
+an ancient tomb of shockshield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+65 -1 -1 -1
+1 650000 65000
+'NONE' 'NONE' 'NONE'
+#569
+ancient tomb magic farsight~
+an ancient tomb of farsight~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+68 -1 -1 -1
+1 680000 68000
+'NONE' 'NONE' 'NONE'
+#570
+ancient tomb magic call lightning~
+an ancient tomb of call lightning~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#571
+ancient tomb magic curse~
+an ancient tomb of curse~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'curse' 'NONE' 'NONE'
+#572
+ancient tomb magic dispel evil~
+an ancient tomb of dispel evil~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#573
+ancient tomb magic iceshard~
+an ancient tomb of iceshard~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#574
+ancient tomb magic locate object~
+an ancient tomb of locate object~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#578
+ancient tomb magic air spike~
+an ancient tomb of air spike~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+12 -1 -1 -1
+1 120000 12000
+'NONE' 'NONE' 'NONE'
+#579
+ancient tomb magic change sex~
+an ancient tomb of change sex~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 200000 20000
+'NONE' 'NONE' 'NONE'
+#580
+ancient tomb magic circle light~
+an ancient tomb of circle of light~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 240000 24000
+'NONE' 'NONE' 'NONE'
+#581
+ancient tomb magic circle dark~
+an ancient tomb of circle of dark~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 630000 63000
+'NONE' 'NONE' 'NONE'
+#582
+ancient tomb magic dancing swords~
+an ancient tomb of dancing swords~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+28 -1 -1 -1
+1 280000 28000
+'NONE' 'NONE' 'NONE'
+#583
+ancient tomb magic detect alignment~
+an ancient tomb of detect alignment~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+16 -1 -1 -1
+1 350000 35000
+'NONE' 'NONE' 'NONE'
+#584
+ancient tomb magic dart of fire~
+an ancient tomb of dart of fire~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+65 -1 -1 -1
+1 650000 65000
+'NONE' 'NONE' 'NONE'
+#585
+ancient tomb magic dust storm~
+an ancient tomb of dust storm~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+40 -1 -1 -1
+1 400000 40000
+'NONE' 'NONE' 'NONE'
+#586
+ancient tomb magic flood~
+an ancient tomb of flood~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+17 -1 -1 -1
+1 170000 17000
+'NONE' 'NONE' 'NONE'
+#587
+ancient tomb magic inferno ~
+an ancient tomb of inferno~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+20 -1 -1 -1
+1 20000 2000
+'NONE' 'NONE' 'NONE'
+#588
+ancient tomb magic lava storm~
+an ancient tomb of lava storm~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+33 -1 -1 -1
+1 330000 33000
+'NONE' 'NONE' 'NONE'
+#589
+ancient tomb magic lightning bolt~
+an ancient tomb of lightning bolt~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 20000 2000
+'NONE' 'NONE' 'NONE'
+#590
+ancient tomb magic water spike~
+an ancient tomb of water spike~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+48 -1 -1 -1
+1 480000 48000
+'NONE' 'NONE' 'NONE'
+#591
+ancient tomb magic air torrent~
+an ancient tomb of air torrent~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+50 -1 -1 -1
+1 500000 50000
+'NONE' 'NONE' 'NONE'
+#592
+ancient tomb magic wall water~
+an ancient tomb of wall of water~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+8 -1 -1 -1
+1 80000 8000
+'NONE' 'NONE' 'NONE'
+#593
+ancient tomb magic tornado~
+an ancient tomb of tornado~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8192 0
+15 -1 -1 -1
+1 150000 15000
+'NONE' 'NONE' 'NONE'
+#594
+ancient tomb magic enchant armor~
+an ancient tomb of enchant armor~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8192 16385
+25 -1 -1 -1
+1 250000 25000
+'enchant armor' 'NONE' 'NONE'
+#595
+arrow~
+a newly created arrow~
+Some god dropped a newly created arrow here.~
+~
+57 1073741824 257
+0 0 100 0 6 1
+1 0 0
+#596
+long bow~
+a newly created long bow~
+Some god dropped a newly created long bow here.~
+~
+56 1073741824 65
+100 0 50 6 6 6
+1 0 0
+#597
+bone pipe~
+a bone pipe~
+A finely crafted bone pipe~
+~
+30 8192 16385
+5 0 0 2
+3 2450 245
+#599
+LAST ITEM~
+LAST ITEM~
+LAST ITEM~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#500
+Somewhere in the world of ELdha~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 0 
+D0
+~
+~
+0 -1 500 0 0 0
+
+D1
+~
+~
+0 -1 500 0 0 0
+
+D2
+~
+~
+0 -1 500 0 0 0
+
+D3
+~
+~
+0 -1 500 0 0 0
+
+D6
+~
+~
+0 -1 500 0 0 0
+
+D7
+~
+~
+0 -1 500 0 0 0
+
+D8
+~
+~
+0 -1 500 0 0 0
+
+D9
+~
+~
+0 -1 500 0 0 0
+
+S
+#501
+The Region of Sangang~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 501 0 0 0
+
+D1
+~
+~
+0 -1 501 0 0 0
+
+D2
+~
+~
+0 -1 501 0 0 0
+
+D3
+~
+~
+0 -1 501 0 0 0
+
+D6
+~
+~
+0 -1 501 0 0 0
+
+D7
+~
+~
+0 -1 501 0 0 0
+
+D8
+~
+~
+0 -1 501 0 0 0
+
+D9
+~
+~
+0 -1 501 0 0 0
+
+S
+#502
+The Region of Nymeo~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 502 0 0 0
+
+D1
+~
+~
+0 -1 502 0 0 0
+
+D2
+~
+~
+0 -1 502 0 0 0
+
+D3
+~
+~
+0 -1 502 0 0 0
+
+D6
+~
+~
+0 -1 502 0 0 0
+
+D7
+~
+~
+0 -1 502 0 0 0
+
+D8
+~
+~
+0 -1 502 0 0 0
+
+D9
+~
+~
+0 -1 502 0 0 0
+
+S
+#503
+The Region of Jaili~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 503 0 0 0
+
+D1
+~
+~
+0 -1 503 0 0 0
+
+D2
+~
+~
+0 -1 503 0 0 0
+
+D3
+~
+~
+0 -1 503 0 0 0
+
+D6
+~
+~
+0 -1 503 0 0 0
+
+D7
+~
+~
+0 -1 503 0 0 0
+
+D8
+~
+~
+0 -1 503 0 0 0
+
+D9
+~
+~
+0 -1 503 0 0 0
+
+S
+#504
+The Region of Yakongza~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 504 0 0 0
+
+D1
+~
+~
+0 -1 504 0 0 0
+
+D2
+~
+~
+0 -1 504 0 0 0
+
+D3
+~
+~
+0 -1 504 0 0 0
+
+D6
+~
+~
+0 -1 504 0 0 0
+
+D7
+~
+~
+0 -1 504 0 0 0
+
+D8
+~
+~
+0 -1 504 0 0 0
+
+D9
+~
+~
+0 -1 504 0 0 0
+
+S
+#505
+The Region of Xianza~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 505 0 0 0
+
+D1
+~
+~
+0 -1 505 0 0 0
+
+D2
+~
+~
+0 -1 505 0 0 0
+
+D3
+~
+~
+0 -1 505 0 0 0
+
+D6
+~
+~
+0 -1 505 0 0 0
+
+D7
+~
+~
+0 -1 505 0 0 0
+
+D8
+~
+~
+0 -1 505 0 0 0
+
+D9
+~
+~
+0 -1 505 0 0 0
+
+S
+#506
+The Region of Bangoin~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 506 0 0 0
+
+D1
+~
+~
+0 -1 506 0 0 0
+
+D2
+~
+~
+0 -1 506 0 0 0
+
+D3
+~
+~
+0 -1 506 0 0 0
+
+D6
+~
+~
+0 -1 506 0 0 0
+
+D7
+~
+~
+0 -1 506 0 0 0
+
+D8
+~
+~
+0 -1 506 0 0 0
+
+D9
+~
+~
+0 -1 506 0 0 0
+
+S
+#507
+The Region of Konjo~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 507 0 0 0
+
+D1
+~
+~
+0 -1 507 0 0 0
+
+D2
+~
+~
+0 -1 507 0 0 0
+
+D3
+~
+~
+0 -1 507 0 0 0
+
+D6
+~
+~
+0 -1 507 0 0 0
+
+D7
+~
+~
+0 -1 507 0 0 0
+
+D8
+~
+~
+0 -1 507 0 0 0
+
+D9
+~
+~
+0 -1 507 0 0 0
+
+S
+#508
+The Region of Zogang~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 508 0 0 0
+
+D1
+~
+~
+0 -1 508 0 0 0
+
+D2
+~
+~
+0 -1 508 0 0 0
+
+D3
+~
+~
+0 -1 508 0 0 0
+
+D6
+~
+~
+0 -1 508 0 0 0
+
+D7
+~
+~
+0 -1 508 0 0 0
+
+D8
+~
+~
+0 -1 508 0 0 0
+
+D9
+~
+~
+0 -1 508 0 0 0
+
+S
+#509
+The Region of Tangmai~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435456 3 
+D0
+~
+~
+0 -1 509 0 0 0
+
+D1
+~
+~
+0 -1 509 0 0 0
+
+D2
+~
+~
+0 -1 509 0 0 0
+
+D3
+~
+~
+0 -1 509 0 0 0
+
+D6
+~
+~
+0 -1 509 0 0 0
+
+D7
+~
+~
+0 -1 509 0 0 0
+
+D8
+~
+~
+0 -1 509 0 0 0
+
+D9
+~
+~
+0 -1 509 0 0 0
+
+S
+#599
+The C1 Portal~
+The shimmering green light of the portal is almost blinding, yet below
+you the view of C1 is completely unobstructed and breathtaking to
+behold.
+~
+0 8 0 
+D5
+~
+~
+536870912 -1 599 500 0 0 0 0
+R M 0 599 1 599
+
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

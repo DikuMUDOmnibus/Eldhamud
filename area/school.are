@@ -1,0 +1,1308 @@
+#AREA        Engen Wu New Player School~
+#VERSION            2
+#AUTHOR             The_Fury~
+#RANGES             1 3 1 45
+#SPELLLIMIT         0
+#RESETMSG           A new student passes by you on his way to the next class.~
+#RESETFREQ          2
+#FLAGS              1
+#ECONOMY            0 24199980
+#CONTINENT          xianza~
+#CLIMATE            2 2 2
+
+
+#MOBILES
+#  4000
+practice attack dummy~
+a practice attack dummy~
+A practice attack dummy stands here waiting to be hit.
+~
+~
+
+1 0 3
+0 0 0 0
+150994947 0 12 12 0
+0 0 1 1 0
+0 0 0
+#  4001
+Master Zhao~
+Master Zhao~
+Master Zhao is here, training new adventurers.
+~
+~
+
+30 0 3
+0 0 0 0
+67109891 0 12 12 1
+0 0 0 0 0
+0 0 0
+> greet_prog 100~
+if ispc($n)
+say Ah $n, your new arround here right?
+mpsleep 20
+say Well, since your a new student, I'll give you some advice.
+mpsleep 10
+say Now, $n, pay attention because I dont like to repeat myself.
+emote glares into your eyes.
+mpsleep 20
+say To help you survive on the battlefield you may want to practice with
+say some type of weapon and maybe an attacking skill or something defensive.
+emote nods
+mpsleep 10
+emote smiles
+say Remeber, you only have a few practice points, and you will not earn any
+say more until you gain a new level, so choose carefully!
+mpsleep 20
+emote gasps!
+say Oh yeah!
+say If you want to know how many practices you have, check your SCORE!
+mpsleep 10
+say Now move along, you have alot to learn!
+else
+nod $n
+endif
+~
+|
+
+#  4002
+Xhuna training master~
+Master Xhuna~
+Master Xhuna is here, training new adventurers.
+~
+~
+
+30 0 3
+0 0 0 0
+67108867&128 0 12 12 0
+0 0 0 0 0
+0 0 0
+> greet_prog 100~
+if ispc($n)
+say $n welcome to my training room.
+endif
+~
+|
+
+#  4003
+Master Shin Li~
+Shin Li~
+Master Shin Li stands before you.
+~
+~
+
+30 0 3
+0 0 0 0
+67108867&16 0 12 12 0
+0 0 0 0 0
+0 0 0
+> greet_prog 100~
+if ispc($n)
+say Oh Greetings $n, I have been expecting you for sometime.
+mpsleep 10
+say There are practice dummys in the 4 rooms that lead off of this one. Enter+
+each room in turn and kill the dummys, making sure to get all the say items out+
+of each corpse.
+mpsleep 10
+say If you are in need of healing, type HEAL while standing in this room to see+
+what healing services i can offer you.
+endif
+~
+|
+
+#  4004
+arenea~
+a magical arenea~
+A magical arenea skuttles about here.
+~
+An aranea is an intelligent, shapechanging spider with sorcerous powers. In its
+natural form, an aranea resembles a big spider, with a humpbacked body a little
+bigger than a human torso. It has fanged mandibles like a normal spider. Two
+small arms, each about 2 feet long, lie below the mandibles. Each arm has a
+hand with four many-jointed fingers and a double-jointed thumb.
+~
+
+1 76 3
+0 0 0 0
+35 0 12 12 0
+0 0 0 0 4263
+0 0 0
+#  4005
+basan monster~
+Basan~
+A smoking basan stands here, scratching in the dirt.
+~
+Lurking in the mountain recesses of Ehime Prefecture, this monster bird
+resembles nothing so much as an oversized barnyard fowl. During the day it
+hides itself away in bamboo groves, but at night it emerges and wanders
+into villages, making a strange rustling basabasa noise and causing people
+to peek out of their houses, only to find nothing there. The basan is also
+said to breathe fox-fire, creating eerie ghost-flames. It is, however, not
+known to cause any injury to humans.
+~
+
+1 15 3
+0 0 0 0
+16777251 0 12 12 0
+0 0 0 0 4263
+0 0 0
+#  4006
+master feng~
+Feng~
+Master Feng stands before you.
+~
+~
+
+30 0 3
+0 0 0 0
+83888131 0 12 12 0
+0 0 0 0 0
+0 0 0
+> greet_prog 100~
+if ispc($n)
+say Congratulations on making it to the end of the gauntlet $n.
+if level ($n)==2
+mpadvance $n 3
+endif
+endif
+~
+|
+
+#  4007
+Si Cho store keeper~
+Si Cho~
+Si Cho the store keeper stands here.
+~
+~
+
+30 0 3
+0 0 0 0
+67110915 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  4008
+Grand Master~
+The Grand Master~
+The Grand Master is here greeting new students.
+~
+~
+
+1 0 3
+0 0 0 0
+67108867 0 12 12 0
+0 0 0 0 0
+0 0 0
+> all_greet_prog 100~
+if ispc($n)
+emote looks down to you.
+say I have been waiting for you $n.
+say I am known as the Grand Master.
+emote nods wisely.
+mpsleep 20
+say I sense that you have the thirst for adventure within you,
+say as well as the heart of a true warrior.
+mpsleep 10
+say The first steps of that adventure begins here, so please..
+say listen to the masters and carefully read the rooms and
+say their descriptions.
+mpsleep 20
+say Along the way you will find words that are highlighted in
+say white letters, those words will have their own help files.
+mpsleep 20
+emote slowly strokes his long white beard with his hand.
+say You can find these files by typing: Help KEYWORD
+say For example, Help Newbie would show you the help file for
+say new players.
+mpsleep 20
+say Now, the next step is yours to take.
+emote slowly strokes his long white beard with his hand.
+else
+nod $n
+endif
+~
+|
+
+#  4999
+last mob~
+a newly created last mob~
+Some god abandoned a newly created last mob here.
+~
+~
+
+1 0 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#0
+
+
+#OBJECTS
+#4000
+sandles leather peasent~
+leather peasent sandels~
+A dusty pair of leather peasent sandles.~
+~
+9 0 1025
+0 0 0 13
+1 0 0
+#4001
+cotton peasent trousers~
+cotton peasent trousers~
+A pair of cotton peasent trousers.~
+~
+9 0 513
+0 0 0 13
+1 0 0
+#4002
+kappa shell shield~
+kappa shell shield~
+A kappa shell shield.~
+~
+9 0 129
+0 0 0 13
+1 0 0
+#4003
+peasent fingerless gloves~
+peasent fingerless cotton gloves~
+A pair of cotton fingerless peasent gloves.~
+~
+9 0 33
+0 0 0 13
+1 0 0
+#4004
+peasent cotton shirt~
+peasent cotton shirt~
+A peasent cotton shirt.~
+~
+9 0 17
+0 0 0 13
+1 0 0
+#4005
+wicker carry all backpack basket~
+wicker basket~
+A wicker carry all basket.~
+~
+15 0 9
+200 3 0 13
+1 0 0
+#4006
+large straw hat~
+a large straw hat~
+A large straw hat.~
+~
+9 0 3
+0 0 0 13
+1 0 0
+#4007
+orb of Light~
+orb of Light~
+An orb of light floats here.~
+~
+1 0 2049
+13 0 -1 0
+1 0 0
+#4008
+leather vest~
+leather vest~
+A peasant's leather vest lies crumpled here on the ground.~
+~
+9 0 5
+0 0 0 13
+1 0 0
+#4009
+ancient tomb spell identify~
+an ancient tomb of spell identify~
+An ancient tomb of spell identify.~
+~
+2 8256 1
+1 -1 -1 -1
+1 200 20
+'identify' 'NONE' 'NONE'
+#4010
+magical spring~
+a refreshing fountain~
+A fountian of pure water cascades here.~
+~
+25 64 0
+30000 30000 0 0
+1 0 0
+#4011
+ancient tomb spell fireball~
+an ancient tomb of spell fireball~
+An ancient tomb of spell fireball.~
+~
+2 8192 257
+1 -1 -1 -1
+1 200 100
+'fireball' 'NONE' 'NONE'
+#4012
+practice blade death faction~
+a practice blade~
+A death faction practice blade.~
+~
+5 32768&56 65
+13 0 0 2 2 0
+1 0 0
+#4014
+life faction practice sword~
+a practice sword~
+A life faction practice sword.~
+~
+5 32768&56 65
+13 0 0 1 1 0
+1 0 0
+#4016
+decay faction practice hammer~
+a practice hammer~
+A decay faction practice hammer.~
+~
+5 32768&44 65
+13 0 0 4 5 0
+1 0 0
+#4018
+growth faction practice polearm~
+a practice polearm~
+A growth faction practice polearm.~
+~
+5 1073774592&52 65
+13 0 0 7 12 0
+1 0 0
+#4999
+last obj~
+a newly created last obj~
+Some god dropped a newly created last obj here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#4000
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D1
+~
+~
+0 0 4003 0 0 0
+
+D2
+~
+~
+0 0 4001 0 0 0
+R M 0 4005 3 4000
+
+S
+#4001
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D0
+~
+~
+0 0 4000 0 0 0
+
+D2
+~
+~
+0 0 4002 0 0 0
+R M 0 4005 4 4001
+
+S
+#4002
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D0
+~
+~
+0 0 4001 0 0 0
+
+D1
+~
+~
+0 0 4005 0 0 0
+R M 0 4005 5 4002
+
+S
+#4003
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D2
+~
+~
+0 0 4004 0 0 0
+
+D3
+~
+~
+0 0 4000 0 0 0
+R M 0 4005 13 4003
+
+S
+#4004
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D0
+~
+~
+0 0 4003 0 0 0
+
+D1
+~
+~
+0 0 4007 0 0 0
+R M 0 4005 12 4004
+
+S
+#4005
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D2
+~
+~
+0 0 4006 0 0 0
+
+D3
+~
+~
+0 0 4002 0 0 0
+R M 0 4005 6 4005
+
+S
+#4006
+A Small Rest Area~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 1024 2 
+D0
+~
+~
+0 0 4005 0 0 0
+
+D1
+~
+~
+0 0 4008 0 0 0
+
+S
+#4007
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D3
+~
+~
+0 0 4004 0 0 0
+
+S
+#4008
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D1
+~
+~
+0 0 4014 0 0 0
+
+D3
+~
+~
+0 0 4006 0 0 0
+R M 0 4005 7 4008
+
+S
+#4009
+Tutorial Lesson 11 "WILDERNESS MAP" ~
+The overland wilderness maps are one of the places where you will spend a lot
+of your time. These ASCII maps are full of monsters to hunt and train on, are
+where you will be sent on quests as well as combat other players. It is
+advisable to download and install the Fury Font from the website as it contains
+many glyphs used on the maps that are not available in other fonts.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4011 1 0 0
+
+D2
+~
+~
+0 -1 4033 1 0 0
+
+S
+#4010
+Hall of Notes and Boards~
+~
+0 4 0 
+S
+#4011
+Tutorial Lesson 12 "COMMUNICATION"~
+The CHANNEL command will show you the channels that you currently have access
+to and are able to communicate over. Be advised that all public channel
+communication is to be PG in nature. Severe penalties are in place for anyone
+swearing or being abusive.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4012 1 0 0
+
+D2
+~
+~
+0 -1 4009 1 0 0
+
+S
+#4012
+Tutorial Lesson "GRADUATION"~
+Congratulations, you have made it to the final room of The Oriental Dojo
+new player tutorial. If you feel unsure about anything so far, please go
+back and look over the information provided. If you feel that your ready
+for real adventure, then proceed to the west and enter the final challenge
+of the tutorial, The Gauntlet. There is only one way out of The Gauntlet
+and that is to make it to the end. If you survive, you will be rewarded
+greatly and be transported to the Academy where fame and fortune await
+you. 
+~
+0 1032 0 
+D2
+~
+~
+0 -1 4011 1 0 0
+
+D3
+~
+~
+0 -1 4007 1 0 0
+
+S
+#4013
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D1
+~
+~
+0 0 4015 0 0 0
+
+D2
+~
+~
+0 0 4014 0 0 0
+R M 0 4005 9 4013
+
+S
+#4014
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D0
+~
+~
+0 0 4013 0 0 0
+
+D3
+~
+~
+0 0 4008 0 0 0
+R M 0 4005 8 4014
+
+S
+#4015
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D2
+~
+~
+0 0 4016 0 0 0
+
+D3
+~
+~
+0 0 4013 0 0 0
+R M 0 4005 10 4015
+
+S
+#4016
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D0
+~
+~
+0 0 4015 0 0 0
+
+D1
+~
+~
+0 -1 4018 1 0 0
+R M 0 4005 11 4016
+
+S
+#4017
+Tutorial Stat Trainers Room~
+There are seven stats that can be improved upon by spending an amount of
+practice points in exchange for a 1 point increase in the chosen stat.
+Strength, Intelligence, Wisdom, Dexterity, Constitution, Charisma and Luck
+will all play an important role in shaping your experiences and
+effectiveness as a The Oriental Dojo combatant. Typing HELP <stat name>
+will give you information about a given stat and what effect it has over
+your character. The maximum you can train any stat to is 21. You can also
+train Hp, Mana and Move points, there is no limit on how many of those you
+can have. You are only restricted by your number of practice points.
+~
+0 1032 0 
+D1
+~
+~
+0 0 4021 0 0 0
+R M 0 4002 1 4017
+
+S
+#4018
+Running the Gauntlet~
+Dry white bones lay scattered all about this field of battle intersperced with
+peiced of broken armor and weapons. Small tufts of grass struggle to take root
+in the soil, compacted and trampled by the many heros who come this way seeking
+fame and fortune.
+~
+0 0 2 
+D1
+~
+~
+0 0 4019 0 0 0
+
+D3
+~
+~
+0 -1 4016 1 0 0
+R M 0 4005 11 4018
+R M 0 4005 11 4018
+
+S
+#4019
+The End of the Gauntlet~
+Congratulations, you have made it to the end of the gauntlet. From here travel
+east, then go south into the City of Oakland, where true adventure awaits you.
+~
+0 1028 2 
+D3
+~
+~
+0 -1 4018 1 0 0
+
+D4
+~
+~
+0 -1 10040 1 0 0
+R M 0 4006 1 4019
+
+S
+#4020
+Tutorial Lesson 1 "SCORE"~
+The &WSCORE&z command will show you many important details about your
+character. Your level, race, class even how much gold you are carrying.
+Whenever you need to know something about your character, the &WSCORE&z
+command is the best place to start. 
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4025 1 0 0
+
+S
+#4021
+The Grand Reception Hall~
+Welcome to the grand reception hall of The Oriental Dojo's new player
+tutorial. The reception hall is a buzz with people from all over Engen Wu
+who have come to try their luck and match their skills against the best
+fighters in all the Lands. To the east you will find a skilled trainer who
+can help you practice your skills and to the west is a trainer who can
+help you train your attribute points. 
+~
+0 1032 0 
+D0
+~
+~
+0 0 4020 0 0 0
+
+D1
+~
+~
+0 0 4024 0 0 0
+
+D2
+~
+~
+0 -1 4049 1 0 0
+
+D3
+~
+~
+0 0 4017 0 0 0
+R M 0 4008 1 4021
+
+S
+#4022
+Welcome to The Oriental Dojo Tutorial Zone~
+Welcome to The Oriental Dojo new player tutorial. It is highly recommended
+that take some time and go through the tutorial zone. Within each of its
+rooms you will learn the basic ideas and game of The Oriental Dojo and
+survival in the world of Engen Wu. If you are an experienced mudder and
+wish to bypass the tutorial you may use the EQUIP_ME to receive a basic
+set of equipment and be transported to the Engen Wu PvP Academy.
+~
+0 1036 0 
+D0
+~
+~
+0 -1 4047 1 0 0
+R O 0 4010 1 4022
+
+S
+#4023
+Hall of Shops and Items~
+~
+0 4 0 
+S
+#4024
+Tutorial Skill Practice Room~
+Practicing and mastering your skills is important for your survival on the
+battlefields of Engen Wu. The &WPRACTICE&z command will show you what
+skills you currently have access to, while &WSLIST&z will show you all the
+skills that your class has assigned to it and the levels at which you gain
+the skill. The &WPRACTICE&z command must issued at a trainer to actually
+&WPRACTICE&z a skill. Once you have entered the academy you will need to
+find other trainers to help you &WPRACTICE&z. 
+~
+0 1032 0 
+D3
+~
+~
+0 0 4021 0 0 0
+R M 0 4001 1 4024
+
+S
+#4025
+Tutorial Lesson 2 "EQUIPMENT"~
+The armors you wear effect how effective you are in the battle field. The
+&WEQUIP&z command is used to check what EQUIPments you are wearing. As you
+level up new EQUIPments will become available for use. They can be
+purchased from shops, from other players on the auction channel and also
+found in the corpses of dead monsters. The lower your AC rating the more
+highly armored you are. 
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4028 1 0 0
+
+D2
+~
+~
+0 -1 4020 1 0 0
+
+S
+#4026
+West Room~
+There is nothing much in this room at all. Turn around and go back back out the
+exit you entered by.
+~
+0 1024 0 
+D1
+~
+~
+0 0 4030 0 0 0
+
+S
+#4027
+Tutorial Magic Store~
+Row upon row of dust covered books line the timber shelves, worn through years
+of use and neglect. Strange symbols and words of long forgoten languages can be
+seen on the spines of the leather bound books, some inlayed with gold and
+mother of perl. A desk sits in the middle of the room, clean and freshly
+pollished, with a single open text upon it, with the librarian sitting
+patiently behind the desk.
+~
+0 1032 0 
+D1
+~
+~
+0 0 4034 0 0 0
+R M 0 4007 1 4027
+  R G 0 4011 1
+  R G 0 4009 1
+
+S
+#4028
+Tutorial Lesson 3 "MOVEMENT"~
+Well, You have managed to make it this far all on your own.
+Congratulations. Exits will take you from one room to another, from one
+area to another or onto and off of the wilderness map. So far you have
+used the N,S,E,W directions to &WMOVE&z to this room. But there are many
+other types of &WEXITS&z that you may encounter on your travels through
+Engen Wu. Of the other basic exits are NW,NE,SE,SW Up and Down. Other
+exits might need to be entered, or dug up to reveal them. Go down from
+here and try a few more exits before continuing north and on through the
+tutorial.  
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4037 1 0 0
+
+D2
+~
+~
+0 -1 4025 1 0 0
+
+D4
+~
+~
+0 -1 4999 1 0 0
+
+D5
+~
+~
+0 -1 4030 1 0 0
+
+S
+#4029
+North Room~
+There is nothing much in this room at all. Turn around and go back back out the
+exit you entered by.
+~
+0 1024 0 
+D2
+~
+~
+0 0 4030 0 0 0
+
+S
+#4030
+Center of the Hall of Movement~
+From this central hall you can move north, south, east and west. Go into each
+of the four room that branch off this one and see if there is anything to be
+found.
+~
+0 1024 0 
+D0
+~
+~
+0 0 4029 0 0 0
+
+D1
+~
+~
+0 0 4032 0 0 0
+
+D2
+~
+~
+0 0 4031 0 0 0
+
+D3
+~
+~
+0 0 4026 0 0 0
+
+D4
+~
+~
+0 -1 4028 1 0 0
+
+S
+#4031
+South Room~
+There is nothing much in this room at all. Turn around and go back back out the
+exit you entered by.
+~
+0 1024 0 
+D0
+~
+~
+0 0 4030 0 0 0
+
+S
+#4032
+East Room~
+There is nothing much in this room at all. Turn around and go back back out the
+exit you entered by.
+~
+0 1024 0 
+D3
+~
+~
+0 0 4030 0 0 0
+
+S
+#4033
+Tutorial Lesson 10 "HEALING"~
+You very survival depends greatly on monitoring your own health and how
+much damage you have received. To heal oneself there are potions and
+salves, healing magics and also the REST and SLEEP commands. Some items
+like bedrolls can be purchased from vendors that will speed up how quickly
+you are able to recover your vital statistics.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4009 1 0 0
+
+D2
+~
+~
+0 -1 4039 1 0 0
+
+S
+#4034
+Tutorial Lesson 8 "MAGICAL ARTS"~
+Every class within The Fury .PvP. has the ability to learn magical arts that
+will aid them in many aspects of the game. Classes that are physical or mental
+in focus. Mental focus gives the class many magical options and fewer physical
+optins, while a physical focus gives the class many physical options and fewer
+magical skills. The STUDY command can be used with books and scrolls to learn
+new magical skills for your class.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4039 1 0 0
+
+D2
+~
+~
+0 0 4035 0 0 0
+
+D3
+~
+~
+0 0 4027 0 0 0
+
+S
+#4035
+Tutorial Lesson  7 "COMBAT"~
+Combat is a daily part of life within Engen Wu. The killing of monsters is
+one of the primary methods used to gain experience points that are used to
+level up your character. There are a number of ways to stay alive while
+fighting monsters. Potions can be used or healing spells can be cast to
+heal your hitpoints. CON can be used to see how you compare to the moster
+your about to fight and WIMPY can be set so you flee before the monster
+can kill you, but beware, some moneters will persue you till the bitter
+end. If your ready to face your first opponent, travel down from here and
+engage the monsters below this room.
+~
+0 1032 0 
+D0
+~
+~
+0 0 4034 0 0 0
+
+D2
+~
+~
+0 0 4036 0 0 0
+
+D5
+~
+~
+0 -1 4042 1 0 0
+
+S
+#4036
+Tutorial Lesson  6 "GAME ECONOMY"~
+The currency use within Engen Wu is gold. Gold is used for all transactions,
+from purchasing equipment, studying new skills, buying food and adventuring
+supplies, even buying your own mount for speedier travel. There are a number of
+different ways that you can obtain gold. Completing quests and tasks will
+reward you with gold, as will killing monsters and selling the items you find
+within their corpses.
+~
+0 1032 0 
+D0
+~
+~
+0 0 4035 0 0 0
+
+D2
+~
+~
+0 -1 4038 1 0 0
+
+S
+#4037
+Tutorial Lesson 4 "CHARACTER CUSTOMIZATION"~
+There are many ways to customize your character. Scattered through out the
+realms are NPC's who can restring your items to make them look unique. You can
+also have a biography that outlines details about your character personality,
+its history and its goals. BIO will put you into the editor were you can enter
+and change your characters biography. As an element of roleplay, all players
+are encoraged to write a biography for their characters.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4038 1 0 0
+
+D2
+~
+~
+0 -1 4028 1 0 0
+
+S
+#4038
+Tutorial Lesson 5 "CHARACTER CONFIGURATION"~
+Many aspects of your game experience can be configured by you the player.
+CONFIG will allow you to set such things as the auto collection of gold and
+items from corpses or to display game output as you wish to see it. PROMPT will
+allow you to change what details are shown in your prompt. COLOR will let you
+change many of the defaut colors that are used within the game.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4036 1 0 0
+
+D2
+~
+~
+0 -1 4037 1 0 0
+
+S
+#4039
+Tutorial Lesson 9 "STUDY" ~
+The STUDY skill is an integral component of the magic system in The
+Oriental Dojo You can use the STUDY skill to learn new magical spells.
+Books, Tombs and other objects of arcane knowledge can be found at various
+masters within The Engen Wu Academy. 
+~
+0 1032 0 
+D0
+~
+~
+0 -1 4033 1 0 0
+
+D2
+~
+~
+0 -1 4034 1 0 0
+
+S
+#4040
+West Battle Room~
+Typing Kill Dummy will initiate combat with a practice dummy in this room.
+~
+0 8 0 
+D1
+~
+~
+0 0 4042 0 0 0
+R M 0 4000 8 4040
+  R E 0 4003 1 5
+R M 0 4000 8 4040
+  R E 0 4002 1 7
+
+S
+#4041
+North Battle Room~
+Typing Kill Dummy will initiate combat with a practice dummy in this room.
+~
+0 8 0 
+D2
+~
+~
+0 0 4042 0 0 0
+R M 0 4000 8 4041
+  R E 0 4005 1 3
+  R G 0 4000 1
+R M 0 4000 8 4041
+  R E 0 4004 1 4
+
+S
+#4042
+Center of The Hall Of Combat~
+This is the central hall of combat training. Exits leading from this room lead
+to practice dummys that new adventurers can hone their skills on before moving
+out into the real world.
+~
+0 1032 0 
+D0
+~
+~
+0 0 4041 0 0 0
+
+D1
+~
+~
+0 0 4044 0 0 0
+
+D2
+~
+~
+0 0 4043 0 0 0
+
+D3
+~
+~
+0 0 4040 0 0 0
+
+D4
+~
+~
+0 -1 4035 1 0 0
+R M 0 4003 1 4042
+
+S
+#4043
+South Battle Room~
+Typing Kill Dummy will initiate combat with a practice dummy in this room.
+~
+0 8 0 
+D0
+~
+~
+0 0 4042 0 0 0
+R M 0 4000 8 4043
+  R E 0 4001 1 9
+R M 0 4000 8 4043
+  R E 0 4007 1 0
+
+S
+#4044
+East Battle Room~
+Typing Kill Dummy will initiate combat with a practice dummy in this room.
+~
+0 8 0 
+D3
+~
+~
+0 0 4042 0 0 0
+R M 0 4000 8 4044
+  R E 0 4008 1 2
+R M 0 4000 8 4044
+  R E 0 4006 1 1
+
+S
+#4045
+Tutorial Lesson 12 "QUESTING"~
+~
+0 1073741828 1 
+S
+#4046
+Hall Of The First Quest~
+~
+0 1073741828 1 
+S
+#4047
+Creation: Clan~
+Command: select-clan <clan name>
+Command: select-clan done
+~
+0 1036&2 0 
+S
+#4048
+Creation: Fighting Style~
+Command: select-style
+~
+0 1036&2 0 
+S
+#4049
+Creation: Sex~
+Command: select-gender
+~
+0 1036&2 0 
+S
+#4999
+A Room Above The Hall Of Exits~
+~
+0 1028 1 
+D5
+~
+~
+0 -1 4028 1 0 0
+
+S
+#0
+
+
+#SHOPS
+ 4007    2  0  0  0  0   120  90         0 23    ; Si Cho
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

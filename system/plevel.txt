@@ -1,0 +1,1717 @@
+
+&GJodah          ->&w2   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w3   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w4   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w5   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w6   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w7   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w8   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w9   &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w10  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w11  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w12  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w13  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w14  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w15  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w16  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w17  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w18  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w19  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w20  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w21  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w22  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w23  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w24  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w25  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w26  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w27  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w28  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w29  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GJodah          ->&w30  &G-&w  17   &G   Rvnum: 9027    Dragon Default Class
+&GSatharis       ->&w2   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w3   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w4   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w5   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w6   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w7   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w8   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w9   &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w10  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w11  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w12  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w13  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w14  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w15  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w16  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w17  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w18  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w19  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w20  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w21  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w22  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w23  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w24  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w25  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w26  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w27  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w28  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w29  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GSatharis       ->&w30  &G-&w  17   &G   Rvnum: 16338   Dragon Default Class
+&GMinitommi      ->&w4   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w5   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w6   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w7   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w8   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w9   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w10  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w11  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w12  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w13  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w14  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w15  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w16  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w17  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w18  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w19  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w20  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w21  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w22  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w23  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w24  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w25  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w26  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w27  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w28  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w29  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w30  &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w1   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w2   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w3   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w4   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w5   &G-&w  18   &G   Rvnum: 883     Undead 
+&GMinitommi      ->&w1   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w2   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w3   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w4   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w5   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w1   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w2   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w3   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w4   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w5   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w1   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w1   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w2   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w3   &G-&w  19   &G   Rvnum: 5070    Undead 
+&GMinitommi      ->&w1   &G-&w  19   &G   Rvnum: 5070    Undead Default Class
+&GMinitommi      ->&w2   &G-&w  19   &G   Rvnum: 5070    Undead Default Class
+&GMinitommi      ->&w3   &G-&w  19   &G   Rvnum: 5070    Undead Default Class
+&GMinitommi      ->&w4   &G-&w  19   &G   Rvnum: 5070    Undead Default Class
+&GMinitommi      ->&w5   &G-&w  19   &G   Rvnum: 5070    Undead Default Class
+&GMusou          ->&w2   &G-&w  17   &G   Rvnum: 5145    Angel Default Class
+&GMusou          ->&w3   &G-&w  17   &G   Rvnum: 5145    Angel Default Class
+&GMinitommi      ->&w6   &G-&w  37   &G   Rvnum: 503     Undead Default Class
+&GMusou          ->&w4   &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w5   &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w6   &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w7   &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w8   &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w9   &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w10  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w11  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w12  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w13  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w14  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w15  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w16  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w17  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w18  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w19  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w20  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w21  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w22  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w23  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w24  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w25  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w26  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w27  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w28  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w29  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w30  &G-&w  17   &G   Rvnum: 5146    Demon 
+&GMusou          ->&w1   &G-&w  17   &G   Rvnum: 5145    Demon 
+&GMusou          ->&w2   &G-&w  17   &G   Rvnum: 5145    Demon 
+&GMusou          ->&w3   &G-&w  17   &G   Rvnum: 5145    Demon 
+&GKhanz          ->&w2   &G-&w  17   &G   Rvnum: 4015    Shaddow Default Class
+&GJodah          ->&w2   &G-&w  17   &G   Rvnum: 946     Dragon Default Class
+&GSheba          ->&w2   &G-&w  17   &G   Rvnum: 4016    Angel Default Class
+&GSheba          ->&w3   &G-&w  18   &G   Rvnum: 4015    Angel Default Class
+&GZernon         ->&w2   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w3   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w4   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w5   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w6   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w7   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w8   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w9   &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w10  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w11  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w12  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w13  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w14  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w15  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w16  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w17  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w18  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w19  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w20  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w21  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w22  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w23  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w24  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w25  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w26  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w27  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w28  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w29  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GZernon         ->&w30  &G-&w  17   &G   Rvnum: 4022    Dragon Default Class
+&GCelest         ->&w6   &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w7   &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w8   &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w9   &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w10  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w11  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w12  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w13  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w14  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w15  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w16  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w17  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w18  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w19  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w20  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w21  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w22  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w23  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w24  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w25  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w26  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w27  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w28  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w29  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GCelest         ->&w30  &G-&w  614  &G   Rvnum: 5070    Angel 
+&GMredex         ->&w2   &G-&w  17   &G   Rvnum: 4004    Shaddow Default Class
+&GMarin          ->&w2   &G-&w  17   &G   Rvnum: 4015    Dragon Default Class
+&GElyk           ->&w2   &G-&w  17   &G   Rvnum: 4043    Dragon Default Class
+&GSeljik         ->&w2   &G-&w  17   &G   Rvnum: 4044    Demon Default Class
+&GBarakan        ->&w2   &G-&w  17   &G   Rvnum: 4018    Elf Default Class
+&GGiller         ->&w2   &G-&w  17   &G   Rvnum: 4015    Angel Oracal
+&GGriller        ->&w2   &G-&w  17   &G   Rvnum: 4006    Dragon Destroyer
+&GKlippdos       ->&w2   &G-&w  17   &G   Rvnum: 4006    Undead Destroyer
+&GKlippdos       ->&w3   &G-&w  17   &G   Rvnum: 4019    Undead Destroyer
+<<<<<<< .mine
+<<<<<<< .mine
+&GTheFury        ->&w2   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w3   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w4   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w5   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w6   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w7   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w8   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w9   &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w10  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w11  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w12  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w13  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w14  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w15  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w16  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w17  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w18  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w19  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w20  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w21  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w22  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w23  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w24  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w25  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w26  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w27  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w28  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w29  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GTheFury        ->&w30  &G-&w  17   &G   Rvnum: 4022    Angel Healer
+&GGordan         ->&w2   &G-&w  17   &G   Rvnum: 4008    Demon Destroyer
+&GGordan         ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Destroyer
+=======
+=======
+<<<<<<< .mine
+&GHolith         ->&w2   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w3   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w4   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w5   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w6   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w7   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w8   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w9   &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w10  &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w11  &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w12  &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w13  &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w14  &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GHolith         ->&w15  &G-&w  17   &G   Rvnum: 4022    Undead Healer
+&GJesmathin      ->&w2   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w3   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w4   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w5   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w6   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w7   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w8   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w9   &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w10  &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w11  &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w12  &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w13  &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w14  &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GJesmathin      ->&w15  &G-&w  17   &G   Rvnum: 4022    Angel Champion
+&GPlestan        ->&w2   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w3   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w4   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w5   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w6   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w7   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w8   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w9   &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w10  &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w11  &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w12  &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w13  &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w14  &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GPlestan        ->&w15  &G-&w  17   &G   Rvnum: 4022    Elf Destroyer
+&GTilinoj        ->&w2   &G-&w  17   &G   Rvnum: 4022    Dragon Invoker
+&GTilinoj        ->&w3   &G-&w  17   &G   Rvnum: 4022    Dragon Invoker
+&GTilinoj        ->&w4   &G-&w  17   &G   Rvnum: 4022    Dragon Invoker
+&GTilinoj        ->&w5   &G-&w  17   &G   Rvnum: 4022    Dragon Invoker
+&GTilinoj        ->&w6   &G-&w  17   &G   Rvnum: 4022    Dragon Invoker
+&GQinston        ->&w2   &G-&w  17   &G   Rvnum: 4022    Shaddow Defyler
+&GQinston        ->&w3   &G-&w  17   &G   Rvnum: 4022    Shaddow Defyler
+&GQinston        ->&w4   &G-&w  17   &G   Rvnum: 4022    Shaddow Defyler
+&GQinston        ->&w5   &G-&w  17   &G   Rvnum: 4022    Shaddow Defyler
+&GQinston        ->&w6   &G-&w  17   &G   Rvnum: 4022    Shaddow Defyler
+&GCandos         ->&w2   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w3   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w4   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w5   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w6   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w7   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w8   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GCandos         ->&w9   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GJinothin       ->&w2   &G-&w  17   &G   Rvnum: 4022    Demon Oracal
+&GJinothin       ->&w3   &G-&w  17   &G   Rvnum: 4022    Demon Oracal
+&GJinothin       ->&w4   &G-&w  17   &G   Rvnum: 4022    Demon Oracal
+&GAthol          ->&w2   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w3   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w4   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w5   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w6   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w7   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w8   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w9   &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w10  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w11  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w12  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w13  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w14  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w15  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w16  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GAthol          ->&w17  &G-&w  17   &G   Rvnum: 4022    Angel Destroyer
+&GMithos         ->&w2   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w3   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w4   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w5   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w6   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w7   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w8   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w9   &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w10  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w11  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w12  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w13  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w14  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w15  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w16  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w17  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w18  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w19  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w20  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GMithos         ->&w21  &G-&w  17   &G   Rvnum: 4022    Elf Invoker
+&GHondraso       ->&w2   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w3   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w4   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w5   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w6   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w7   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w8   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w9   &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w10  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w11  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w12  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w13  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w14  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w15  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w16  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w17  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w18  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w19  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w20  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w21  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w22  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w23  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w24  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GHondraso       ->&w25  &G-&w  17   &G   Rvnum: 4022    Dragon Champion
+&GVendil         ->&w2   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w3   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w4   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w5   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w6   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w7   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w8   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w9   &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w10  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w11  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w12  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w13  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w14  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w15  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w16  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w17  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w18  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w19  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w20  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w21  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w22  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w23  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w24  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w25  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w26  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w27  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GVendil         ->&w28  &G-&w  17   &G   Rvnum: 4022    Shaddow Healer
+&GZenham         ->&w2   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w3   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w4   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w5   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w6   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w7   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w8   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w9   &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w10  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w11  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w12  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w13  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w14  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w15  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w16  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GZenham         ->&w17  &G-&w  17   &G   Rvnum: 4022    Undead Overlord
+&GInrensa        ->&w2   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w3   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w4   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w5   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w6   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w7   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w8   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w9   &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w10  &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GInrensa        ->&w11  &G-&w  17   &G   Rvnum: 4022    Demon Destroyer
+&GDoron          ->&w2   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w3   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w4   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w5   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w6   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w7   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w8   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w9   &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w10  &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w11  &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w12  &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w13  &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GDoron          ->&w14  &G-&w  17   &G   Rvnum: 4022    Demon Warden
+&GKilospiten     ->&w2   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w3   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w4   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w5   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w6   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w7   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w8   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w9   &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w10  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w11  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w12  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w13  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w14  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w15  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w16  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w17  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w18  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w19  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w20  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w21  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w22  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GKilospiten     ->&w23  &G-&w  17   &G   Rvnum: 4022    Angel Oracal
+&GThefury        ->&w2   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w3   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w4   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w5   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w6   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w7   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w8   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w9   &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w10  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w11  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w12  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w13  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w14  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w15  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w16  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w17  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w18  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w19  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w20  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w21  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w22  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w23  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w24  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w25  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w26  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w27  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w28  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w29  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+&GThefury        ->&w30  &G-&w  17   &G   Rvnum: 5067    Angel Destroyer
+=======
+>>>>>>> .r72
+&GBladdus        ->&w2   &G-&w  17   &G   Rvnum: 4009    Angel Destroyer
+&GBladdus        ->&w3   &G-&w  17   &G   Rvnum: 4009    Angel Destroyer
+&GBladdus        ->&w4   &G-&w  17   &G   Rvnum: 4009    Angel Destroyer
+&GBladdus        ->&w5   &G-&w  17   &G   Rvnum: 4009    Angel Destroyer
+&GDilshan        ->&w2   &G-&w  17   &G   Rvnum: 4009    Demon Champion
+&GDilshan        ->&w3   &G-&w  17   &G   Rvnum: 4009    Demon Champion
+&GDilshan        ->&w4   &G-&w  17   &G   Rvnum: 4009    Demon Champion
+&GDilshan        ->&w5   &G-&w  17   &G   Rvnum: 4009    Demon Champion
+&GDilshan        ->&w6   &G-&w  17   &G   Rvnum: 4009    Demon Champion
+&GDilshan        ->&w7   &G-&w  17   &G   Rvnum: 4009    Demon Champion
+<<<<<<< .mine
+>>>>>>> .r59
+=======
+&GEmbilon        ->&w2   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w3   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w4   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w5   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w6   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w7   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w8   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w9   &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w10  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w11  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w12  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w13  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w14  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w15  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w16  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w17  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w18  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w19  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w20  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w21  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w22  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w23  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w24  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GEmbilon        ->&w25  &G-&w  17   &G   Rvnum: 4022    Shaddow Oracal
+&GGrathonis      ->&w2   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w3   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w4   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w5   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w6   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w7   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w8   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w9   &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w10  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w11  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w12  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w13  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w14  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w15  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w16  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w17  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w18  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w19  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w20  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w21  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w22  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w23  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w24  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w25  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w26  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w27  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w28  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w29  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GGrathonis      ->&w30  &G-&w  17   &G   Rvnum: 4022    Undead Warden
+&GHopisar        ->&w2   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w3   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w4   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w5   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w6   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w7   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w8   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w9   &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w10  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w11  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w12  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w13  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w14  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w15  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w16  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w17  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w18  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w19  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w20  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w21  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w22  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w23  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w24  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w25  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GHopisar        ->&w26  &G-&w  17   &G   Rvnum: 4022    Dragon Destroyer
+&GXinjad         ->&w2   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w3   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w4   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w5   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w6   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w7   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w8   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w9   &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w10  &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w11  &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+&GXinjad         ->&w12  &G-&w  17   &G   Rvnum: 4022    Elf Overlord
+<<<<<<< .mine
+>>>>>>> .r67
+&GKermola        ->&w2   &G-&w  17   &G   Rvnum: 4015    Demon Destroyer
+&GKermola        ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Destroyer
+&GElysian        ->&w2   &G-&w  17   &G   Rvnum: 4005    Angel Defyler
+&GElysian        ->&w3   &G-&w  17   &G   Rvnum: 4019    Angel Defyler
+=======
+>>>>>>> .r67
+&GBintros        ->&w2   &G-&w  17   &G   Rvnum: 4015    Demon Champion
+&GBintros        ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Champion
+>>>>>>> .r72
+<<<<<<< .mine
+&GKage           ->&w2   &G-&w  17   &G   Rvnum: 4001    Shadow Defyler
+&GKage           ->&w3   &G-&w  17   &G   Rvnum: 4019    Shadow Defyler
+&GRandor         ->&w2   &G-&w  17   &G   Rvnum: 4001    Shadow Destroyer
+&GSpalnish       ->&w2   &G-&w  17   &G   Rvnum: 4015    Shadow Overlord
+&GBlingus        ->&w2   &G-&w  17   &G   Rvnum: 4005    Nezumi Warden
+&GBlingus        ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Warden
+&GUrkon          ->&w2   &G-&w  17   &G   Rvnum: 4008    Nezumi Destroyer
+&GJeravon        ->&w2   &G-&w  17   &G   Rvnum: 4018    Undead Overlord
+&GJeravon        ->&w3   &G-&w  17   &G   Rvnum: 4019    Undead Overlord
+&GChondler       ->&w2   &G-&w  17   &G   Rvnum: 4008    Angel Champion
+&GChondler       ->&w3   &G-&w  17   &G   Rvnum: 4019    Angel Champion
+&GPedantic       ->&w2   &G-&w  17   &G   Rvnum: 4008    Nezumi Champion
+=======
+&GHungongjo      ->&w2   &G-&w  17   &G   Rvnum: 4008    Spirit Kensei
+&GHungongjo      ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Kensei
+&GHungongjo      ->&w4   &G-&w  17   &G   Rvnum: 505     Spirit Kensei
+&GHungongjo      ->&w1   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w2   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w3   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w4   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w1   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w2   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w3   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w4   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w1   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w2   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w3   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w4   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w1   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w2   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w3   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+&GHungongjo      ->&w4   &G-&w  17   &G   Rvnum: 4017    Spirit Kensei
+<<<<<<< .mine
+>>>>>>> .r102
+&GHongkongjo     ->&w2   &G-&w  17   &G   Rvnum: 4018    Undead Iaijutse
+&GHongkongjo     ->&w3   &G-&w  17   &G   Rvnum: 4019    Undead Iaijutse
+=======
+&GFelone         ->&w2   &G-&w  17   &G   Rvnum: 4022    Undead Sohei
+<<<<<<< .mine
+>>>>>>> .r105
+=======
+&GFelron         ->&w2   &G-&w  17   &G   Rvnum: 4003    Vanara Wu Jen
+&GFelron         ->&w3   &G-&w  17   &G   Rvnum: 4019    Vanara Wu Jen
+<<<<<<< .mine
+>>>>>>> .r106
+&GFury           ->&w2   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w3   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w4   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w5   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w6   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w7   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w8   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w9   &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w10  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w11  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w12  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w13  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w14  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w15  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w16  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w17  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w18  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w19  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w20  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w21  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w22  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w23  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w24  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w25  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w26  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w27  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w28  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w29  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+&GFury           ->&w30  &G-&w  17   &G   Rvnum: 4022    Vanara Sohei
+=======
+&GFellin         ->&w2   &G-&w  17   &G   Rvnum: 4018    Nezumi Bushi
+&GFellin         ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+>>>>>>> .r120
+&GBaelias        ->&w2   &G-&w  17   &G   Rvnum: 4005    Nezumi Iaijutse
+&GBaelias        ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Iaijutse
+&GJosper         ->&w2   &G-&w  17   &G   Rvnum: 4022    Angel Kishi
+&GJosper         ->&w3   &G-&w  17   &G   Rvnum: 4022    Angel Kishi
+&GJosper         ->&w4   &G-&w  17   &G   Rvnum: 4022    Angel Kishi
+&GJosper         ->&w5   &G-&w  17   &G   Rvnum: 4022    Angel Kishi
+&GSpindlis       ->&w2   &G-&w  17   &G   Rvnum: 4022    Vanara Wu Jen
+&GSpindlis       ->&w3   &G-&w  17   &G   Rvnum: 4022    Vanara Wu Jen
+&GSpindlis       ->&w4   &G-&w  17   &G   Rvnum: 4022    Vanara Wu Jen
+&GSpindlis       ->&w5   &G-&w  17   &G   Rvnum: 4022    Vanara Wu Jen
+&GRostdon        ->&w2   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GRostdon        ->&w3   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GRostdon        ->&w4   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GRostdon        ->&w5   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GAldos          ->&w2   &G-&w  17   &G   Rvnum: 4022    Spirit Shugenja
+&GAldos          ->&w3   &G-&w  17   &G   Rvnum: 4022    Spirit Shugenja
+&GAldos          ->&w4   &G-&w  17   &G   Rvnum: 4022    Spirit Shugenja
+&GAldos          ->&w5   &G-&w  17   &G   Rvnum: 4022    Spirit Shugenja
+&GXavia          ->&w2   &G-&w  17   &G   Rvnum: 4022    Undead Henshin
+&GXavia          ->&w3   &G-&w  17   &G   Rvnum: 4022    Undead Henshin
+&GXavia          ->&w4   &G-&w  17   &G   Rvnum: 4022    Undead Henshin
+&GXavia          ->&w5   &G-&w  17   &G   Rvnum: 4022    Undead Henshin
+&GHistor         ->&w2   &G-&w  17   &G   Rvnum: 4022    Demon Kishi
+&GHistor         ->&w3   &G-&w  17   &G   Rvnum: 4022    Demon Kishi
+&GHistor         ->&w4   &G-&w  17   &G   Rvnum: 4022    Demon Kishi
+&GHistor         ->&w5   &G-&w  17   &G   Rvnum: 4022    Demon Kishi
+&GCordon         ->&w2   &G-&w  17   &G   Rvnum: 4022    Angel Sohei
+&GCordon         ->&w3   &G-&w  17   &G   Rvnum: 4022    Angel Sohei
+&GCordon         ->&w4   &G-&w  17   &G   Rvnum: 4022    Angel Sohei
+&GCordon         ->&w5   &G-&w  17   &G   Rvnum: 4022    Angel Sohei
+&GVlaster        ->&w2   &G-&w  17   &G   Rvnum: 4022    Vanara Kensei
+&GVlaster        ->&w3   &G-&w  17   &G   Rvnum: 4022    Vanara Kensei
+&GVlaster        ->&w4   &G-&w  17   &G   Rvnum: 4022    Vanara Kensei
+&GVlaster        ->&w5   &G-&w  17   &G   Rvnum: 4022    Vanara Kensei
+&GMillen         ->&w2   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GMillen         ->&w3   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GMillen         ->&w4   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GMillen         ->&w5   &G-&w  17   &G   Rvnum: 4022    Nezumi Bushi
+&GGrenny         ->&w2   &G-&w  17   &G   Rvnum: 4022    Spirit Sohei
+&GGrenny         ->&w3   &G-&w  17   &G   Rvnum: 4022    Spirit Sohei
+&GGrenny         ->&w4   &G-&w  17   &G   Rvnum: 4022    Spirit Sohei
+&GGrenny         ->&w5   &G-&w  17   &G   Rvnum: 4022    Spirit Sohei
+&GBaelias        ->&w4   &G-&w  17   &G   Rvnum: 505     Nezumi Iaijutse
+&GGiller         ->&w3   &G-&w  17   &G   Rvnum: 4019    Angel Sohei
+&GVzann          ->&w2   &G-&w  17   &G   Rvnum: 4004    Demon Kensei
+&GVzann          ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GSypher         ->&w2   &G-&w  17   &G   Rvnum: 4027    Spirit Bushi
+&GSypher         ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Bushi
+&GSypher         ->&w4   &G-&w  17   &G   Rvnum: 505     Spirit Bushi
+&GRemulus        ->&w2   &G-&w  17   &G   Rvnum: 4021    Demon Henshin
+&GRemulus        ->&w3   &G-&w  17   &G   Rvnum: 4003    Demon Henshin
+&GGhambi         ->&w2   &G-&w  17   &G   Rvnum: 4003    Spirit Sohei
+&GGhambi         ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Sohei
+&GIrukai         ->&w2   &G-&w  17   &G   Rvnum: 4003    Vanara Iaijutse
+&GKeron          ->&w2   &G-&w  17   &G   Rvnum: 4028    Vanara Kishi
+&GKeron          ->&w3   &G-&w  17   &G   Rvnum: 4019    Vanara Kishi
+&GMatt           ->&w2   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w3   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w4   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w5   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w6   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w7   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w8   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w9   &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w10  &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w11  &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w12  &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w13  &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w14  &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GMatt           ->&w15  &G-&w  17   &G   Rvnum: 505     Angel Bushi
+&GTrajic         ->&w2   &G-&w  17   &G   Rvnum: 4004    Demon Kensei
+&GTrajic         ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GArsenic        ->&w2   &G-&w  17   &G   Rvnum: 4003    Demon Wu Jen
+&GArsenic        ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Wu Jen
+&GTyran          ->&w2   &G-&w  17   &G   Rvnum: 4003    Demon Kensei
+&GTyran          ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GDarih          ->&w2   &G-&w  17   &G   Rvnum: 4003    Demon Kensei
+&GMiloshi        ->&w2   &G-&w  17   &G   Rvnum: 4004    Nezumi Bushi
+&GMiloshi        ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GTakezo         ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Bushi
+&GTakezo         ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GMusashi        ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Bushi
+&GMusashi        ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GVarstal        ->&w2   &G-&w  17   &G   Rvnum: 4040    Demon Kensei
+&GErinye         ->&w2   &G-&w  17   &G   Rvnum: 4015    Vanara Shugenja
+&GErinye         ->&w3   &G-&w  17   &G   Rvnum: 4019    Vanara Shugenja
+&GVarstal        ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GVeg            ->&w2   &G-&w  17   &G   Rvnum: 4013    Undead Kensei
+&GVeg            ->&w3   &G-&w  17   &G   Rvnum: 4019    Undead Kensei
+&GBTD            ->&w2   &G-&w  17   &G   Rvnum: 4008    Demon Kensei
+&GBTD            ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GAdok           ->&w2   &G-&w  17   &G   Rvnum: 4015    Demon Bushi
+&GAdok           ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Bushi
+&GAdok           ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Bushi
+&GBrenden        ->&w2   &G-&w  17   &G   Rvnum: 4041    Demon Bushi
+&GBrenden        ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Bushi
+&GRakhan         ->&w2   &G-&w  17   &G   Rvnum: 4041    Demon Kensei
+&GGosu           ->&w2   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w3   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w4   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w5   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w6   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w7   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w8   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w9   &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w10  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w11  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w12  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w13  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w14  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w15  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w16  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w17  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w18  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w19  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w20  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w21  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w22  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w23  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w24  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w25  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w26  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w27  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w28  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w29  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GGosu           ->&w30  &G-&w  17   &G   Rvnum: 10080   Demon Shugenja
+&GHavok          ->&w2   &G-&w  17   &G   Rvnum: 4004    Angel Wu Jen
+&GAdmin          ->&w2   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w3   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w4   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w5   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w6   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w7   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w8   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w9   &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w10  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w11  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w12  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w13  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w14  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w15  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w16  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w17  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w18  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w19  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w20  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w21  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w22  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w23  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w24  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w25  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w26  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w27  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w28  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w29  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GAdmin          ->&w30  &G-&w  17   &G   Rvnum: 2       Angel Kishi
+&GFortang        ->&w2   &G-&w  17   &G   Rvnum: 4003    Undead Kensei
+&GFortang        ->&w3   &G-&w  17   &G   Rvnum: 4019    Undead Kensei
+&GFortang        ->&w4   &G-&w  17   &G   Rvnum: 505     Undead Kensei
+&GHavok          ->&w2   &G-&w  17   &G   Rvnum: 4015    Demon Henshin
+&GHavok          ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Henshin
+&GFortang        ->&w5   &G-&w  18   &G   Rvnum: 505     Undead Kensei
+&GFortang        ->&w6   &G-&w  19   &G   Rvnum: 505     Undead Kensei
+&GHavok          ->&w3   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w4   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w5   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w6   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w7   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w8   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w9   &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w10  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w11  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w12  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w13  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w14  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w15  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w16  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w17  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w18  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w19  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w20  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w21  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w22  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w23  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w24  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w25  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w26  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w27  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w28  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w29  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GHavok          ->&w30  &G-&w  19   &G   Rvnum: 2       Angel Wu Jen
+&GFortang        ->&w7   &G-&w  21   &G   Rvnum: 505     Undead Kensei
+&GAreo           ->&w2   &G-&w  17   &G   Rvnum: 4040    Demon Kishi
+&GAreo           ->&w3   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w4   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w5   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w6   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w7   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w8   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w9   &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w10  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w11  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w12  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w13  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w14  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w15  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w16  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w17  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w18  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w19  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w20  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w21  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w22  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w23  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w24  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w25  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w26  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w27  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w28  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w29  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GAreo           ->&w30  &G-&w  17   &G   Rvnum: 10000   Demon Kishi
+&GTommi          ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Bushi
+&GTommi          ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GTommi          ->&w4   &G-&w  17   &G   Rvnum: 505     Nezumi Bushi
+&GTommi          ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Bushi
+&GTommi          ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GMits           ->&w2   &G-&w  17   &G   Rvnum: 4003    Demon Kensei
+&GMits           ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GEyrion         ->&w2   &G-&w  17   &G   Rvnum: 10040   Nezumi Shugenja
+&GEyrion         ->&w3   &G-&w  17   &G   Rvnum: 505     Nezumi Shugenja
+&GIosin          ->&w2   &G-&w  17   &G   Rvnum: 4041    Nezumi Bushi
+&GIosin          ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GJinchi         ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Kensei
+&GJinchi         ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Kensei
+&GRandor         ->&w2   &G-&w  17   &G   Rvnum: 4015    Spirit Kishi
+&GRandor         ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Kishi
+&GHavok          ->&w2   &G-&w  22   &G   Rvnum: 10040   Angel Wu Jen
+&GPonnet         ->&w2   &G-&w  17   &G   Rvnum: 4003    Demon Wu Jen
+&GPonnet         ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Wu Jen
+&GPonnet         ->&w4   &G-&w  17   &G   Rvnum: 505     Demon Wu Jen
+&GPonnet         ->&w5   &G-&w  17   &G   Rvnum: 505     Demon Wu Jen
+&GPonnet         ->&w6   &G-&w  18   &G   Rvnum: 505     Demon Wu Jen
+&GKumo           ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Wu Jen
+&GKumo           ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Wu Jen
+&GHavok          ->&w3   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w4   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w5   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w6   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w7   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w8   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w9   &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w10  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w11  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w12  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w13  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w14  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w15  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w16  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w17  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w18  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w19  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w20  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w21  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w22  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w23  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w24  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w25  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w26  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w27  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w28  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w29  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GHavok          ->&w30  &G-&w  23   &G   Rvnum: 10040   Angel Wu Jen
+&GEchosyp        ->&w2   &G-&w  17   &G   Rvnum: 4003    Nezumi Kensei
+&GEchosyp        ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Kensei
+&GCelest         ->&w2   &G-&w  17   &G   Rvnum: 4003    Angel Shugenja
+&GCelest         ->&w3   &G-&w  17   &G   Rvnum: 4019    Angel Shugenja
+&GCogline        ->&w2   &G-&w  17   &G   Rvnum: 4003    Spirit Shugenja
+&GCogline        ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Shugenja
+&GHanatarou      ->&w2   &G-&w  17   &G   Rvnum: 4004    Demon Iaijutse
+&GHanatarou      ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Iaijutse
+&GEchosyp        ->&w4   &G-&w  18   &G   Rvnum: 505     Nezumi Kensei
+&GEchosyp        ->&w5   &G-&w  18   &G   Rvnum: 508     Nezumi Kensei
+&GPonnet         ->&w7   &G-&w  23   &G   Rvnum: 506     Demon Wu Jen
+&GOkari          ->&w2   &G-&w  17   &G   Rvnum: 4040    Spirit Kishi
+&GOkari          ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Kishi
+<<<<<<< .mine
+&GAoko           ->&w2   &G-&w  17   &G   Rvnum: 4013    Vanara Sohei
+&GAoko           ->&w3   &G-&w  17   &G   Rvnum: 4019    Vanara Sohei
+=======
+&GChonger        ->&w2   &G-&w  17   &G   Rvnum: 4018    Angel Wu Jen
+&GChonger        ->&w3   &G-&w  17   &G   Rvnum: 4019    Angel Wu Jen
+&GChonger        ->&w4   &G-&w  17   &G   Rvnum: 10040   Angel Wu Jen
+&GChonger        ->&w5   &G-&w  17   &G   Rvnum: 10040   Angel Wu Jen
+&GChonger        ->&w6   &G-&w  17   &G   Rvnum: 10040   Angel Wu Jen
+&GChonger        ->&w7   &G-&w  17   &G   Rvnum: 10040   Angel Wu Jen
+&GChonster       ->&w2   &G-&w  17   &G   Rvnum: 4015    Nezumi Kishi
+&GChonster       ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Kishi
+<<<<<<< .mine
+>>>>>>> .r88
+&GPonnet         ->&w8   &G-&w  27   &G   Rvnum: 506     Demon Wu Jen
+&GKrankor        ->&w2   &G-&w  17   &G   Rvnum: 4016    Nezumi Bushi
+&GKrankor        ->&w3   &G-&w  17   &G   Rvnum: 4019    Nezumi Bushi
+&GLarak          ->&w2   &G-&w  17   &G   Rvnum: 4015    Demon Kensei
+&GLarak          ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GArkk           ->&w2   &G-&w  17   &G   Rvnum: 4013    Demon Henshin
+&GArkk           ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Henshin
+&GArkk           ->&w4   &G-&w  17   &G   Rvnum: 505     Demon Henshin
+&GArkk           ->&w5   &G-&w  17   &G   Rvnum: 504     Demon Henshin
+&GArkk           ->&w6   &G-&w  18   &G   Rvnum: 504     Demon Henshin
+&GKrankor        ->&w4   &G-&w  20   &G   Rvnum: 2619    Nezumi Bushi
+&GArkk           ->&w7   &G-&w  18   &G   Rvnum: 504     Demon Henshin
+&GIlyaki         ->&w2   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w3   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w4   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w5   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w6   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w7   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w8   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w9   &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w10  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w11  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w12  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w13  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w14  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w15  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w16  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w17  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w18  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w19  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w20  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w21  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w22  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w23  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w24  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w25  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w26  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w27  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w28  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w29  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GIlyaki         ->&w30  &G-&w  17   &G   Rvnum: 10031   Demon Kensei
+&GArkk           ->&w8   &G-&w  18   &G   Rvnum: 504     Demon Henshin
+&GArkk           ->&w9   &G-&w  19   &G   Rvnum: 504     Demon Henshin
+&GKiyu           ->&w2   &G-&w  17   &G   Rvnum: 4044    Demon Kensei
+&GKiyu           ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GSintor         ->&w2   &G-&w  17   &G   Rvnum: 505     Demon Kishi
+&GSintor         ->&w3   &G-&w  17   &G   Rvnum: 505     Demon Kishi
+&GSintor         ->&w4   &G-&w  17   &G   Rvnum: 505     Demon Kishi
+&GKiyu           ->&w4   &G-&w  17   &G   Rvnum: 505     Demon Kensei
+&GTempo          ->&w2   &G-&w  17   &G   Rvnum: 4015    Spirit Shugenja
+&GTempo          ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Shugenja
+&GChihiro        ->&w2   &G-&w  17   &G   Rvnum: 4041    Spirit Kishi
+&GChihiro        ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Kishi
+&GHavok          ->&w2   &G-&w  163  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w3   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w4   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w5   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w6   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w7   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w8   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w9   &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w10  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w11  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w12  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w13  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w14  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w15  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w16  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w17  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w18  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w19  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w20  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w21  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w22  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w23  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w24  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w25  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w26  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w27  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w28  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w29  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GHavok          ->&w30  &G-&w  164  &G   Rvnum: 7       Angel Wu Jen
+&GZonder         ->&w2   &G-&w  17   &G   Rvnum: 4018    Demon Kensei
+&GZonder         ->&w3   &G-&w  17   &G   Rvnum: 4019    Demon Kensei
+&GNonando        ->&w2   &G-&w  17   &G   Rvnum: 4008    Spirit Sohei
+&GNonando        ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Sohei
+&GBrahmus        ->&w2   &G-&w  17   &G   Rvnum: 505     Demon Kensei
+&GBrahmus        ->&w3   &G-&w  17   &G   Rvnum: 505     Demon Kensei
+&GBrahmus        ->&w4   &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w5   &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w6   &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w7   &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w8   &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w9   &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w10  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w11  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w12  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w13  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w14  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w15  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w16  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w17  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w18  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w19  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w20  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w21  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w22  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w23  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w24  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w25  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w26  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w27  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w28  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w29  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GBrahmus        ->&w30  &G-&w  17   &G   Rvnum: 4022    Demon Kensei
+&GLarak          ->&w4   &G-&w  18   &G   Rvnum: 505     Demon Kensei
+&GWhiteDragon    ->&w2   &G-&w  17   &G   Rvnum: 4016    Vanara Bushi
+&GWhiteDragon    ->&w3   &G-&w  17   &G   Rvnum: 4019    Vanara Bushi
+&GBakLung        ->&w2   &G-&w  17   &G   Rvnum: 4003    Spirit Sohei
+&GZania          ->&w2   &G-&w  17   &G   Rvnum: 4002    Spirit Shugenja
+&GZania          ->&w3   &G-&w  17   &G   Rvnum: 4019    Spirit Shugenja
+&GIscaria        ->&w2   &G-&w  17   &G   Rvnum: 505     Vanara Sohei
+&GIscaria        ->&w3   &G-&w  17   &G   Rvnum: 505     Vanara Sohei
+&GIscaria        ->&w4   &G-&w  17   &G   Rvnum: 505     Vanara Sohei
+&GIscaria        ->&w5   &G-&w  18   &G   Rvnum: 505     Vanara Sohei
+&GCratydopolis   ->&w2   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w3   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w4   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w5   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w6   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w7   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w8   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w9   &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w10  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w11  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w12  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w13  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w14  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w15  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w16  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w17  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w18  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w19  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w20  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w21  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w22  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w23  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w24  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w25  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w26  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w27  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w28  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w29  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+&GCratydopolis   ->&w30  &G-&w  17   &G   Rvnum: 7       Angel Bushi
+=======
+&GTommi          ->&w2   &G-&w  17   &G   Rvnum: 4022    Creation Creation
+<<<<<<< .mine
+>>>>>>> .r120
+&GItsume         ->&w2   &G-&w  17   &G   Rvnum: 4016    Creation Creation
+&GItsume         ->&w3   &G-&w  17   &G   Rvnum: 4019    Creation Creation
+&GJandir         ->&w2   &G-&w  17   &G   Rvnum: 4008    Phoenix Bushi
+&GJandir         ->&w3   &G-&w  17   &G   Rvnum: 4019    Phoenix Bushi
+&GBlave          ->&w2   &G-&w  17   &G   Rvnum: 505     Creation Creation
+&GScorch         ->&w2   &G-&w  17   &G   Rvnum: 505     Unicorn Bushi
+=======
+&GTommi          ->&w3   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w4   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w5   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w6   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w7   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w8   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w9   &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w10  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w11  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w12  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w13  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w14  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w15  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w16  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w17  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w18  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w19  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+&GTommi          ->&w20  &G-&w  17   &G   Rvnum: 7       Naga Bushi
+<<<<<<< .mine
+>>>>>>> .r183
+&GTester         ->&w2   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w3   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w4   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w5   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w6   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w7   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w8   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w9   &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w10  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w11  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w12  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w13  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w14  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w15  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w16  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w17  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w18  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w19  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w20  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w21  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w22  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w23  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w24  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w25  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w26  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w27  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w28  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w29  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GTester         ->&w30  &G-&w  17   &G   Rvnum: 7       Creation Creation
+&GHavok          ->&w2   &G-&w  397  &G   Rvnum: 7       Tiger Bushi
+&GIlyaki         ->&w2   &G-&w  42   &G   Rvnum: 7       Badger 
+&GBrahmus        ->&w2   &G-&w  22   &G   Rvnum: 7       Badger 
+&GQinshan        ->&w2   &G-&w  17   &G   Rvnum: 505     Unicorn Shugenja
+=======
+&GKikoh          ->&w2   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w3   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w4   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w5   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w6   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w7   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w8   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w9   &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GKikoh          ->&w10  &G-&w  17   &G   Rvnum: 4021    Dragon Bushi
+&GNahlo          ->&w2   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GNahlo          ->&w3   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GNahlo          ->&w4   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GNahlo          ->&w5   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GBangor         ->&w2   &G-&w  17   &G   Rvnum: 4021    Scorpion Bushi
+&GBangor         ->&w3   &G-&w  17   &G   Rvnum: 4021    Scorpion Bushi
+&GBangor         ->&w4   &G-&w  17   &G   Rvnum: 4021    Scorpion Bushi
+&GBangor         ->&w5   &G-&w  17   &G   Rvnum: 4021    Scorpion Bushi
+&GBangor         ->&w6   &G-&w  17   &G   Rvnum: 4021    Scorpion Bushi
+&GBangor         ->&w7   &G-&w  17   &G   Rvnum: 4021    Scorpion Bushi
+&GLonbo          ->&w2   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w3   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w4   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w5   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w6   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w7   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w8   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w9   &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w10  &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w11  &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GLonbo          ->&w12  &G-&w  17   &G   Rvnum: 4021    Crane Shugenja
+&GJamdon         ->&w2   &G-&w  17   &G   Rvnum: 4021    Naga Shugenja
+&GJamdon         ->&w3   &G-&w  17   &G   Rvnum: 4021    Naga Shugenja
+&GJamdon         ->&w4   &G-&w  17   &G   Rvnum: 4021    Naga Shugenja
+&GJamdon         ->&w5   &G-&w  17   &G   Rvnum: 4021    Naga Shugenja
+&GJamdon         ->&w6   &G-&w  17   &G   Rvnum: 4021    Naga Shugenja
+&GJamdon         ->&w7   &G-&w  17   &G   Rvnum: 4021    Naga Shugenja
+&GAthlos         ->&w2   &G-&w  17   &G   Rvnum: 4021    Badger Bushi
+&GAthlos         ->&w3   &G-&w  17   &G   Rvnum: 4021    Badger Bushi
+&GAthlos         ->&w4   &G-&w  17   &G   Rvnum: 4021    Badger Bushi
+&GAthlos         ->&w5   &G-&w  17   &G   Rvnum: 4021    Badger Bushi
+&GXiahsa         ->&w2   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w3   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w4   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w5   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w6   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w7   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w8   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w9   &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w10  &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GXiahsa         ->&w11  &G-&w  17   &G   Rvnum: 4021    Phoenix Bushi
+&GSoloit         ->&w2   &G-&w  17   &G   Rvnum: 4021    Tiger Shugenja
+&GSoloit         ->&w3   &G-&w  17   &G   Rvnum: 4021    Tiger Shugenja
+&GSoloit         ->&w4   &G-&w  17   &G   Rvnum: 4021    Tiger Shugenja
+&GSoloit         ->&w5   &G-&w  17   &G   Rvnum: 4021    Tiger Shugenja
+&GSoloit         ->&w6   &G-&w  17   &G   Rvnum: 4021    Tiger Shugenja
+&GSoloit         ->&w7   &G-&w  17   &G   Rvnum: 4021    Tiger Shugenja
+&GMiala          ->&w2   &G-&w  17   &G   Rvnum: 4021    Badger Creation
+&GMiala          ->&w3   &G-&w  17   &G   Rvnum: 4021    Badger Creation
+&GMiala          ->&w4   &G-&w  17   &G   Rvnum: 4021    Badger Creation
+&GMiala          ->&w5   &G-&w  17   &G   Rvnum: 4021    Badger Creation
+&GMiala          ->&w6   &G-&w  17   &G   Rvnum: 4021    Badger Creation
+&GVinloa         ->&w2   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GVinloa         ->&w3   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GVinloa         ->&w4   &G-&w  17   &G   Rvnum: 4021    Unicorn Shugenja
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  17   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w1   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w2   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w3   &G-&w  18   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w4   &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w5   &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w6   &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w7   &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w8   &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w9   &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+&GHenry          ->&w10  &G-&w  21   &G   Rvnum: 10040   Dragon Bushi
+>>>>>>> .r226
+&GFendron        ->&w2   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w3   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w4   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w5   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w6   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w7   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w8   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w9   &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w10  &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w11  &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w12  &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w13  &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GFendron        ->&w14  &G-&w  17   &G   Rvnum: 4020    Dragon Bushi
+&GSalslik        ->&w2   &G-&w  17   &G   Rvnum: 4015    Scorpion Bushi
+&GSalslik        ->&w3   &G-&w  17   &G   Rvnum: 4019    Scorpion Bushi
+&GPeeco          ->&w2   &G-&w  17   &G   Rvnum: 505     Badger Bushi
+&GPeeco          ->&w3   &G-&w  17   &G   Rvnum: 505     Badger Bushi
+&GPeeco          ->&w4   &G-&w  18   &G   Rvnum: 505     Badger Bushi
+&GMiala          ->&w1   &G-&w  25   &G   Rvnum: 10040   Badger Bushi
+&GMiala          ->&w2   &G-&w  25   &G   Rvnum: 10040   Badger Bushi
+&GMiala          ->&w3   &G-&w  25   &G   Rvnum: 10040   Badger Bushi
+&GMiala          ->&w4   &G-&w  25   &G   Rvnum: 10040   Badger Bushi
+&GMiala          ->&w5   &G-&w  25   &G   Rvnum: 10040   Badger Bushi
+&GMiala          ->&w6   &G-&w  25   &G   Rvnum: 10040   Badger Bushi
+&GNahlo          ->&w6   &G-&w  28   &G   Rvnum: 505     Unicorn Shugenja
+&GSalslik        ->&w4   &G-&w  22   &G   Rvnum: 505     Scorpion Bushi
+&GVinloa         ->&w5   &G-&w  29   &G   Rvnum: 505     Unicorn Shugenja
+&GBangor         ->&w8   &G-&w  30   &G   Rvnum: 504     Scorpion Bushi
+&GAthlos         ->&w6   &G-&w  30   &G   Rvnum: 505     Badger Bushi
+&GJamdon         ->&w8   &G-&w  31   &G   Rvnum: 504     Naga Shugenja
+&GSalslik        ->&w5   &G-&w  25   &G   Rvnum: 505     Scorpion Bushi
+&GXiahsa         ->&w12  &G-&w  33   &G   Rvnum: 506     Phoenix Bushi
+&GVinloa         ->&w6   &G-&w  34   &G   Rvnum: 505     Unicorn Shugenja
+&GNahlo          ->&w7   &G-&w  35   &G   Rvnum: 505     Unicorn Shugenja
+&GSalslik        ->&w6   &G-&w  28   &G   Rvnum: 505     Scorpion Bushi
+&GLonbo          ->&w13  &G-&w  36   &G   Rvnum: 506     Crane Shugenja
+&GPeeco          ->&w5   &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w6   &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w7   &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w8   &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w9   &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w10  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w11  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w12  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w13  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w14  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w15  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w16  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w17  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w18  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w19  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w20  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w21  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w22  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w23  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w24  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w25  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w26  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w27  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w28  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w29  &G-&w  87   &G   Rvnum: 10000   Badger Bushi
+&GPeeco          ->&w30  &G-&w  87   &G   Rvnum: 10000   Badger Bushi

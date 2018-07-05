@@ -1,0 +1,765 @@
+#SKILL
+Name         reserved~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Code         spell_null
+End
+
+#SKILL
+Name         air spike~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         10
+Rounds       8
+Code         spell_air_spike
+End
+
+#SKILL
+Name         armor~
+Type         Spell
+Info         0
+Flags        512
+Target       2
+Mana         5
+Rounds       8
+Code         spell_armor
+End
+
+#SKILL
+Name         blindness~
+Type         Spell
+Info         0
+Flags        65536
+Target       1
+Mana         5
+Rounds       8
+Code         spell_blindness
+End
+
+#SKILL
+Name         cure blindness~
+Type         Spell
+Info         0
+Flags        65536
+Target       2
+Mana         5
+Rounds       8
+Code         spell_cure_blindness
+End
+
+#SKILL
+Name         cure poison~
+Type         Spell
+Info         0
+Flags        65536
+Target       2
+Mana         5
+Rounds       8
+Code         spell_cure_poison
+End
+
+#SKILL
+Name         curse~
+Type         Spell
+Info         0
+Flags        65536
+Target       1
+Mana         5
+Rounds       8
+Code         spell_curse
+End
+
+#SKILL
+Name         dark hand~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_dark_hand
+End
+
+#SKILL
+Name         detect invis~
+Type         Spell
+Info         0
+Flags        512
+Target       2
+Mana         5
+Rounds       8
+Code         spell_detect_invis
+End
+
+#SKILL
+Name         dirt spike~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Mana         10
+Rounds       8
+Code         spell_dirt_spike
+End
+
+#SKILL
+Name         dispel magic~
+Type         Spell
+Info         0
+Flags        65536
+Target       1
+Mana         10
+Rounds       8
+Code         spell_dispel_magic
+End
+
+#SKILL
+Name         earth blast~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Mana         10
+Rounds       8
+Code         spell_earth_blast
+End
+
+#SKILL
+Name         earthquake~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_earthquake
+End
+
+#SKILL
+Name         enchant armor~
+Type         Spell
+Info         0
+Flags        65536
+Target       4
+Mana         5
+Rounds       8
+Code         spell_enchant_armor
+End
+
+#SKILL
+Name         enchant weapon~
+Type         Spell
+Info         0
+Flags        65536
+Target       4
+Mana         5
+Rounds       8
+Code         spell_enchant_weapon
+End
+
+#SKILL
+Name         fireball~
+Type         Spell
+Info         1
+Flags        65536
+Target       1
+Mana         5
+Rounds       8
+Code         spell_fireball
+End
+
+#SKILL
+Name         flamestrike~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_flamestrike
+End
+
+#SKILL
+Name         flood~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         10
+Rounds       8
+Code         spell_flood
+End
+
+#SKILL
+Name         gas blast~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_gas_blast
+End
+
+#SKILL
+Name         giant strength~
+Type         Spell
+Info         0
+Flags        512
+Target       2
+Mana         10
+Rounds       8
+Code         spell_giant_strength
+End
+
+#SKILL
+Name         haste~
+Type         Spell
+Info         0
+Flags        512
+Target       2
+Mana         5
+Rounds       8
+Code         spell_haste
+End
+
+#SKILL
+Name         heal~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         10
+Rounds       8
+Code         spell_heal
+End
+
+#SKILL
+Name         ice storm~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_ice_storm
+End
+
+#SKILL
+Name         identify~
+Type         Spell
+Info         0
+Flags        65536
+Mana         5
+Rounds       8
+Code         spell_identify
+End
+
+#SKILL
+Name         invisible~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         10
+Rounds       8
+Code         spell_invisible
+End
+
+#SKILL
+Name         palm flare~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         10
+Rounds       8
+Code         spell_palm_flare
+End
+
+#SKILL
+Name         poison~
+Type         Spell
+Info         0
+Flags        196608
+Target       1
+Mana         10
+Rounds       8
+Code         spell_poison
+End
+
+#SKILL
+Name         refresh~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         5
+Rounds       8
+Code         spell_refresh
+End
+
+#SKILL
+Name         remove curse~
+Type         Spell
+Info         0
+Flags        65536
+Target       2
+Mana         5
+Rounds       8
+Code         spell_remove_curse
+End
+
+#SKILL
+Name         sanctuary~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         10
+Rounds       8
+Code         spell_sanctuary
+End
+
+#SKILL
+Name         shield~
+Type         Spell
+Info         0
+Flags        512
+Target       2
+Mana         5
+Rounds       8
+Code         spell_shield
+End
+
+#SKILL
+Name         tangled roots~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         10
+Rounds       8
+Code         spell_root
+End
+
+#SKILL
+Name         tornado~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_tornado
+End
+
+#SKILL
+Name         volcano~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_volcano
+End
+
+#SKILL
+Name         water wall~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         spell_water_wall
+End
+
+#SKILL
+Name         badger style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       4
+Code         spell_null
+End
+
+#SKILL
+Name         brew~
+Type         Skill
+Info         0
+Flags        0
+Target       4
+Mana         5
+Rounds       8
+Code         do_brew
+End
+
+#SKILL
+Name         climb~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         do_climb
+End
+
+#SKILL
+Name         crane style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         disarm~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         do_disarm
+End
+
+#SKILL
+Name         dodge~
+Type         Skill
+Info         0
+Flags        0
+Mana         0
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         dragon style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         enhanced damage~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         front kick~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         do_front_kick
+End
+
+#SKILL
+Name         gouge~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         do_gouge
+End
+
+#SKILL
+Name         grip~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         hook~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Mana         5
+Rounds       8
+Code         do_hook
+End
+
+#SKILL
+Name         jab~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Mana         5
+Rounds       8
+Code         do_jab
+End
+
+#SKILL
+Name         meditate~
+Type         Skill
+Info         0
+Flags        530432
+Target       3
+Mana         5
+Rounds       8
+Code         do_meditate
+End
+
+#SKILL
+Name         mount~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         do_mount
+End
+
+#SKILL
+Name         naga style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       4
+Code         spell_null
+End
+
+#SKILL
+Name         parry~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         peek~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         phoenix style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       4
+Code         spell_null
+End
+
+#SKILL
+Name         punch~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         do_punch
+End
+
+#SKILL
+Name         roundhouse~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         do_roundhouse
+End
+
+#SKILL
+Name         scan~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         do_scan
+End
+
+#SKILL
+Name         scorpion style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         spell_null
+End
+
+#SKILL
+Name         scribe~
+Type         Skill
+Info         0
+Flags        0
+Target       4
+Mana         5
+Rounds       8
+Code         do_scribe
+End
+
+#SKILL
+Name         side kick~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         do_side_kick
+End
+
+#SKILL
+Name         standard style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       4
+Code         spell_null
+End
+
+#SKILL
+Name         study~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       8
+Code         do_study
+End
+
+#SKILL
+Name         stun~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Mana         5
+Rounds       8
+Code         do_stun
+End
+
+#SKILL
+Name         tiger style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       4
+Code         spell_null
+End
+
+#SKILL
+Name         tumble~
+Type         Skill
+Info         0
+Flags        0
+Target       2
+Code         spell_null
+End
+
+#SKILL
+Name         unicorn style~
+Type         Skill
+Info         0
+Flags        0
+Mana         5
+Rounds       4
+Code         spell_null
+End
+
+#SKILL
+Name         dagger~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         hammer~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         polearm~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         sword~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         talon~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         whip~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         clan~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#SKILL
+Name         common~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+End
+
+#END

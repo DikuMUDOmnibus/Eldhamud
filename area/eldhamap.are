@@ -1,0 +1,4107 @@
+#AREA        The Wilderness of Engen Wu~
+#VERSION            2
+#AUTHOR             The_Fury~
+#RANGES             1 30 1 45
+#SPELLLIMIT         0
+#RESETMSG           The Gods give their blessing to the land, and life is restored.~
+#RESETFREQ          20
+#FLAGS              0
+#ECONOMY            0 31250800
+#CONTINENT          xianza~
+#CLIMATE            2 2 2
+
+
+#MOBILES
+#  500
+kappa soldier overland~
+a kappa soldier~
+A kappa soldier is on patrol here.
+~
+~
+
+2 6 3
+0 0 0 0
+1 89 12 12 0
+0 0 0 0 0
+0 0 0
+#  501
+kappa mystic soldier overland~
+a kappa mystic~
+A kappa mystic soldier is on patrol here.
+~
+This small white mouse runs about the dark ground foraging for something to
+eat. Its pointed nose twitches in the air sniffing out any scents that
+lead to food. Dark beady eyes jump back and forth as  its long tail
+swivels in the dirt. 
+~
+
+2 6 4
+0 0 0 0
+1 49 12 12 0
+0 0 0 0 0
+0 0 0
+#  502
+kappa leader overland~
+a kappa leader~
+A kappa leader is here keeping the troops in order.
+~
+This small yellow and black bee flies along the currents of the air in
+search of flowers. Humming within the currents of the wind it gently
+levitates against its weight  
+~
+
+3 6 3
+0 0 0 0
+33 30 12 12 0
+0 0 0 0 0
+0 0 0
+#  503
+kappa general overland~
+a kappa general~
+A kappa general is here surveying the battlefield.
+~
+The dark green color of its skin helps it blend in with the many trees and
+brush in the area. 
+~
+
+4 6 3
+0 0 0 0
+16385 40 12 12 0
+0 0 0 0 0
+0 0 0
+#  504
+kitsune soldier overland~
+a kitsune soldier~
+A kitsune soldier is here on patrol.
+~
+For a wild cat, she is able to find a meal from the ground or stream, or
+air nearby with ease and grace. Vibrant orange fur, sharp claws and quick
+pounce makes this animal a formidable foe.  
+~
+
+6 7 0
+0 0 0 0
+1 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  505
+kitsune mystic soldier overland~
+a kitsune mystic~
+A kitsune mystic is here on patrol.
+~
+A tree of the forest forages the ground with its roots taking in whatever
+elements it needs to grow larger.
+~
+
+6 7 3
+0 0 0 0
+1 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  506
+kitsune leader overland~
+a kitsune leader~
+A kitsune leader is here giving orders.
+~
+~
+
+7 7 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  507
+kitsune general overland~
+a kitsune general~
+A kitsune general is here surveying the battlefield.
+~
+Aside from the discolored grey patches of fur on this, it is still able to
+find a meal from its pudginess on both sides of its stomach. Its long
+slender tail trails from the rest of his body like a dead arm aside from
+it moving left or right once in a while. 
+~
+
+8 7 3
+0 0 0 0
+1 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  508
+black white wasp~
+a black and white wasp~
+A black and white wasp buzzes about dangerously.
+~
+This small black and white wasp buzzes around protecting a nearby  nest
+from intruders. Even though it may seem small, its sting can cause some
+damage. 
+~
+
+2 21 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  509
+earth worm~
+an earth worm~
+A small earth worm is here, trying to hide.
+~
+A small white earth worm crawls about the earth floor, trying
+to hide from the light above ground.
+~
+
+2 63 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  510
+tan spider~
+a small tan spider~
+A small tan spider skuttles about. 
+~
+The brown light down of this small spider catches the sun on its back as it
+swiftly makes its way to find something to eat. 
+~
+
+2 56 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  511
+black crow~
+a black crow~
+A crow circles high above the ground, staying clear of the scarecrows.
+~
+This black glossy bird dives and swoops through the air scouting its next
+meal. Outstretched wings glide above the wind making it effortless to fly.
+~
+
+2 15 3
+0 0 0 0
+1073741825 -40 12 12 0
+0 0 0 0 0
+0 0 0
+#  512
+dark red ant~
+a dark red ant~
+A dark red ant scuddles softly around.
+~
+This ants' body is made completely of reflective dark red bone which is
+able to absorb damage. Its' coal black eyes dart back and forth from
+instinctive nature. 
+~
+
+2 16 3
+0 0 0 0
+1073741825 -49 12 12 0
+0 0 0 0 0
+0 0 0
+#  513
+black enchanted ooze~
+black enchanted ooze~
+A puddle of black ooze moves slowly across the area.
+~
+With acloser look, what looked like a puddle of viscious liquid,the ooze
+seems to make is way around the area with no help. 
+~
+
+2 45 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  514
+black leather bat~
+a black leather bat~
+A black leather bat flutters around.
+~
+When this bat spreads its small shrivelled arms, beautiful soft black
+leather unfolds allowing for the small creature to become airborne. Its
+small pink snout sniffs the air gently as its eyes blink slowly. 
+~
+
+2 19 3
+0 0 0 0
+1073741825 -89 12 12 0
+0 0 0 0 0
+0 0 0
+#  515
+forest monkey~
+a newly created forest monkey~
+Some god abandoned a newly created forest monkey here.
+~
+~
+
+4 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  516
+white sheep~
+a white sheep~
+A fluffy white sheep happily rolls on the ground.
+~
+A white fuzz the color of snow surrounds this sheep. Covering all of its
+features except for its small black eyes, it troddles along to some
+unknown destination. 
+~
+
+4 69 3
+0 0 0 0
+1073741825 199 12 12 0
+0 0 0 0 0
+0 0 0
+#  517
+brown white goat~
+a brown and white goat~
+A brown and white goat nibbles on some grass.
+~
+Brown and white colored patches of wired stiff fur cover the body of this
+animal. Its hooves paw at the dirt while trying to eat a few blades of
+grass. 
+~
+
+4 69 3
+0 0 0 0
+1073741825 34 12 12 0
+0 0 0 0 0
+0 0 0
+#  518
+white starfish~
+a white starfish~
+A white starfish gently floats in the water.
+~
+This odd creature may seem defenseless as its body remains rigid but an
+experienced adventurer knows to be cautious around it. 
+~
+
+4 74 3
+0 0 0 0
+1073741825 100 12 12 0
+0 0 0 0 0
+0 0 0
+#  519
+green yellow bee~
+a green and yellow bee~
+This green and yellow bee flies around looking for nectar.
+~
+The colors green and yellow make up the entirety of this bee. Small
+translucent wings flutter quickly making the buzzing sounds and letting
+any traveller know that its nearby. 
+~
+
+4 21 3
+0 0 0 0
+1073741825 12 12 12 0
+0 0 0 0 0
+0 0 0
+#  520
+brown weasel~
+a brown weasel~
+A brown weasel scavenges for some food.
+~
+This brown furred weasel digs a few holes looking for something to eat
+while sniffing the area for something that may have recently have died.
+~
+
+4 69 3
+0 0 0 0
+1073741825 105 12 12 0
+0 0 0 0 0
+0 0 0
+#  521
+blue fish~
+a blue fish~
+A speckeled blue fish swims gently in the stream.
+~
+The speckeled fish's blue tail flicks back and forth while it swims around
+the stream. 
+~
+
+4 74 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  522
+green tree snake~
+a green tree snake~
+A green tree snake crawls along in the brush and leaves.
+~
+This dark green snake is able to camouflage itself with the leaves 
+and dark dirt on the ground.
+~
+
+4 55 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  523
+animate scarecrow~
+a animate scarecrow~
+An animate scarecrow stands here moving its arms.
+~
+This animate scarecrow made to move by some sorcerer, moves its arms in a
+lame attempt of getting attention or scaring the birds. Made of rags and
+hay it looks ready to fall apart. 
+~
+
+4 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  524
+smooth brown badger~
+a smooth brown badger~
+A smooth brown badger is here digging up a hole.
+~
+Dirt covers parts of this black badger as it digs holes in the ground to
+live in and store its food. 
+~
+
+4 69 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  525
+blue hawk~
+a blue hawk~
+A blue hawk flies high about the treetops.
+~
+This beautiful blue hawk drifts in and out of the wind currents above the
+multitude of trees. Its fast outstretched wings alow it to glide
+effortlessly through the air. 
+~
+
+4 15 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  526
+black toad~
+a black toad~
+A small black toad jumps around the area.
+~
+This small black toad shines oddly as the light reflects off its smooth
+black skin.
+~
+
+4 72 3
+0 0 0 0
+1073741825 -109 12 12 0
+0 0 0 0 0
+0 0 0
+#  527
+screaming hyena~
+a screaming hyena~
+A hyena jumps around screaming.
+~
+Mottled black fur covers this screaming creature as its beady red eyes
+looks around for someone to attack. 
+~
+
+4 69 3
+0 0 0 0
+1073741825 -222 12 12 0
+0 0 0 0 0
+0 0 0
+#  528
+midnight raven~
+a midnight raven~
+This midnight raven stares intently at you with its soulless eyes.
+~
+This evil bird brings a presence of bad luck around it. Its beady coal
+black eyes and outstretched wings make this bird a weary foe. 
+~
+
+4 15 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  529
+crimson scorpion~
+a crimson scorpion~
+A crimson scorpion scuddles about the ground.
+~
+This insectoid creature moves quick and silent waiting to stab a clueless
+traveler with its spiked stinger. 
+~
+
+4 76 3
+0 0 0 0
+1073741825 -299 12 12 0
+0 0 0 0 0
+0 0 0
+#  530
+black worker ant~
+a black worker ant~
+This black worker ant is carrying some food back to its hill.
+~
+This black worker ant quickly makes its way through the wilderness quietly
+as it brings food back to the black ant hill. 
+~
+
+4 16 3
+0 0 0 0
+1073741825 -90 12 12 0
+0 0 0 0 0
+0 0 0
+#  531
+shaggy black dog~
+a shaggy brown dog~
+A shaggy black dog sniffs the air for a scent.
+~
+Big black eyes and long black hair make up the majority of this animal. A
+long wagging tail flies left and right as it prepares to follow another
+scent trail.
+~
+
+6 66 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  532
+barn owl~
+a barn owl~
+This barn owl sleeps on a high brach of a tree.
+~
+Tan and white down feathers fill the wings and body of this rumored
+intelligent bird. Its sharp vision and speed makes this animal a
+formidable opponent. 
+~
+
+6 15 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  533
+white flash spider~
+a white flash spider~
+This spider flashes as it passes by.
+~
+This white spider is known for flashing as it moves when the light hits the
+reflective white skeleton of its body. 
+~
+
+6 56 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  534
+white rabbit~
+a white rabbit~
+A small rabbit hops about on the forest floor.
+~
+This small white haired rabbit jobs quietly around the area
+in search of fresh wild carrots that grow on the forest floor.
+~
+
+6 69 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  535
+forest raccoon~
+a forest raccoon~
+A raccoon scurries around the forest floor searching for food.
+~
+~
+
+6 69 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  536
+hungry tiger~
+a hungry tiger~
+A hungry tiger is own the prowl for its next meal.
+~
+This sleek tiger keep quietly to the shadows as it scouts the 
+area for its prey.
+~
+
+6 67 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  537
+brown bat~
+a brown bat~
+A brown bat is here hanging from a nearby tree branch.
+~
+~
+
+6 19 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  538
+soaring eagle~
+a soaring eagle~
+This eagle soars up in the air within the treetops.
+~
+~
+
+6 15 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  539
+mountain climber~
+a newly created mountain climber~
+Some god abandoned a newly created mountain climber here.
+~
+~
+
+6 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  540
+vulture~
+a newly created vulture~
+Some god abandoned a newly created vulture here.
+~
+~
+
+6 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  541
+forest golem~
+a forest golem~
+A forest golem is here, hiking within the trees.
+~
+~
+
+6 78 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  542
+brown bear~
+a brown bear~
+A brown forest bear lumbers around here.
+~
+~
+
+6 20 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  543
+grumpy imp~
+a grumpy imp~
+A small grumpy imp flies around.
+~
+This small creature can be heard cussing or screaming about something in an
+unintelligent tongue. This spiteful creature would be best left alone.
+~
+
+6 78 3
+0 0 0 0
+1073741825 -299 12 12 0
+0 0 0 0 0
+0 0 0
+#  544
+oversized mosquito~
+an oversized mosquito~
+An oversized mosquito is buzzing around here.
+~
+This annoying mosquito flies side to side looking for its next
+meal.
+~
+
+6 76 3
+0 0 0 0
+1073741825 -100 12 12 0
+0 0 0 0 0
+0 0 0
+#  545
+wandering shadow~
+a wandering shadow~
+A large seething shadow creeps along the ground.
+~
+~
+
+6 49 3
+0 0 0 0
+1073741825 -300 12 12 0
+0 0 0 0 0
+0 0 0
+#  546
+elven traveler~
+an elven traveler~
+A traveler is here looking puzzled and confused.
+~
+This traveler looks confused as it stares at a map muttering to himself.
+Taking a few steps in one direction then jumping to another direction in a
+blind attempt to find the well trodden trail.
+~
+
+8 1 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  547
+forest druid~
+a forest druid~
+A druid dressed in all green who resides in this forest is plucking herbs.
+~
+Garbed in heavy green robe this druid minds her own business as
+she picks fresh herbs for healing ointments. 
+~
+
+8 0 4
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  548
+wolf~
+a mountain wolf~
+A wolf with greasy black hair roams searching for its next meal.
+~
+A dishevelled black wolf makes it way through forest slinking in the dark
+shadows camouflaging its plan of attack. Quick and silent is sniffs the
+area for its next victim. 
+~
+
+8 62 3
+0 0 0 0
+1073741825 40 12 12 0
+0 0 0 0 0
+0 0 0
+#  549
+deer~
+a tame deer~
+A seemingly tame deer prances about oblivious to any danger.
+~
+A beautiful brown deer stands elegantly as it moves effortlessly  through
+the heavy underbrush of the forest. 
+~
+
+8 69 3
+0 0 0 0
+1073741825 45 12 12 0
+0 0 0 0 0
+0 0 0
+#  550
+jungle snake~
+a jungle snake~
+A large jungle snake slithers about in the trees looking for someone to crush.
+~
+This dark green jungle snake is massive and quiet as it slithers upon the
+moist ground. Hissing slightly as it smells the air it looks for its next
+prey.
+~
+
+8 55 3
+0 0 0 0
+1073741825 3 12 12 0
+0 0 0 0 0
+0 0 0
+#  551
+sand mage~
+a sand mage~
+A giant sand mage roams the desert practicing spells.
+~
+This massive sand mage mutters strange words to himself as a faint green
+glow emanates from its body in a burst of energy. Strong currents  of sand
+swirl violently around the mage making the desert his domain.
+~
+
+8 9 9
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  552
+thirsty wanderer~
+a thirsty wanderer~
+A man looking quite thirsty mumbles and walks slowly across the sand.
+~
+A ragged man looking very dehydrated stumbles about the area almost
+delirious.  Dishvelled and wearing nothing but rags this man mumbles to
+himself.
+~
+
+8 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  553
+camel~
+a dessert camel~
+A large camel prances about the desert lacking a rider.
+~
+A large tan colored camel stands steady through the heat of the desert.
+With its outstretched neck it eats some of the light forage of the trees.
+~
+
+8 69 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  554
+carnivorous vines~
+the carnivorous vines~
+Some stringy vines of entanglement waiting to ensnare the unsuspecting.
+~
+Forest jade green vines lay harmlessly over the trees multitude of
+branches. However as prey move near them they slowly inch forward to
+ensnare their victim for a quick meal.
+~
+
+8 78 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  555
+forest pixie~
+a newly created forest pixie~
+Some god abandoned a newly created forest pixie here.
+~
+~
+
+8 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  556
+stone giant~
+a stone giant~
+A large mound of moving rocks is here.
+~
+A massive pile of rocks move in synch to the rest of the pile creating
+close to a humanoid form. This stone giant lurches forward as its
+footprints create a permanent imprint in the dirt. 
+~
+
+8 9 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  557
+foggy illusion~
+a foggy illusion~
+A dark apparition floats ominously above the ground.  
+~
+Made entirely of a dark billowing fog this creature takes on a  vague form.
+Shrouded in a red glow this illusion seeks to torture their victims souls.
+~
+
+8 49 10
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  558
+grey snake~
+a grey snake~
+A rattle snake slithers around the scrub lands shaking its tail.
+~
+~
+
+8 55 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  559
+baby dragon~
+a baby dragon~
+A deep red colored dragon circles high above looking for strays to pick off.
+~
+Deep scarlet colored scales of this dragon shines brilliantly in the light.
+Outstretched wings glide effortlessly upon the wind as its hunts for a
+quick snack.
+~
+
+8 12 9
+0 0 0 0
+1073741825 -250 12 12 0
+0 0 0 0 0
+0 0 0
+#  560
+baby ogre~
+a baby ogre~
+Though rare to see, this massive ogre is covered in mounds of grass.
+~
+This massive ogre is seen slowly hunting for something to eat. It lugs its
+massive body around the hills as his thick skin camoflages to the green
+rocky countryside. 
+~
+
+8 7 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  561
+brown squirrel~
+a brown squirrel~
+A fuzzy, rabid looking squirrel hops around here.
+~
+This small quick squirrel jumps from tree to tree and scurries about the
+ground looking for food to stash away. Its brown fur glints in the sun.
+~
+
+10 70 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  562
+orange black tiger~
+an orange and black tiger~
+A large yellow and black tiger stalks about, waiting to strike.
+~
+Its powerful strong body stealthily moves about the shaddows of  the many
+trees and underbrush. Its vibrant orange and black fur moves lazily in the
+sunlight around the area.
+~
+
+10 67 3
+0 0 0 0
+1073741825 250 12 12 0
+0 0 0 0 0
+0 0 0
+#  563
+midnight jaguar~
+a midnight jaguar~
+A jaguar stalks around silently looking for prey.
+~
+This magnificent creature moves quietly through the shadows  of the
+underbrush. Its senses heightened by the twilight of the night it stalks
+its prey from a safe spot. 
+~
+
+10 67 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  564
+cheetah~
+a desert cheetah~
+A cheetah prances about sniffing the air, trying to stay downwind.
+~
+This agile creature blurs through the forest in an attempts to catch its
+prey by swerving through the heavy roots and vines  of the area. 
+~
+
+10 67 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  565
+patch living water~
+a patch of living water~
+A patch of living water wraps tightly around your ankles increasing the undertoe.
+~
+This magical spring that has seeped through the cracks of the ground takes
+a shape of its own as an entity of the water. Living magic allows this
+spring to have a life of its own.
+~
+
+10 78 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  566
+patch forest hunter~
+a forest hunter~
+A hunter lurks about in the forest looking for the ample time to strike, who is hunting who here?
+~
+Wearing leather clothes from the skins of animals, This hunter has a snack
+of searching out its prey and catching them. Experience over the years
+wears down on his features. 
+~
+
+10 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  567
+giant gorilla~
+a giant gorilla~
+A forest gorilla swings from branch to branch.
+~
+A large, furry gorilla trudges about in the jungle occasionally grabbing a
+hold of a tree branch and swinging gently. This huge forest gorilla gives
+out a large beating cry as it jumps from branch to branch of the many
+heavy trees in the jumgle. Its brown and black fur reflects off the
+sunlight and down into the ground 
+~
+
+10 17 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  568
+colored toucan~
+a colored toucan~
+A pretty colored toucan is perched on a branch here chirping.
+~
+Perched high on a branch this colorful bird sings out a song of the forest.
+It flaps its vast array of colored wings every once in a while to keep its
+balance.
+~
+
+10 15 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  569
+remorhaz~
+a remorhaz~
+A large snake like remorhaz stomps about on the ice, thrashing its head.
+~
+This massive snake stretches its neck to the clouds. :Its scales form a
+pattern of reds, browns and blacks. Bands and diamonds of the skin sparkle
+in the light of the sun.
+~
+
+10 55 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  570
+polar bear~
+a huge white polar bear~
+A polar bear runs about trying to find her cub who is lost in the snow.
+~
+~
+
+10 20 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  571
+swamp orc~
+a newly created swamp orc~
+Though rare to see, this massive swamp ogre is covered in mounds of grass.
+~
+~
+
+10 6 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  572
+haunted ghost~
+a haunting ghost~
+A haunting ghoul is shrouded in a purple light.
+~
+Made of black smoke this ghost wanders amilessly through the wilderness
+looking for fresh pray to haunt and kill for its next meal. A grey and
+black light surrounds this being for disappearing from the sunlight.
+~
+
+10 32 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  573
+crazed orc~
+a crazed orc~
+A crazed orc runs through the swamps screaming war cries.
+~
+~
+
+10 6 3
+0 0 0 0
+1073741825 -250 12 12 0
+0 0 0 0 0
+0 0 0
+#  574
+jungle baboon~
+a jungle baboon~
+A silly baboon swings from tree to tree.
+~
+~
+
+10 17 3
+0 0 0 0
+1073741825 -120 12 12 0
+0 0 0 0 0
+0 0 0
+#  576
+horned owl~
+a horned owl~
+A great horned owl is here.
+~
+This beautiful horned owl sits on one of the high branches of the towering
+trees of the forest. He hoots gently as it serveys the forest grownd for
+its next lunch.
+~
+
+13 15 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  577
+horse~
+a overland horse~
+A large horse with a silky brown coat gallops across the lands.
+~
+This wild horse stands proudly in the clearing. Its thick brown coat
+glimmers in the sun as it gallops to some other area. 
+~
+
+13 79 3
+0 0 0 0
+1073741825 49 12 12 0
+0 0 0 0 0
+0 0 0
+#  578
+roadrunner~
+a desert roadrunner~
+A roadrunner runs really fast across the scrub lands.
+~
+~
+
+13 80 3
+0 0 0 0
+1073741825 89 12 12 0
+0 0 0 0 0
+0 0 0
+#  579
+koala~
+a jungle koala~
+A koala happily climbs from tree to tree eating as he does.
+~
+~
+
+13 0 3
+0 0 0 0
+1073741825 100 12 12 0
+0 0 0 0 0
+0 0 0
+#  580
+kangaroo~
+a jungle kangaroo~
+A kangaroo bounces about happily across the scrub lands.
+~
+~
+
+13 69 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  581
+ice elemental~
+an ice elemental~
+An ice elemental wanders about through its natrual element.
+~
+Made entirely of ice, this elemental wanders across this plane of existence
+freezing whatever it can touch. Admidst the warm weather the ice elemental
+remains permanently cold.
+~
+
+13 78 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  582
+dingo~
+a dingo~
+A dingo runs around wildly enjoying himself.
+~
+~
+
+13 80 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  583
+grey swallow bird~
+a grey swallow bird~
+A large grey swallow flies about in circles in the air.
+~
+~
+
+13 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  584
+wallaby~
+a newly created wallaby~
+A wallaby runs around frantically, searching for something.
+~
+~
+
+13 80 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  585
+white hare~
+a white hare~
+A white hare hops about in a snowy patch, barely visible.
+~
+This small white hare completely camoflages itself against the white snow
+it stands upon. Its small pink nose smells the air as it runs off the
+faint scent of food. 
+~
+
+13 80 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  586
+rattle snake~
+a rattle snake~
+A rattle snake slithers around the scrub lands shaking its tail.
+~
+~
+
+13 55 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  587
+cockroach~
+a brown and black coackroach~
+A cockroach scurries about the blasted land helplessly.
+~
+~
+
+13 76 3
+0 0 0 0
+1073741825 -49 12 12 0
+0 0 0 0 0
+0 0 0
+#  588
+camouflage iguana ~
+a camouflaged iguana~
+An iguana walks slowly around the blasted lands, moving its eyes around slowly.
+~
+~
+
+13 73 3
+0 0 0 0
+1073741825 -188 12 12 0
+0 0 0 0 0
+0 0 0
+#  589
+rogue troll~
+a rogue troll~
+A rouge troll runs around searching for a place to hide.
+~
+This huge troll hunts across the jungle for food to snack on. Lugging
+around his huge wooden club this for looks like a might opponent.
+~
+
+13 8 3
+0 0 0 0
+1073741825 -300 12 12 0
+0 0 0 0 0
+0 0 0
+#  590
+frost giant~
+a frost giant~
+A frost giant slides across the ice, loosing balance every so often.
+~
+This huge giant can slowly make his way through the biggest of blizzards
+and coldest of climates. Its skin and clothes have a light blue tinge from
+the frost that clings to it.
+~
+
+13 9 3
+0 0 0 0
+1073741825 -300 12 12 0
+0 0 0 0 0
+0 0 0
+#  591
+snow leopard~
+a snow leopard~
+A white snow leopard prances about in the snow like the queen she is.
+~
+~
+
+15 67 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  592
+arctic fox~
+an arctic fox~
+A beautiful white arctic fox scrounges in the snow.
+~
+~
+
+15 80 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  593
+white wolf~
+a white wolf~
+A white snarling wolf ready to attack is here.
+~
+~
+
+15 62 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  594
+coyote~
+a wild coyote~
+A large coyote dashes across the grass yipping loudly.
+~
+~
+
+15 80 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  595
+air sprite~
+an air sprite~
+An air sprite dips and dives around with sparks trailing her.
+~
+This young sprite can barely be seen as she zips around so fast that its
+hard to get a good look. Only proof she's been where she is, is by the
+fading trail of sparks.
+~
+
+15 78 3
+0 0 0 0
+1073741825 299 12 12 0
+0 0 0 0 0
+0 0 0
+#  596
+bearded lizard~
+a large lizard~
+A funny lizard with a beard crosses the blasted lands wearily.
+~
+~
+
+15 0 3
+0 0 0 0
+1073741825 150 12 12 0
+0 0 0 0 0
+0 0 0
+#  597
+field mouse~
+a field mouse~
+A field mouse scurries around the grasslands, looking for his burrow.
+~
+~
+
+15 70 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  598
+beetle~
+a beetle~
+A large beetle scurries about trying to not get stepped on.
+~
+~
+
+1 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  599
+heuron~
+a heuron~
+A heuron wanders through the grass carelessly.
+~
+~
+
+15 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  600
+snake~
+a snake~
+A small snake with deadly fangs slithers across the blasted lands.
+~
+~
+
+15 55 3
+0 0 0 0
+1073741825 -100 12 12 0
+0 0 0 0 0
+0 0 0
+#  601
+rattle snake~
+a rattle snake~
+A rattle snake slithers about shaking its tail.
+~
+~
+
+15 55 3
+0 0 0 0
+1073741825 -100 12 12 0
+0 0 0 0 0
+0 0 0
+#  602
+large lizard~
+a large lizard~
+A large lizard trudges through the grass, sniffing the air carefully.
+~
+~
+
+15 72 3
+0 0 0 0
+1073741825 -250 12 12 0
+0 0 0 0 0
+0 0 0
+#  603
+scorpion~
+a scorpion~
+A small scorpion walks through the grass, threatening you with his stinger.
+~
+~
+
+15 76 3
+0 0 0 0
+1073741825 -150 12 12 0
+0 0 0 0 0
+0 0 0
+#  604
+field troll~
+a field troll~
+A field troll stomps around the plains muttering distractedly to itself.
+~
+~
+
+15 0 3
+0 0 0 0
+1073741825 -250 12 12 0
+0 0 0 0 0
+0 0 0
+#  605
+fire sprite~
+a fire sprite~
+A slender sprite surrounded by hot flame spirals about in the air.
+~
+A beautiful young sprite clothed in a fiery red cloth and shroud flitters
+in the air above. An aura of white hot flame surrounds her, better keep
+your distance.
+~
+
+15 4 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  606
+snow yeti~
+a yeti~
+A yeti stomps about looking for some prey to tear apart and slowly consume.
+~
+~
+
+18 0 3
+0 0 0 0
+1073741825 500 12 12 0
+0 0 0 0 0
+0 0 0
+#  607
+polar bear~
+a polar bear~
+A polar bear stomps heavily over the brush and debris.
+~
+A Polar Bear is thrashing wildly about on the trail. Its blue eyes are
+extremely intimidating, but you feel deep within that they are somewhat
+misleading. 
+~
+
+18 20 3
+0 0 0 0
+1073741825 300 12 12 0
+0 0 0 0 0
+0 0 0
+#  608
+spider monkey~
+a spider monkey~
+A spider monkey swings along on it's hands, preoccupied following a bird.
+~
+The spider monkey is a very fast opponent. Its name derives from a variety
+of old fables. 
+~
+
+18 17 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  609
+snowy owl~
+a snowy owl~
+A snowy owl rotates its head and hoots at you.
+~
+~
+
+18 15 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  610
+feathered roc~
+a roc~
+A roc flaps its wings briskly.
+~
+~
+
+18 78 3
+0 0 0 0
+1073741825 400 12 12 0
+0 0 0 0 0
+0 0 0
+#  611
+ice elemental~
+a newly created ice elemental~
+Some god abandoned a newly created ice elemental here.
+~
+~
+
+18 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  612
+orange wolf pup~
+an orange wolf pup~
+This orange wolf pup sniffs the air.
+~
+This orange wolf pup looks happy in its surroundings.
+~
+
+18 62 3
+0 0 0 0
+1073741825 500 12 12 0
+0 0 0 0 0
+0 0 0
+#  613
+yellow dog~
+a yellow dog~
+A small yellow dog sits here looking at you with barred teeth.
+~
+This strange yellow dog looks scrawny and desperate for something to eat.
+Its yellow eyes filled with a crazed look, you may want to leave before he
+attacks. 
+~
+
+18 26 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  614
+spotted dairy cow~
+a spotted cow~
+A wild spotted cow stands here eating grass.
+~
+A large quite cow stands here chewing on grass and flapping its tail to get
+rid of the flies. Its large brown eyes look up once in a while to see who
+is around. 
+~
+
+18 65 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  615
+lamia~
+a lamia~
+A spotted lizard hops around from rock to rock.
+~
+~
+
+18 72 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  616
+black wolf~
+a black wolf~
+A rather large wolf stands here growling here.
+~
+This heavyset wolf looks to be a challenge as its icy blue eyes scan his
+surroundings. Jet black fur covers the entire body making it easily blend
+into the night or dark brush.
+~
+
+18 62 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  617
+tainted ooze~
+a puddle of tainted ooze~
+A puddle of dark tainted ooze spreads everywhere.
+~
+This live ooze is an abomination as it releases potent nauseous sour order
+into the area and spreads its ooze on to anything it can touch.  This live
+ooze is an abomination as it releases potent nauseous sour odour into the
+area and spreads its ooze on to anything it can touch.
+~
+
+18 45 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  618
+red ant~
+a red ant~
+A red ant crawls blindly along, trying with its feelers to make its way along.
+~
+A Red Ant is scuttling along with its red feelers and six legs trying to
+stay  on the path. It can't be more than 5 inches tall, and 7 inches long.
+Its red  skin looks as if its received an extremely bad sunburn.
+~
+
+18 16 3
+0 0 0 0
+1073741825 -39 12 12 0
+0 0 0 0 0
+0 0 0
+#  619
+three-footed otyugh~
+a three-footed otyugh~
+A three-footed Otyugh thrashes blindly, very violently trying to make its way.
+~
+This creature looks like a walking three footed, three headed, Venus Fly
+Trap.  It has no eyes and tiny, miniature protrusions are coming from each
+of its  heads.
+~
+
+18 78 3
+0 0 0 0
+1073741825 -350 12 12 0
+0 0 0 0 0
+0 0 0
+#  620
+earth elemental~
+an earth elemental~
+An earth elemental slowly paces around the area.
+~
+~
+
+18 50 3
+0 0 0 0
+1073741825 -200 12 12 0
+0 0 0 0 0
+0 0 0
+#  621
+water sprite~
+a newly created water sprite~
+Some god abandoned a newly created water sprite here.
+~
+~
+
+20 78 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  622
+grey wolf~
+a newly created grey wolf~
+Some god abandoned a newly created grey wolf here.
+~
+~
+
+20 62 3
+0 0 0 0
+1073741825 225 12 12 0
+0 0 0 0 0
+0 0 0
+#  623
+billy goat~
+a newly created billy goat~
+Some god abandoned a newly created billy goat here.
+~
+~
+
+20 80 3
+0 0 0 0
+1073741825 100 12 12 0
+0 0 0 0 0
+0 0 0
+#  624
+colorful butterfly~
+a newly created colorful butterfly~
+Some god abandoned a newly created colorful butterfly here.
+~
+~
+
+20 76 3
+0 0 0 0
+1073741825 200 12 12 0
+0 0 0 0 0
+0 0 0
+#  625
+wooden dryad~
+a newly created wooden dryad~
+Some god abandoned a newly created wooden dryad here.
+~
+~
+
+20 78 3
+0 0 0 0
+1073741825 600 12 12 0
+0 0 0 0 0
+0 0 0
+#  626
+grey slaad~
+a newly created grey slaad~
+Some god abandoned a newly created grey slaad here.
+~
+~
+
+20 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  627
+draft horse~
+a newly created draft horse~
+Some god abandoned a newly created draft horse here.
+~
+~
+
+20 79 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  628
+winged harpy~
+a newly created winged harpy~
+Some god abandoned a newly created winged harpy here.
+~
+~
+
+20 37 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  629
+sly weasle~
+a newly created sly weasle~
+Some god abandoned a newly created sly weasle here.
+~
+~
+
+20 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  630
+wild lynx~
+a newly created wild lynx~
+Some god abandoned a newly created wild lynx here.
+~
+~
+
+20 67 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  631
+black cat~
+a newly created black cat~
+Some god abandoned a newly created black cat here.
+~
+~
+
+20 25 3
+0 0 0 0
+1073741825 -1000 12 12 0
+0 0 0 0 0
+0 0 0
+#  632
+rabid raccoon~
+a newly created rabid raccoon~
+Some god abandoned a newly created rabid raccoon here.
+~
+~
+
+20 80 3
+0 0 0 0
+1073741825 -400 12 12 0
+0 0 0 0 0
+0 0 0
+#  633
+tribal kobold~
+a newly created tribal kobold~
+Some god abandoned a newly created tribal kobold here.
+~
+~
+
+20 39 3
+0 0 0 0
+1073741825 -600 12 12 0
+0 0 0 0 0
+0 0 0
+#  634
+black raven~
+a newly created black raven~
+Some god abandoned a newly created black raven here.
+~
+~
+
+20 15 3
+0 0 0 0
+1073741825 -300 12 12 0
+0 0 0 0 0
+0 0 0
+#  635
+dwarven derro~
+a newly created dwarven derro~
+Some god abandoned a newly created dwarven derro here.
+~
+~
+
+20 0 3
+0 0 0 0
+1073741825 -435 12 12 0
+0 0 0 0 0
+0 0 0
+#  636
+silver wolf pup~
+a newly created silver wolf pup~
+Some god abandoned a newly created silver wolf pup here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  637
+air elemental~
+a newly created air elemental~
+Some god abandoned a newly created air elemental here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  638
+silver wolf~
+a newly created silver wolf~
+Some god abandoned a newly created silver wolf here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  639
+stripped wasp~
+a newly created stripped wasp~
+Some god abandoned a newly created stripped wasp here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  640
+spit camel~
+a newly created spit camel~
+Some god abandoned a newly created spit camel here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  641
+wild fungus~
+a newly created wild fungus~
+Some god abandoned a newly created wild fungus here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  642
+earth sprite~
+a newly created earth sprite~
+Some god abandoned a newly created earth sprite here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  643
+boxing kangaroo~
+a newly created boxing kangaroo~
+Some god abandoned a newly created boxing kangaroo here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  644
+persian manticore~
+a newly created persian manticore~
+Some god abandoned a newly created persian manticore here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  645
+kelpie~
+a newly created kelpie~
+Some god abandoned a newly created kelpie here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  646
+dark shadow~
+a newly created dark shadow~
+Some god abandoned a newly created dark shadow here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  647
+village sprite~
+a newly created village sprite~
+Some god abandoned a newly created village sprite here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  648
+nil centipede~
+a newly created nil centipede~
+Some god abandoned a newly created nil centipede here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  649
+swamp rat~
+a newly created swamp rat~
+Some god abandoned a newly created swamp rat here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  650
+flame magnim~
+a newly created flame magnim~
+Some god abandoned a newly created flame magnim here.
+~
+~
+
+23 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  651
+summer pixie~
+a newly created summer pixie~
+Some god abandoned a newly created summer pixie here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  652
+animated treant~
+a newly created animated treant~
+Some god abandoned a newly created animated treant here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  653
+basilisk~
+a newly created basilisk~
+Some god abandoned a newly created basilisk here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  654
+golden scorpion~
+a newly created golden scorpion~
+Some god abandoned a newly created golden scorpion here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  655
+spring fairy~
+a newly created spring fairy~
+Some god abandoned a newly created spring fairy here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  656
+arrowhawk~
+a newly created arrowhawk~
+Some god abandoned a newly created arrowhawk here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  657
+ankheg~
+a newly created ankheg~
+Some god abandoned a newly created ankheg here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  658
+sterious~
+a newly created sterious~
+Some god abandoned a newly created sterious here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  659
+animated tornado~
+a newly created animated tornado~
+Some god abandoned a newly created animated tornado here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  660
+komodo dragon~
+a newly created komodo dragon~
+Some god abandoned a newly created komodo dragon here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  661
+aranea~
+a newly created aranea~
+Some god abandoned a newly created aranea here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  662
+vampire man~
+a newly created vampire man~
+Some god abandoned a newly created vampire man here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  663
+shifting phasm~
+a newly created shifting phasm~
+Some god abandoned a newly created shifting phasm here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  664
+shadow pixie~
+a newly created shadow pixie~
+Some god abandoned a newly created shadow pixie here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  665
+winter fairy~
+a newly created winter fairy~
+Some god abandoned a newly created winter fairy here.
+~
+~
+
+25 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  666
+fire azer~
+a newly created fire azer~
+Some god abandoned a newly created fire azer here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  667
+burst animated light~
+a newly created burst animated light~
+Some god abandoned a newly created burst animated light here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  668
+stone gargoyle~
+a newly created stone gargoyle~
+Some god abandoned a newly created stone gargoyle here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  669
+night owl~
+a newly created night owl~
+Some god abandoned a newly created night owl here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  670
+wind spirit~
+a newly created wind spirit~
+Some god abandoned a newly created wind spirit here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  671
+centaur horse~
+a newly created centaur horse~
+Some god abandoned a newly created centaur horse here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  672
+water spirit~
+a newly created water spirit~
+Some god abandoned a newly created water spirit here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  673
+snake diamond rattlesnake~
+a newly created snake diamond rattlesnake~
+Some god abandoned a newly created snake diamond rattlesnake here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  674
+earth spirit~
+a newly created earth spirit~
+Some god abandoned a newly created earth spirit here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  675
+banshee~
+a newly created banshee~
+Some god abandoned a newly created banshee here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  676
+killer vines~
+a newly created killer vines~
+Some god abandoned a newly created killer vines here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  677
+incubus~
+a newly created incubus~
+Some god abandoned a newly created incubus here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  678
+old witch~
+a newly created old witch~
+Some god abandoned a newly created old witch here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  679
+shadowy allie~
+a newly created shadowy allie~
+Some god abandoned a newly created shadowy allie here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  680
+short gorgon~
+a newly created short gorgon~
+Some god abandoned a newly created short gorgon here.
+~
+~
+
+28 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  681
+beauty nymph~
+a newly created beauty nymph~
+Some god abandoned a newly created beauty nymph here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  682
+three-headed chimera~
+a newly created three-headed chimera~
+Some god abandoned a newly created three-headed chimera here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  683
+garida~
+a newly created garida~
+Some god abandoned a newly created garida here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  684
+blazing phoenix~
+a newly created blazing phoenix~
+Some god abandoned a newly created blazing phoenix here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  685
+blazing sphinx~
+a newly created blazing sphinx~
+Some god abandoned a newly created blazing sphinx here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  686
+prismaticl angel~
+a newly created prismaticl angel~
+Some god abandoned a newly created prismaticl angel here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  687
+wolf spider~
+a newly created wolf spider~
+Some god abandoned a newly created wolf spider here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  688
+two-headed effin~
+a newly created two-headed effin~
+Some god abandoned a newly created two-headed effin here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  689
+bob cat assassin~
+a newly created bob cat assassin~
+Some god abandoned a newly created bob cat assassin here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  690
+shadow dancer~
+a newly created shadow dancer~
+Some god abandoned a newly created shadow dancer here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  691
+corrupt druid soul~
+a newly created corrupt druid soul~
+Some god abandoned a newly created corrupt druid soul here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  692
+dream wisp~
+a newly created dream wisp~
+Some god abandoned a newly created dream wisp here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  693
+crazed powerful sorceress~
+a newly created crazed powerful sorceress~
+Some god abandoned a newly created crazed powerful sorceress here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  694
+demon xill~
+a newly created demon xill~
+Some god abandoned a newly created demon xill here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  695
+hell worg~
+a newly created hell worg~
+Some god abandoned a newly created hell worg here.
+~
+~
+
+30 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  799
+c1 portal guardian~
+The guardian~
+The guardian of the C1 portal stands watch over the continent below.~
+~
+
+30 3 3
+3 1 0 0
+3 0 12 12 0
+0 1 1 1 0
+0 0 0
+#0
+
+
+#OBJECTS
+#500
+ancient tomb magic faerie fire~
+an ancient tomb of faerie fire~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+4 -1 -1 -1
+1 6000 200
+'NONE' 'NONE' 'NONE'
+#501
+ancient tomb magic alertness~
+an ancient tomb of alertness~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 7000 200
+'NONE' 'NONE' 'NONE'
+#502
+ancient tomb magic benediction~
+an ancient tomb of benediction~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 7000 200
+'NONE' 'NONE' 'NONE'
+#504
+ancient tomb magic missile~
+an ancient tomb of magic missile~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 7000 200
+'NONE' 'NONE' 'NONE'
+#505
+ancient tomb magic infravision~
+an ancient tomb of infravision~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+6 -1 -1 -1
+1 8000 200
+'infravision' 'NONE' 'NONE'
+#506
+ancient tomb magic create water~
+an ancient tomb of create water~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+8 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#507
+ancient tomb magic earthquake~
+an ancient tomb of earthquake~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+8 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#508
+ancient tomb magic fly flying~
+an ancient tomb of flying~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+9 -1 -1 -1
+1 10000 200
+'fly' 'NONE' 'NONE'
+#509
+ancient tomb magic acid blast~
+an ancient tomb of acid blast~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#510
+ancient tomb magic create fire~
+an ancient tomb of create fire~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#512
+ancient tomb magic invis invisibility~
+an ancient tomb of invis~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 15000 200
+'NONE' 'NONE' 'NONE'
+#513
+ancient tomb magic faerie fog~
+an ancient tomb of faerie fog~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+11 -1 -1 -1
+1 10000 200
+'NONE' 'NONE' 'NONE'
+#514
+ancient tomb magic fireball~
+an ancient tomb of fireball~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+13 -1 -1 -1
+1 12000 200
+'fireball' 'NONE' 'NONE'
+#516
+ancient tomb magic transport~
+an ancient tomb of transport~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+15 -1 -1 -1
+1 12000 200
+'transport' 'NONE' 'NONE'
+#518
+ancient tomb magic protection~
+an ancient tomb of protection~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+17 -1 -1 -1
+1 20000 200
+'protection' 'NONE' 'NONE'
+#519
+ancient tomb magic remove curse~
+an ancient tomb of remove curse~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+17 -1 -1 -1
+1 20000 200
+'remove curse' 'NONE' 'NONE'
+#520
+ancient tomb magic gods blessing~
+an ancient tomb of gods blessing~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 21000 200
+'gods blessing' 'NONE' 'NONE'
+#521
+ancient tomb magic cure blindness~
+an ancient tomb of cure blindness~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 25000 200
+'cure blindness' 'NONE' 'NONE'
+#523
+ancient tomb magic cure poison~
+an ancient tomb of cure poison~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 2000 200
+'cure poison' 'NONE' 'NONE'
+#524
+ancient tomb magic detect poison~
+an ancient tomb of detect poison~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 2000 200
+'NONE' 'NONE' 'NONE'
+#525
+ancient tomb magic remove trap~
+an ancient tomb of remove trap~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+18 -1 -1 -1
+1 2000 200
+'NONE' 'NONE' 'NONE'
+#526
+ancient tomb magic heal~
+an ancient tomb of heal~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 19000 200
+'heal' 'NONE' 'NONE'
+#527
+ancient tomb magic poison~
+an ancient tomb of poison~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+19 -1 -1 -1
+1 22000 200
+'poison' 'NONE' 'NONE'
+#529
+ancient tomb magic acid breath~
+an ancient tomb of acid breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#530
+ancient tomb magic armor~
+an ancient tomb of armor~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'armor' 'NONE' 'NONE'
+#531
+ancient tomb magic fire breath~
+an ancient tomb of fire breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#532
+ancient tomb magic fletch~
+an ancient tomb of fletch~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 42000 200
+'NONE' 'NONE' 'NONE'
+#533
+ancient tomb magic gas breath~
+an ancient tomb of gas breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#534
+ancient tomb magic lightning breath~
+an ancient tomb of lightning breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+20 -1 -1 -1
+1 32000 200
+'NONE' 'NONE' 'NONE'
+#535
+ancient tomb magic refresh~
+an ancient tomb of refresh~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+5 -1 -1 -1
+1 12000 200
+'refresh' 'NONE' 'NONE'
+#537
+ancient tomb magic detect magic~
+an ancient tomb of detect magic~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+24 -1 -1 -1
+1 42000 200
+'detect magic' 'NONE' 'NONE'
+#538
+ancient tomb magic identify~
+an ancient tomb of identify~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+14 -1 -1 -1
+1 52000 200
+'identify' 'NONE' 'NONE'
+#539
+ancient tomb magic detect invis~
+an ancient tomb of detect invis~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+25 -1 -1 -1
+1 62000 200
+'detect invis' 'NONE' 'NONE'
+#540
+ancient tomb magic frost breath~
+an ancient tomb of frost breath~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+25 -1 -1 -1
+1 62000 200
+'NONE' 'NONE' 'NONE'
+#541
+ancient tomb magic iceshield~
+an ancient tomb of iceshield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+25 -1 -1 -1
+1 62000 200
+'iceshield' 'NONE' 'NONE'
+#542
+ancient tomb magic shield~
+an ancient tomb of shield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+29 -1 -1 -1
+1 72000 200
+'shield' 'NONE' 'NONE'
+#543
+ancient tomb magic enchant weapon~
+an ancient tomb of enchant weapon~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 102000 200
+'enchant weapon' 'NONE' 'NONE'
+#544
+ancient tomb magic recharge~
+an ancient tomb of recharge~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 92000 200
+'NONE' 'NONE' 'NONE'
+#545
+ancient tomb magic sanctuary~
+an ancient tomb of sanctuary~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 432000 200
+'sanctuary' 'NONE' 'NONE'
+#546
+ancient tomb magic scry~
+an ancient tomb of scry~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 82000 200
+'scry' 'NONE' 'NONE'
+#547
+ancient tomb magic true sight~
+an ancient tomb of true sight~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+30 -1 -1 -1
+1 92000 200
+'true sight' 'NONE' 'NONE'
+#548
+ancient tomb magic control weather~
+an ancient tomb of control weather~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+32 -1 -1 -1
+1 52000 200
+'NONE' 'NONE' 'NONE'
+#549
+ancient tomb magic create spring~
+an ancient tomb of create spring~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+10 -1 -1 -1
+1 22000 200
+'NONE' 'NONE' 'NONE'
+#550
+ancient tomb magic continual light~
+an ancient tomb of continual light~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+35 -1 -1 -1
+1 23000 200
+'NONE' 'NONE' 'NONE'
+#552
+ancient tomb magic energy drain~
+an ancient tomb of energy drain~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+35 -1 -1 -1
+1 350000 200
+'energy drain' 'NONE' 'NONE'
+#553
+ancient tomb magic fireshield~
+an ancient tomb of fireshield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+35 -1 -1 -1
+1 350000 200
+'fireshield' 'NONE' 'NONE'
+#555
+ancient tomb magic cure critical~
+an ancient tomb of cure critical~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+36 -1 -1 -1
+1 2000 200
+'NONE' 'NONE' 'NONE'
+#556
+ancient tomb magic charm person~
+an ancient tomb of charm person~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+37 -1 -1 -1
+1 370000 200
+'NONE' 'NONE' 'NONE'
+#557
+ancient tomb magic stone skin~
+an ancient tomb of stone skin~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+39 -1 -1 -1
+1 390000 200
+'stone skin' 'NONE' 'NONE'
+#558
+ancient tomb magic blindness~
+an ancient tomb of blindness~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+40 -1 -1 -1
+1 400000 200
+'blindness' 'NONE' 'NONE'
+#559
+ancient tomb magic dispel magic~
+an ancient tomb of dispel magic~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+40 -1 -1 -1
+1 400000 200
+'dispel magic' 'NONE' 'NONE'
+#560
+ancient tomb magic detect hidden~
+an ancient tomb of detect hidden~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+43 -1 -1 -1
+1 43000 200
+'detect hidden' 'NONE' 'NONE'
+#563
+ancient tomb magic sleep~
+an ancient tomb of sleep~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+48 -1 -1 -1
+1 480000 48000
+'NONE' 'NONE' 'NONE'
+#564
+ancient tomb magic demonskin~
+an ancient tomb of demonskin~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+50 -1 -1 -1
+1 500000 50000
+'NONE' 'NONE' 'NONE'
+#565
+ancient tomb magic pass door~
+an ancient tomb of pass door~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+50 -1 -1 -1
+1 500000 50000
+'pass door' 'NONE' 'NONE'
+#566
+ancient tomb magic astral walk~
+an ancient tomb of astral walk~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+60 -1 -1 -1
+1 600000 60000
+'NONE' 'NONE' 'NONE'
+#567
+ancient tomb magic chill touch~
+an ancient tomb of chill touch~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+65 -1 -1 -1
+1 650000 65000
+'NONE' 'NONE' 'NONE'
+#568
+ancient tomb magic shockshield~
+an ancient tomb of shockshield~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+65 -1 -1 -1
+1 650000 65000
+'shockshield' 'NONE' 'NONE'
+#569
+ancient tomb magic farsight~
+an ancient tomb of farsight~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+68 -1 -1 -1
+1 680000 68000
+'NONE' 'NONE' 'NONE'
+#570
+ancient tomb magic call lightning~
+an ancient tomb of call lightning~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#571
+ancient tomb magic curse~
+an ancient tomb of curse~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'curse' 'NONE' 'NONE'
+#572
+ancient tomb magic dispel evil~
+an ancient tomb of dispel evil~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#573
+ancient tomb magic iceshard~
+an ancient tomb of iceshard~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#574
+ancient tomb magic locate object~
+an ancient tomb of locate object~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 1
+70 -1 -1 -1
+1 700000 70000
+'locate object' 'NONE' 'NONE'
+#578
+ancient tomb magic air spike~
+an ancient tomb of air spike~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+12 -1 -1 -1
+1 120000 12000
+'NONE' 'NONE' 'NONE'
+#579
+ancient tomb magic change sex~
+an ancient tomb of change sex~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 200000 20000
+'NONE' 'NONE' 'NONE'
+#580
+ancient tomb magic circle light~
+an ancient tomb of circle of light~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 240000 24000
+'NONE' 'NONE' 'NONE'
+#581
+ancient tomb magic circle dark~
+an ancient tomb of circle of dark~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 630000 63000
+'NONE' 'NONE' 'NONE'
+#582
+ancient tomb magic dancing swords~
+an ancient tomb of dancing swords~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+28 -1 -1 -1
+1 280000 28000
+'NONE' 'NONE' 'NONE'
+#583
+ancient tomb magic detect alignment~
+an ancient tomb of detect alignment~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+16 -1 -1 -1
+1 350000 35000
+'detect alignment' 'NONE' 'NONE'
+#584
+ancient tomb magic dart of fire~
+an ancient tomb of dart of fire~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+65 -1 -1 -1
+1 650000 65000
+'NONE' 'NONE' 'NONE'
+#585
+ancient tomb magic dust storm~
+an ancient tomb of dust storm~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+40 -1 -1 -1
+1 400000 40000
+'NONE' 'NONE' 'NONE'
+#586
+ancient tomb magic flood~
+an ancient tomb of flood~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+17 -1 -1 -1
+1 170000 17000
+'NONE' 'NONE' 'NONE'
+#587
+ancient tomb magic inferno ~
+an ancient tomb of inferno~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+20 -1 -1 -1
+1 20000 2000
+'NONE' 'NONE' 'NONE'
+#588
+ancient tomb magic lava storm~
+an ancient tomb of lava storm~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+33 -1 -1 -1
+1 330000 33000
+'NONE' 'NONE' 'NONE'
+#589
+ancient tomb magic lightning bolt~
+an ancient tomb of lightning bolt~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+0 -1 -1 -1
+1 20000 2000
+'NONE' 'NONE' 'NONE'
+#590
+ancient tomb magic water spike~
+an ancient tomb of water spike~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+48 -1 -1 -1
+1 480000 48000
+'NONE' 'NONE' 'NONE'
+#591
+ancient tomb magic air torrent~
+an ancient tomb of air torrent~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+50 -1 -1 -1
+1 500000 50000
+'NONE' 'NONE' 'NONE'
+#592
+ancient tomb magic wall water~
+an ancient tomb of wall of water~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8256 16385
+8 -1 -1 -1
+1 80000 8000
+'NONE' 'NONE' 'NONE'
+#593
+ancient tomb magic tornado~
+an ancient tomb of tornado~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8192 0
+15 -1 -1 -1
+1 150000 15000
+'NONE' 'NONE' 'NONE'
+#594
+ancient tomb magic create food~
+an ancient tomb of Create Food~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8192 16385
+10 -1 -1 -1
+1 10000 1000
+'NONE' 'NONE' 'NONE'
+#595
+ancient tomb magic summon~
+an ancient tomb of summon~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8192 16385
+70 -1 -1 -1
+1 700000 70000
+'NONE' 'NONE' 'NONE'
+#596
+ancient tomb magic enchant armor~
+an ancient tomb of enchant armor~
+An ancient tomb of powerfull magic has carelessly been left here.~
+~
+2 8192 16385
+25 -1 -1 -1
+1 250000 25000
+'enchant armor' 'NONE' 'NONE'
+#797
+arrow~
+a newly created arrow~
+Some god dropped a newly created arrow here.~
+~
+57 1073741824 257
+0 0 100 0 6 1
+1 0 0
+#798
+long bow~
+a newly created long bow~
+Some god dropped a newly created long bow here.~
+~
+56 1073741824 65
+100 0 50 6 6 6
+1 0 0
+#799
+bone pipe~
+a bone pipe~
+A finely crafted bone pipe~
+~
+30 8192 16385
+5 0 0 2
+3 2450 245
+#0
+
+
+#ROOMS
+#500
+Somewhere in the world of ELdha~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 500 0 0 0
+
+D1
+~
+~
+0 -1 500 0 0 0
+
+D2
+~
+~
+0 -1 500 0 0 0
+
+D3
+~
+~
+0 -1 500 0 0 0
+
+D6
+~
+~
+0 -1 500 0 0 0
+
+D7
+~
+~
+0 -1 500 0 0 0
+
+D8
+~
+~
+0 -1 500 0 0 0
+
+D9
+~
+~
+0 -1 500 0 0 0
+
+S
+#501
+The Region of Sangang~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 501 0 0 0
+
+D1
+~
+~
+0 -1 501 0 0 0
+
+D2
+~
+~
+0 -1 501 0 0 0
+
+D3
+~
+~
+0 -1 501 0 0 0
+
+D6
+~
+~
+0 -1 501 0 0 0
+
+D7
+~
+~
+0 -1 501 0 0 0
+
+D8
+~
+~
+0 -1 501 0 0 0
+
+D9
+~
+~
+0 -1 501 0 0 0
+
+S
+#502
+The Region of Nymeo~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 502 0 0 0
+
+D1
+~
+~
+0 -1 502 0 0 0
+
+D2
+~
+~
+0 -1 502 0 0 0
+
+D3
+~
+~
+0 -1 502 0 0 0
+
+D6
+~
+~
+0 -1 502 0 0 0
+
+D7
+~
+~
+0 -1 502 0 0 0
+
+D8
+~
+~
+0 -1 502 0 0 0
+
+D9
+~
+~
+0 -1 502 0 0 0
+
+S
+#503
+The Region of Jaili~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 503 0 0 0
+
+D1
+~
+~
+0 -1 503 0 0 0
+
+D2
+~
+~
+0 -1 503 0 0 0
+
+D3
+~
+~
+0 -1 503 0 0 0
+
+D6
+~
+~
+0 -1 503 0 0 0
+
+D7
+~
+~
+0 -1 503 0 0 0
+
+D8
+~
+~
+0 -1 503 0 0 0
+
+D9
+~
+~
+0 -1 503 0 0 0
+
+S
+#504
+The Region of Yakongza~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 504 0 0 0
+
+D1
+~
+~
+0 -1 504 0 0 0
+
+D2
+~
+~
+0 -1 504 0 0 0
+
+D3
+~
+~
+0 -1 504 0 0 0
+
+D6
+~
+~
+0 -1 504 0 0 0
+
+D7
+~
+~
+0 -1 504 0 0 0
+
+D8
+~
+~
+0 -1 504 0 0 0
+
+D9
+~
+~
+0 -1 504 0 0 0
+
+S
+#505
+The Region of Xianza~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 505 0 0 0
+
+D1
+~
+~
+0 -1 505 0 0 0
+
+D2
+~
+~
+0 -1 505 0 0 0
+
+D3
+~
+~
+0 -1 505 0 0 0
+
+D6
+~
+~
+0 -1 505 0 0 0
+
+D7
+~
+~
+0 -1 505 0 0 0
+
+D8
+~
+~
+0 -1 505 0 0 0
+
+D9
+~
+~
+0 -1 505 0 0 0
+
+S
+#506
+The Region of Bangoin~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 506 0 0 0
+
+D1
+~
+~
+0 -1 506 0 0 0
+
+D2
+~
+~
+0 -1 506 0 0 0
+
+D3
+~
+~
+0 -1 506 0 0 0
+
+D6
+~
+~
+0 -1 506 0 0 0
+
+D7
+~
+~
+0 -1 506 0 0 0
+
+D8
+~
+~
+0 -1 506 0 0 0
+
+D9
+~
+~
+0 -1 506 0 0 0
+
+S
+#507
+The Region of Konjo~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 507 0 0 0
+
+D1
+~
+~
+0 -1 507 0 0 0
+
+D2
+~
+~
+0 -1 507 0 0 0
+
+D3
+~
+~
+0 -1 507 0 0 0
+
+D6
+~
+~
+0 -1 507 0 0 0
+
+D7
+~
+~
+0 -1 507 0 0 0
+
+D8
+~
+~
+0 -1 507 0 0 0
+
+D9
+~
+~
+0 -1 507 0 0 0
+
+S
+#508
+The Region of Zogang~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 508 0 0 0
+
+D1
+~
+~
+0 -1 508 0 0 0
+
+D2
+~
+~
+0 -1 508 0 0 0
+
+D3
+~
+~
+0 -1 508 0 0 0
+
+D6
+~
+~
+0 -1 508 0 0 0
+
+D7
+~
+~
+0 -1 508 0 0 0
+
+D8
+~
+~
+0 -1 508 0 0 0
+
+D9
+~
+~
+0 -1 508 0 0 0
+
+S
+#509
+The Region of Tangmai~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 509 0 0 0
+
+D1
+~
+~
+0 -1 509 0 0 0
+
+D2
+~
+~
+0 -1 509 0 0 0
+
+D3
+~
+~
+0 -1 509 0 0 0
+
+D6
+~
+~
+0 -1 509 0 0 0
+
+D7
+~
+~
+0 -1 509 0 0 0
+
+D8
+~
+~
+0 -1 509 0 0 0
+
+D9
+~
+~
+0 -1 509 0 0 0
+
+S
+#510
+The realm of Anstalon~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 510 0 0 0
+
+D1
+~
+~
+0 -1 510 0 0 0
+
+D2
+~
+~
+0 -1 510 0 0 0
+
+D3
+~
+~
+0 -1 510 0 0 0
+
+D6
+~
+~
+0 -1 510 0 0 0
+
+D7
+~
+~
+0 -1 510 0 0 0
+
+D8
+~
+~
+0 -1 510 0 0 0
+
+D9
+~
+~
+0 -1 510 0 0 0
+
+S
+#511
+The realm of The Black Tower~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 511 0 0 0
+
+D1
+~
+~
+0 -1 511 0 0 0
+
+D2
+~
+~
+0 -1 511 0 0 0
+
+D3
+~
+~
+0 -1 511 0 0 0
+
+D6
+~
+~
+0 -1 511 0 0 0
+
+D7
+~
+~
+0 -1 511 0 0 0
+
+D8
+~
+~
+0 -1 511 0 0 0
+
+D9
+~
+~
+0 -1 511 0 0 0
+
+S
+#512
+The realm of Port Guston~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 512 0 0 0
+
+D1
+~
+~
+0 -1 512 0 0 0
+
+D2
+~
+~
+0 -1 512 0 0 0
+
+D3
+~
+~
+0 -1 512 0 0 0
+
+D6
+~
+~
+0 -1 512 0 0 0
+
+D7
+~
+~
+0 -1 512 0 0 0
+
+D8
+~
+~
+0 -1 512 0 0 0
+
+D9
+~
+~
+0 -1 512 0 0 0
+
+S
+#513
+The realm of Port Guston~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 513 0 0 0
+
+D1
+~
+~
+0 -1 513 0 0 0
+
+D2
+~
+~
+0 -1 513 0 0 0
+
+D3
+~
+~
+0 -1 513 0 0 0
+
+D6
+~
+~
+0 -1 513 0 0 0
+
+D7
+~
+~
+0 -1 513 0 0 0
+
+D8
+~
+~
+0 -1 513 0 0 0
+
+D9
+~
+~
+0 -1 513 0 0 0
+
+S
+#514
+The realm of Yellonoth~
+If you can read this description online, then something REALLY
+bad has happened, contact the immortals at once.
+You should be seeing the ASCII color map of the continent instead
+of this lousy description :)
+~
+0 268435464 0 
+D0
+~
+~
+0 -1 514 0 0 0
+
+D1
+~
+~
+0 -1 514 0 0 0
+
+D2
+~
+~
+0 -1 514 0 0 0
+
+D3
+~
+~
+0 -1 514 0 0 0
+
+D6
+~
+~
+0 -1 514 0 0 0
+
+D7
+~
+~
+0 -1 514 0 0 0
+
+D8
+~
+~
+0 -1 514 0 0 0
+
+D9
+~
+~
+0 -1 514 0 0 0
+
+S
+#799
+The C1 Portal~
+The shimmering green light of the portal is almost blinding, yet below
+you the view of C1 is completely unobstructed and breathtaking to
+behold.
+~
+0 8 0 
+D5
+~
+~
+536870912 -1 799 500 0 0 0 0
+R M 0 799 1 799
+
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

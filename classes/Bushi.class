@@ -1,0 +1,66 @@
+Name        Bushi~
+Class       1
+Skilladept  95
+Thac0       18
+Thac32      6
+Hpmin       15
+Hpmax       25
+Manamin     15
+Manamax     20
+Movemin     5
+Movemax     15
+Expbase     695
+Skill 'armor' 5 85
+Skill 'cure blindness' 10 85
+Skill 'cure poison' 10 85
+Skill 'detect invis' 10 85
+Skill 'dispel magic' 13 85
+Skill 'earthquake' 7 85
+Skill 'enchant armor' 6 85
+Skill 'enchant weapon' 7 85
+Skill 'flood' 7 85
+Skill 'giant strength' 4 85
+Skill 'haste' 4 85
+Skill 'heal' 5 85
+Skill 'identify' 1 85
+Skill 'invisible' 10 85
+Skill 'refresh' 3 85
+Skill 'remove curse' 16 85
+Skill 'sanctuary' 12 85
+Skill 'shield' 6 85
+Skill 'tornado' 7 85
+Skill 'volcano' 7 85
+Skill 'badger style' 1 95
+Skill 'brew' 6 95
+Skill 'crane style' 1 95
+Skill 'disarm' 1 95
+Skill 'dodge' 6 95
+Skill 'dragon style' 1 95
+Skill 'enhanced damage' 5 95
+Skill 'front kick' 1 95
+Skill 'gouge' 1 95
+Skill 'grip' 1 95
+Skill 'jab' 1 95
+Skill 'meditate' 3 95
+Skill 'mount' 8 95
+Skill 'naga style' 1 95
+Skill 'parry' 6 95
+Skill 'phoenix style' 1 95
+Skill 'punch' 1 95
+Skill 'roundhouse' 1 95
+Skill 'scan' 1 95
+Skill 'scorpion style' 1 95
+Skill 'scribe' 6 95
+Skill 'side kick' 1 95
+Skill 'study' 1 95
+Skill 'stun' 1 95
+Skill 'tiger style' 1 95
+Skill 'unicorn style' 1 95
+Skill 'dagger' 1 95
+Skill 'hammer' 1 95
+Skill 'polearm' 1 95
+Skill 'sword' 1 95
+Skill 'talon' 1 95
+Skill 'whip' 1 95
+Skill 'common' 1 100
+End

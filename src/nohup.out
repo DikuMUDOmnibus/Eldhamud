@@ -1,0 +1,60 @@
+../area/boot.txt: Permission denied.
+../area/boot.txt: Permission denied.
+Abort (core dumped)
+../area/boot.txt: Permission denied.
+Abort (core dumped)
+../area/boot.txt: Permission denied.
+Abort (core dumped)
+../area/boot.txt: Permission denied.
+Port 4600 is already in use.
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Segmentation fault (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+<<<<<<< .mine
+Port 8000 is already in use.
+=======
+Abort (core dumped)
+Abort (core dumped)
+<<<<<<< .mine
+>>>>>>> .r105
+Port 8000 is already in use.
+=======
+Segmentation fault (core dumped)
+Aborted (core dumped)
+Aborted (core dumped)
+Aborted (core dumped)
+Aborted (core dumped)
+Aborted (core dumped)
+Aborted (core dumped)
+Aborted (core dumped)
+>>>>>>> .r120
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Port 8000 is already in use.
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)
+Abort (core dumped)

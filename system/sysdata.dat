@@ -1,0 +1,48 @@
+#SYSTEM
+MudName	     The Fury .PvP.~
+Highplayers    150
+Highplayertime Fri Jun  6 07:49:10 2008~
+Nameresolving  1
+Waitforauth    0
+Readallmail    38
+Readmailfree   31
+Writemailfree  31
+Takeothersmail 38
+Muse           36
+Think          40
+Build          33
+Log            33
+Protoflag      35
+Overridepriv   44
+Msetplayer     36
+Stunplrvsplr   20
+Stunregular    7
+Gougepvp       10
+Gougenontank   15
+Bashpvp        10
+Bashnontank    10
+Dodgemod       2
+Parrymod       2
+Tumblemod      4
+Damplrvsplr    50
+Damplrvsmob    100
+Dammobvsplr    75
+Dammobvsmob    100
+Forcepc        36
+Guildoverseer  ~
+Guildadvisor   ~
+Saveflags      1957
+Savefreq       10
+Bestowdif      10
+BanSiteLevel   31
+BanRaceLevel   31
+BanClassLevel  31
+PetSave	     1
+IdentTries     20
+Pkloot	     0
+Newbie_purge   30
+Regular_purge  180
+Autopurge      1
+End
+
+#END

@@ -1,0 +1,49 @@
+***************************************************************************
+ *  _______  _        ______            _______  _______           ______   *
+ * (  ____ \( \      (  __  \ *\     /*(  ___  )(       )*\     /*(  __  \  *
+ * * (    \/* (      * (  \  )* )   ( ** (   ) ** () () ** )   ( ** (  \  ) *
+ * * (__    * *      * *   ) ** (___) ** (___) ** ** ** ** *   * ** *   ) * *
+ * *  __)   * *      * *   * **  ___  **  ___  ** *(_)* ** *   * ** *   * * *
+ * * (      * *      * *   ) ** (   ) ** (   ) ** *   * ** *   * ** *   ) * *
+ * * (____/\* (____/\* (__/  )* )   ( ** )   ( ** )   ( ** (___) ** (__/  ) *
+ * (_______/(_______/(______/ */     \**/     \**/     \*(_______)(______/  *
+ ****************************************************************************
+ * EldhaMUD Copyright 2003-2005 by Robert Powell (Tommi), Altere.           *
+ *                                                                          *
+ *                                                                          *
+ ***************************************************************************/
+ * o         M A N Y    S P E C I A L    T H A N K S    T O :             o *
+ *           ================================================               *
+ *                                                                          *
+ * I would like to personally thank the Immortal Staff of The Oakland       *
+ * Chronicles, Celest, Altere and Krelowyn, all of whome have been a great  *
+ * help in bringing the EldhaMUD codebase to where it is today. Also to     *
+ * Cynshard, Irrylath and Quidexan, my new fellow coders, who have come on  *
+ * board to take EldhaMUD to even greater heights.                          *
+ *                                                                          *
+ * The following people all deserve mention for code snoppets they have     *
+ * contributed to the community, which has helped teach me to program in C .*
+ * Samson and the whole AFKmud team, for the FUSS packages, many snippets   *
+ * and the AFKmud codebase, all of which have been used in the making of    *
+ * EldhaMUD. The following people for snippets i may or may not have used   *
+ * Garil, Noplex, Aurora, Chaos, Orion Elder, Senir, Saqid, Shogar, Rasmus, *
+ * Gangian, Badastas, Vladaar, Haelyn, Gabriel Androctus, Altair, Belgrath, *
+ * Gareth, Tagith and Mirrodan.                                             *
+ *                                                                          *
+ * A special mention to Nick Gammon and everyone who has ever helped me at  *
+ * http://www.gammon.com.au. Your some of the nicest and most helpfull      *
+ * people i have had the chance of talking too.                             *
+ *                                                                          *
+ * Lastly i would like to thank all the giants whose shoulders i have stood *
+ * apon in bringing EldhaMUD to the public. The Smaug, Merc and Diku teams. *
+ *                                                                          *
+ * Original SMAUG 1.4a written by Thoric (Derek Snider) with Altrag,        *
+ * Blodkai, Haus, Narn, Scryn, Swordbearer, Tricops, Gorog, Rennard,        *
+ * Grishnakh, Fireblade, and Nivek.                                         *
+ *                                                                          *
+ * Original MERC 2.1 code by Hatchet, Furey, and Kahn.                      *
+ *                                                                          *
+ * Original DikuMUD code by: Hans Staerfeldt, Katja Nyboe, Tom Madsen,      *
+ *                                                                          *
+ * o                       -Robert Powell (Tommi)                         o *
+ +--------------------------------------------------------------------------+ 

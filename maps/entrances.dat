@@ -1,0 +1,271 @@
+#ENTRANCE
+ToMap -1
+OnMap 4
+Here 60 48
+There -1 -1
+Vnum 10080
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap -1
+OnMap 4
+Here 50 48
+There -1 -1
+Vnum 10000
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap -1
+OnMap 4
+Here 55 43
+There -1 -1
+Vnum 10033
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap -1
+OnMap 4
+Here 55 53
+There -1 -1
+Vnum 10047
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap 3
+OnMap 4
+Here 0 48
+There 99 48
+Vnum -1
+Prevsector 26
+Area ~
+End
+
+#ENTRANCE
+ToMap 4
+OnMap 3
+Here 99 48
+There 1 48
+Vnum -1
+Prevsector 26
+Area ~
+End
+
+#ENTRANCE
+ToMap 5
+OnMap 4
+Here 99 48
+There 1 48
+Vnum -1
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap 4
+OnMap 5
+Here 0 48
+There 98 48
+Vnum -1
+Prevsector 3
+Area ~
+End
+
+#ENTRANCE
+ToMap 1
+OnMap 4
+Here 55 0
+There 55 98
+Vnum -1
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap 4
+OnMap 1
+Here 55 99
+There 55 1
+Vnum -1
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap 7
+OnMap 4
+Here 55 99
+There 55 1
+Vnum -1
+Prevsector 3
+Area ~
+End
+
+#ENTRANCE
+ToMap 4
+OnMap 7
+Here 55 0
+There 55 98
+Vnum -1
+Prevsector 3
+Area ~
+End
+
+#ENTRANCE
+ToMap 6
+OnMap 1
+Here 0 50
+There 99 50
+Vnum -1
+Prevsector 24
+Area ~
+End
+
+#ENTRANCE
+ToMap 1
+OnMap 6
+Here 99 50
+There 0 50
+Vnum -1
+Prevsector 24
+Area ~
+End
+
+#ENTRANCE
+ToMap 3
+OnMap 6
+Here 50 99
+There 50 0
+Vnum -1
+Prevsector 24
+Area ~
+End
+
+#ENTRANCE
+ToMap 6
+OnMap 3
+Here 50 0
+There 50 99
+Vnum -1
+Prevsector 1
+Area ~
+End
+
+#ENTRANCE
+ToMap 0
+OnMap 3
+Here 50 99
+There 50 0
+Vnum -1
+Prevsector 5
+Area ~
+End
+
+#ENTRANCE
+ToMap 3
+OnMap 0
+Here 50 0
+There 50 99
+Vnum -1
+Prevsector 22
+Area ~
+End
+
+#ENTRANCE
+ToMap 7
+OnMap 0
+Here 99 50
+There 0 50
+Vnum -1
+Prevsector 22
+Area ~
+End
+
+#ENTRANCE
+ToMap 0
+OnMap 7
+Here 0 50
+There 99 50
+Vnum -1
+Prevsector 11
+Area ~
+End
+
+#ENTRANCE
+ToMap 8
+OnMap 7
+Here 99 50
+There 0 50
+Vnum -1
+Prevsector 3
+Area ~
+End
+
+#ENTRANCE
+ToMap 7
+OnMap 8
+Here 0 50
+There 99 50
+Vnum -1
+Prevsector 24
+Area ~
+End
+
+#ENTRANCE
+ToMap 5
+OnMap 8
+Here 50 0
+There 50 99
+Vnum -1
+Prevsector 22
+Area ~
+End
+
+#ENTRANCE
+ToMap 8
+OnMap 5
+Here 50 99
+There 50 0
+Vnum -1
+Prevsector 22
+Area ~
+End
+
+#ENTRANCE
+ToMap 2
+OnMap 5
+Here 51 0
+There 51 99
+Vnum -1
+Prevsector 26
+Area ~
+End
+
+#ENTRANCE
+ToMap 1
+OnMap 2
+Here 0 50
+There 99 50
+Vnum -1
+Prevsector 22
+Area ~
+End
+
+#ENTRANCE
+ToMap 2
+OnMap 1
+Here 99 50
+There 0 50
+Vnum -1
+Prevsector 22
+Area ~
+End
+
+#END

@@ -1,0 +1,56 @@
+/***************************************************************************
+ *  _______  _        ______            _______  _______           ______   *
+ * (  ____ \( \      (  __  \ |\     /|(  ___  )(       )|\     /|(  __  \  *
+ * | (    \/| (      | (  \  )| )   ( || (   ) || () () || )   ( || (  \  ) *
+ * | (__    | |      | |   ) || (___) || (___) || || || || |   | || |   ) | *
+ * |  __)   | |      | |   | ||  ___  ||  ___  || |(_)| || |   | || |   | | *
+ * | (      | |      | |   ) || (   ) || (   ) || |   | || |   | || |   ) | *
+ * | (____/\| (____/\| (__/  )| )   ( || )   ( || )   ( || (___) || (__/  ) *
+ * (_______/(_______/(______/ |/     \||/     \||/     \|(_______)(______/  *
+ ****************************************************************************
+ * EldhaMUD Copyright 2003-2005 by Robert Powell (Tommi), Altere.           *
+ *                                                                          *
+ * With many thanks to our realm staff, Celest and Krelowyn                 *
+ ***************************************************************************/
+                   === Copyright and License Terms ===
+
+Diku Mud is copyright (C) 1990, 1991 by Sebastian Hammer, Michael Seifert,
+Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.  Their license agreement
+is in the file './DIKU/license.diku'.
+
+Merc Diku Mud is a derivative of the original Diku Mud.  Merc Diku Mud contains
+substantial enhancements to Diku Mud.  These enhancements are copyright 1992,
+1993 by Michael Chastain, Michael Quan, and Mitchell Tse.  Their license
+agreement is in the file './MERC/license.merc'.
+
+SMAUG is a derivative of the version 2.1 distribution of Merc Diku Mud.
+SMAUG 1.4 (C) 1994, 1995, 1996, 1998  by Derek Snider 
+SMAUG code team: Thoric, Altrag, Blodkai, Narn, Haus, Scryn, Rennard, 
+Swordbearer, Gorog, Grishnakh, Nivek, Tricops and Fireblade.
+Their license agreement is in the file './SMAUG/license.txt
+
+EldhaMUD is a derivitive of SmaugFUSS1.4a, a bug fixed version of Smaug1.4a.
+EldhaMUD contains substantial enhancements to Smaug/Merc/Diku Mud code, and
+includes code written by the Smaug/Merc/Diku Mud Teams, code supplied by 
+various snippet authors (see credits.txt) and changes and additions made
+by the EldhaMUD Team.
+
+
+In order to use EldhaMUD you must follow the Diku/Merc/Smaug licenses and our license.  
+The exact terms of the Diku license are in the file './DIKU/license.diku'.
+The exact terms of the Merc license are in the file './MERC/license.merc'.
+The exact terms of the Smaug license are in the file './SMAUG/license.txt'.
+
+Our license terms are:
+        -- Copyrights must remain in original source.
+        -- A mention that this is a EldhaMUD based MUD must appear in the
+           login sequence.
+        
+EldhaMUD makes no effort to retain compatibility with any original Diku code,
+Merc code, Smaug code, any patches, upgrades or code snippets or area files.
+
+
+EldhaMUD is copyright (C) 2003-2005 by Robert Powell (Tommi) and Altere. With
+much support from Celest and Krelowyn. Kudos to Irrylath for guidence and also
+to everyone at http://www.gammon.com.au. 
+ 

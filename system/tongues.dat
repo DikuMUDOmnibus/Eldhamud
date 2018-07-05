@@ -1,0 +1,103 @@
+* structure is:
+* #language
+* pre-conversions~
+* alphabet~
+* conversions~
+
+#common
+~
+abcdefghijklmnopqrstuvwxyz~
+~
+
+#default * for any language without a table
+~
+ekjrugtlohfqbxyvndwmaczsip~
+~
+
+#angel
+~
+epcdalbhojcrnmigqfsbuvvxyz~
+~
+
+
+#demon
+~
+iqqdakvtujfwghepcrslybszoz~
+~
+
+#dragon
+~
+ubkdukggagkrzrypkdztibmzgo~
+~
+
+#elf
+~
+ufkdubrgugzpnmugkgztabtzom~
+~
+
+#shaddow
+~
+ufkdubrgugzpnmugkgztabtzom~
+~
+
+#undead
+'ee' 'ou'
+'eth' 'om'
+'ith' 'uuk'
+'ath' 'ohk'
+'uth' 'um'
+'th' 'gn'
+'oo' 'uu'
+'ar' 'arg'
+'en' 'yth'
+'ion' 'um'
+'es' 'ac'
+'you' 'snar'
+'ch' 'k'
+'ul' 'um'
+'ick' 'uk'
+'of' 'tuk'
+'ove' 'aah'
+'ome' 'ask'
+'my' 'mal'
+'me' 'mok'
+'to' 'sek'
+'hi' 'gorg'
+'hello' 'khalok'
+'come' 'kurta'
+'kill' 'vak'
+'with' 'bat'
+'buy' 'muk'
+'take' 'kham'
+'steal' 'kzam'
+~
+oktpabkhugzpnmuxrgztebyzow~
+~
+
+#magical   * emulate say_spell from magic.c
+'ar' 'abra'
+'au' 'kada'
+'bless' 'fido'
+'blind' 'nose'
+'bur' 'mosa'
+'cu' 'judi'
+'de' 'oculo'
+'en' 'unso'
+'light' 'dies'
+'lo' 'hi'
+'mor' 'zak'
+'move' 'sido'
+'ness' 'lacri'
+'ning' 'illa'
+'per' 'duda'
+'ra' 'gru'
+'re' 'candus'
+'son' 'sabru'
+'tect' 'infra'
+'tri' 'cula'
+'ven' 'nofo'
+~
+abqezyopuytrwiasdfghjzxnlk~
+~
+
+#end

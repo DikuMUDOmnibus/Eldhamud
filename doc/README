@@ -1,0 +1,40 @@
+ 
+/***************************************************************************
+ *  _______  _        ______            _______  _______           ______   *
+ * (  ____ \( \      (  __  \ |\     /|(  ___  )(       )|\     /|(  __  \  *
+ * | (    \/| (      | (  \  )| )   ( || (   ) || () () || )   ( || (  \  ) *
+ * | (__    | |      | |   ) || (___) || (___) || || || || |   | || |   ) | *
+ * |  __)   | |      | |   | ||  ___  ||  ___  || |(_)| || |   | || |   | | *
+ * | (      | |      | |   ) || (   ) || (   ) || |   | || |   | || |   ) | *
+ * | (____/\| (____/\| (__/  )| )   ( || )   ( || )   ( || (___) || (__/  ) *
+ * (_______/(_______/(______/ |/     \||/     \||/     \|(_______)(______/  *
+ ****************************************************************************
+ * EldhaMUD Copyright 2003-2005 by Robert Powell (Tommi), Altere.           *
+ *                                                                          *
+ * With many thanks to our realm staff, Celest and Krelowyn                 *
+ ***************************************************************************/
+ 
+ As with many other muds and codebases, ELdhaMUD has very, very poor documentation,
+ this is mostly because i have been lazy and because i have been teaching myself
+ to code.
+ 
+ I have tryed to contact most of the snippet authors for redistubution permission
+ and to credit you for your work, if you feel you have been hard done by and that
+ i have not followed your licience, or credited you in a way you feel happy with,
+ then please feel free to contact me eldhamud@gmail.com and i will do whatever i
+ can you fullfill your wishes.
+ 
+ I will be offering minimal support via the forums at http://www.eldhamud.org
+ I cannot say that i will be able to help, but i will try my best to do so.
+ 
+ This code has bugs in it, make no mistake about it, there are bugs and it will
+ crash from time to time, this is an older version of the code that i currently
+ run. What i can say tho is the bugs are not hard to fix, you will get 4 odd days
+ uptime befor a crash and the next release of this code will be much more stable.
+ 
+ Oh and i can say this also, the next version will break many things and will not
+ be very compatable with this version of eldhamud.
+ 
+ Thank you,
+ 
+ Robert Powell, aka Tommi of EldhaMUD, The Oakland Chronicles.

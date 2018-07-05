@@ -1,0 +1,2111 @@
+#AREA        The Engen Wu Academy~
+#VERSION            2
+#AUTHOR             The Fury~
+#RANGES             1 30 1 45
+#SPELLLIMIT         0
+#RESETMSG           A gong sounds marking the passing of time.~
+#RESETFREQ          20
+#FLAGS              0
+#ECONOMY            0 178863
+#CONTINENT          xianza~
+#CLIMATE            2 2 2
+
+
+#MOBILES
+#  10000
+master Wun Ho restringer~
+Wun Ho~
+Master item restringer Wun Ho.
+~
+~
+
+45 0 3
+0 0 0 0
+2051&64 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10001
+master quest Qui Ling~
+Qui Ling~
+Master of quests Qui Ling.
+~
+~
+
+45 1 3
+0 0 0 0
+2051&2 0 12 12 1
+0 0 0 0 0
+0 0 0
+#  10002
+Houjin light merchant~
+Houjin~
+Master light craftsman Houjin.
+~
+~
+
+45 5 4
+0 0 0 0
+2051 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10003
+banker menhyao~
+banker menhyao~
+Master banker Menhyao.
+~
+~
+
+45 3 3
+0 0 0 0
+-2147481597 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10004
+master container craftsman Suijo~
+Suijo the container craftsman~
+Master Suijo the container craftsman.
+~
+~
+
+45 3 3
+0 0 0 0
+2051 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10005
+healer peng~
+healer Peng~
+Master healer Peng.
+~
+~
+
+45 0 3
+0 0 0 0
+2051&16 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10006
+potion merchant Shunyuan~
+shunyuan~
+Master of potions, Shunyuan.
+~
+~
+
+45 4 3
+0 0 0 0
+2051 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10007
+blacksmith Zongmeng~
+a newly created repair merchant Zongmeng~
+Master Blacksmith Zongmeng.
+~
+~
+
+45 2 3
+0 0 0 0
+2051 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10008
+general merchant chaoxiang~
+merchant Chaoxiang~
+General supplies merchant Chaoxiang.
+~
+~
+
+45 0 3
+0 0 0 0
+2051 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10009
+treasure dealer Dingxiang~
+Dingxiang~
+Treasure dealer, Dingxiang.
+~
+~
+
+45 5 3
+0 0 0 0
+67111939&128 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10010
+death faction guard~
+a death faction guard~
+A Death Faction guard stands here.
+~
+~
+
+45 0 3
+0 0 0 0
+1073741827 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10011
+death faction treasure dealer~
+the treasure dealer~
+The Death Faction treasure dealer.
+~
+~
+
+45 0 3
+0 0 0 0
+3 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10012
+kensei weapon dealer~
+Master Qinji~
+Qinji kensai weapons dealer.
+~
+~
+
+45 0 3
+0 0 0 0
+3 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10013
+kensai trainer~
+Kiuan physical ability trainer~
+Kiuan the physical ability trainer.
+~
+~
+
+45 0 3
+0 0 0 0
+1027&144 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10014
+kensai armor sales~
+Gowlan the armor merchant~
+Gowlan the armor merchant.
+~
+~
+
+45 0 3
+0 0 0 0
+3 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10015
+wu jen armor sales~
+Sailkan the armor merchant~
+Sailkan the Wu Jen armor merchant.
+~
+~
+
+45 0 3
+0 0 0 0
+3 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10016
+Hojiha mental ability trainer~
+Hojiha mental ability trainer~
+Hojiha mental ability trainer.
+~
+~
+
+45 0 3
+0 0 0 0
+1027&144 0 12 12 0
+0 0 0 0 0
+0 0 0
+#  10099
+last mobile~
+a newly created last mobile~
+Some god abandoned a newly created last mobile here.
+~
+~
+
+1 0 3
+0 0 0 0
+1073741825 0 12 12 0
+0 0 0 0 0
+0 0 0
+#0
+
+
+#OBJECTS
+#10000
+burbling stream circle waterfall~
+a gently flowing stream~
+A burbling stream complete with waterfalls cuts in a circle around the center of the courtyard.~
+~
+25 0 0
+30000 30000 0 0
+1 0 0
+E
+fountain stream burbling waterfall~
+A gentle stream cuts through the center of the academy, its bottom lined
+with smooth stones. Several waterfalls drop sharply along its length, but
+the water itself is clear and placid in several places. Staring at it for
+long makes one thirsty. 
+~
+#10001
+small leather backpack~
+a small leather backpack~
+A small leather backpack.~
+~
+15 8192 9
+400 3 0 13
+1 1500 150
+#10002
+medium leather backpack~
+a medium leather backpack~
+A medium leather backpack.~
+~
+15 8192 9
+800 3 0 13
+1 3000 300
+#10003
+large leather backpack~
+a large leather backpack~
+A large leather backpack.~
+~
+15 8192 9
+1600 3 0 13
+1 5000 500
+#10004
+small timber chest~
+a small timber chest~
+A small timber chest.~
+~
+15 8192 9
+400 3 0 13
+1 7500 750
+#10005
+medium timber chest~
+a medium timber chest~
+A medium timber chest.~
+~
+15 8192 9
+800 3 0 13
+1 10000 1000
+#10006
+large timber chest~
+a large timber chest~
+A large timber chest.~
+~
+15 8192 9
+1600 3 0 13
+1 15000 1500
+#10007
+paper lantern~
+a small paper lantern~
+A small paper lantern.~
+~
+1 40961 2049
+13 0 300 0
+1 200 20
+#10008
+bamboo lantern~
+a small bamboo lantern~
+A small bamboo lantern.~
+~
+1 8193 2049
+13 0 400 0
+1 500 50
+#10009
+brass lantern~
+a small brass lantern~
+A small brass lantern.~
+~
+1 40961 2049
+13 0 500 0
+1 1000 100
+#10010
+potion health~
+a potion of health~
+A potion of health.~
+~
+10 8192 1
+6 -1 -1 -1
+1 150 15
+'heal' 'heal' 'NONE'
+#10011
+small water flask~
+a small water flask~
+A small water flask.~
+~
+17 8192 1
+300 5 0 13
+10 700 70
+#10012
+medium water flask~
+a medium water flask~
+A medium water flask.~
+~
+17 8192 1
+300 15 0 13
+10 1000 100
+#10013
+large water flask~
+a large water flask~
+A large water flask.~
+~
+17 8192 1
+300 30 0 13
+10 2000 200
+#10014
+brass sai~
+a brass sai~
+A brass sai.~
+~
+5 8192 65
+13 0 0 6 2 5
+1 2500 250
+#10015
+steel tanto dagger~
+a steel tanto dagger~
+A steel tanto dagger.~
+~
+5 8192 65
+13 0 0 2 2 10
+15 5000 500
+#10016
+silver blade~
+a silver blade~
+A silver blade.~
+~
+5 8192 65
+13 0 0 1 2 15
+15 7500 750
+#10017
+polished knife~
+a polished knife~
+A polished knife.~
+~
+5 8192 65
+13 0 0 2 2 20
+15 10000 1000
+#10018
+butterfly knives~
+a set of butterfly knives~
+A set of butterfly knives.~
+~
+5 8192 65
+13 0 0 2 2 25
+15 12500 1250
+#10019
+sacrificial dagger~
+a sacrificial dagger~
+Some god dropped a newly created sacrificial dagger here.~
+~
+5 8192 65
+13 0 0 1 2 30
+15 15000 1500
+#10099
+last object~
+a newly created last object~
+Some god dropped a newly created last object here.~
+~
+13 16777216 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#10000
+The hall of Life portals~
+~
+0 1036 0 
+D1
+~
+~
+0 0 10002 0 0 0
+
+D3
+~
+~
+536870912 -1 10000 1 49 48
+
+> rand_prog 100~
+mppurge
+~
+|
+
+S
+#10001
+Life Faction Portals Room L1 - L15~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10002 0 0 0
+
+S
+#10002
+The hall of Life portals~
+The soft blue glow of the wall lights illuminate the area. A finely wrought
+iron staircase winds its way up higher into the life faction housing sector.
+Intricate figures have been cast into the balustrade depicting serene scenes
+and other virtuous things.
+~
+0 1036 0 
+D0
+~
+~
+0 0 10001 0 0 0
+
+D1
+~
+~
+0 0 10008 0 0 0
+
+D2
+~
+~
+0 0 10003 0 0 0
+
+D3
+~
+~
+0 0 10000 0 0 0
+
+D4
+~
+~
+0 -1 2500 1 0 0
+
+S
+#10003
+Life Faction Portals Room L15 - L30~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10002 0 0 0
+
+S
+#10004
+Bushi Armor~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10007 0 0 0
+
+S
+#10005
+Shugenja Weapons~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10009 0 0 0
+
+S
+#10006
+Life Faction: Physical Abilities~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10007 0 0 0
+
+S
+#10007
+Life Faction: Physical Focus~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10006 0 0 0
+
+D1
+~
+~
+0 0 10011 0 0 0
+
+D2
+~
+~
+0 0 10008 0 0 0
+
+D3
+~
+~
+0 0 10004 0 0 0
+
+S
+#10008
+The Academy West Precinct: Decay Faction~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10007 0 0 0
+
+D1
+~
+~
+0 0 10013 0 0 0
+
+D2
+~
+~
+0 0 10009 0 0 0
+
+D3
+~
+~
+0 0 10002 0 0 0
+
+S
+#10009
+Life Faction: Mental Focus~
+~
+0 8 0 
+D0
+~
+~
+0 0 10008 0 0 0
+
+D1
+~
+~
+0 0 10012 0 0 0
+
+D2
+~
+~
+0 0 10010 0 0 0
+
+D3
+~
+~
+0 0 10005 0 0 0
+
+S
+#10010
+Life Faction: Mental Abilities~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10009 0 0 0
+
+S
+#10011
+Bushi Weapons~
+~
+0 1032 0 
+D3
+~
+~
+0 0 10007 0 0 0
+
+S
+#10012
+Shugenja Armor~
+~
+0 1032 0 
+D3
+~
+~
+0 0 10009 0 0 0
+
+S
+#10013
+The Hall Of Serenity~
+~
+0 1024 0 
+D1
+~
+~
+0 0 10014 0 0 0
+
+D3
+~
+~
+0 0 10008 0 0 0
+
+S
+#10014
+The Hall Of Serenity~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10019 0 0 0
+
+D3
+~
+~
+0 0 10013 0 0 0
+
+S
+#10015
+Death Faction: Mental Abilities~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10017 0 0 0
+R M 1 10016 1 10015
+
+S
+#10016
+Wu Jen Armors~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10017 0 0 0
+R M 1 10015 1 10016
+
+S
+#10017
+Death Faction: Mental Focus~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10016 0 0 0
+
+D1
+~
+~
+0 0 10035 0 0 0
+
+D2
+~
+~
+0 0 10018 0 0 0
+
+D3
+~
+~
+0 0 10015 0 0 0
+
+S
+#10018
+Wu Jen Weapons~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10017 0 0 0
+
+S
+#10019
+The Hall Of Serenity~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10029 0 0 0
+
+D3
+~
+~
+0 0 10014 0 0 0
+
+S
+#10020
+Decay Faction: Mental Abilities~
+The wind which sweeps the room east of here appears to originate from this
+chamber. You are in a straw-roofed hut with various pews lining the
+entrance, all the way to the western end of the chamber. At the chambers
+end, a monk shrouded in black garments summons up showers of wind, with
+blue sparks flying from his fingertips, and teaches several lesser monks
+the magicks of decay. Against the podium where he stands is a man on a
+crucifix, several monks flaying the flesh from his body with whips. The
+darkness seems to stir with a life of its own in this chamber, and one can
+feel the presence of dark magick in the swift beating of the winds.
+~
+0 1024 0 
+D1
+~
+~
+0 0 10024 0 0 0
+
+S
+#10021
+Office of Questing~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10028 0 0 0
+R M 0 10001 1 10021
+
+S
+#10022
+Container Sales~
+~
+0 1024 0 
+D1
+~
+~
+0 0 10030 0 0 0
+R M 0 10004 1 10022
+  R G 0 10006 1
+  R G 0 10005 1
+  R G 0 10004 1
+  R G 0 10003 1
+  R G 0 10002 1
+  R G 0 10001 1
+
+S
+#10023
+Henshin Armor~
+You are in a small hut with a straw rooftop. The walls are lined with
+various light armors, and water drips from the ceiling at a steady plunk.
+The building is in a state of disrepair, and looks as thought it could use
+some fixing. Behind the counter to the north lies a grim-faced monk,
+selling armors to those who would delve into the magicks of decay. 
+~
+0 1024 0 
+D2
+~
+~
+0 0 10024 0 0 0
+
+S
+#10024
+Death Faction: Mental Focus~
+The wooden floor drops sharply off here, and you find yourself in a room
+with a dirt floor. Earthworms squirm through the surface of the muddy
+ground, and a certain nauseous aroma permeates the air. The wind sweeps
+through the surrounding area, seemingly directionless, but with an intense
+sense of purpose. To the north, west, and south are several wooden huts.
+Several monks sit in silent contemplation of a pile of decaying corpses
+that lie at the center of the room, their eyes never shifting, and their
+faces pale and ghastly. 
+~
+0 1024 0 
+D0
+~
+~
+0 0 10023 0 0 0
+
+D1
+~
+~
+0 0 10045 0 0 0
+
+D2
+~
+~
+0 0 10025 0 0 0
+
+D3
+~
+~
+0 0 10020 0 0 0
+
+S
+#10025
+Henshin Weapons~
+You are in a small, wooden hut with a straw rooftop overhead. The walls of
+the hut are lined with various maces, cudgels, and hammers, and the
+building looks as if it could collapse at any moment! A small counter lies
+to the south, with a wispy looking man behind it, ready to sell his wares.
+Water drips from the ceiling, and one gets the feeling that they are
+unwelcome here, despite the nonchalance of the owner.
+~
+0 1024 0 
+D0
+~
+~
+0 0 10024 0 0 0
+
+S
+#10026
+Death Faction Portal Room L1 - L15~
+~
+0 1024 0 
+D1
+~
+~
+0 0 10034 0 0 0
+
+S
+#10027
+Office of Re-Stringing~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10028 0 0 0
+R M 0 10000 1 10027
+
+S
+#10028
+Engen Wu Academy Center Square~
+You are at the north-west end of Engen Wu Academy Square. Cherry blossoms
+line the walkways which spiral east and south from here, around a stream
+in the center of the square. To the north lies the item restringer, and to
+the west the master of quests. 
+~
+0 1024 1 
+D0
+~
+~
+0 0 10027 0 0 0
+
+D1
+~
+~
+0 0 10039 0 0 0
+
+D2
+~
+~
+0 0 10029 0 0 0
+
+D3
+~
+~
+0 0 10021 0 0 0
+
+S
+#10029
+Engen Wu Academy Center Square~
+You are at the west end of the garden of Engen Wu Academy. The scent of
+cherry blossoms floats through the air with a faint aroma, and to the east
+you can make out what appears to be a stream filled with running water. To
+the west lies a tunnel with monks meditating in serene silence on either
+side of it. A feeling of peace emanates from the hallway, and burning
+candles light the darkness.
+~
+0 1024 1 
+D0
+~
+~
+0 0 10028 0 0 0
+
+D1
+~
+~
+0 -1 10040 0 0 0
+
+D2
+~
+~
+0 0 10030 0 0 0
+
+D3
+~
+~
+0 0 10019 0 0 0
+
+S
+#10030
+Engen Wu Academy Center Square~
+You are at the south-west end of Engen Wu Academy Square. Cherry blossoms
+line the walkways which spiral north and east from here, around a stream
+in the center of the square. To the south lies the light salesman, and to
+the west the container craftsman. 
+~
+0 1024 1 
+D0
+~
+~
+0 0 10029 0 0 0
+
+D1
+~
+~
+0 0 10041 0 0 0
+
+D2
+~
+~
+0 0 10031 0 0 0
+
+D3
+~
+~
+0 0 10022 0 0 0
+
+S
+#10031
+Light Sales~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10030 0 0 0
+R M 0 10002 1 10031
+  R G 0 10008 1
+  R G 0 10009 1
+  R G 0 10007 1
+
+S
+#10032
+Decay Faction Portals Room L15 - L30~
+A blackened portal stands in the center of this room, tinged with purple
+veins. It hums with the dark glow of black magick. The portal seems to tug
+on your armor with a life of its own, whilst pulsing with an insect-like
+buzz. The vortiginous depths seem to hint at some world beyond our own,
+and one would have to be very brave to enter them, indeed.
+~
+0 1024 0 
+D1
+~
+~
+0 0 10046 0 0 0
+
+S
+#10033
+Academy North Precinct, Death Faction~
+~
+0 1028 0 
+D0
+~
+~
+536870912 -1 10033 1 55 42
+
+D2
+~
+~
+0 0 10034 0 0 0
+
+> rand_prog 100~
+mppurge
+~
+|
+
+S
+#10034
+The Academy North Precinct: Death Faction~
+The dull deep crimson glow from the wall lights illuminate the heavy pine
+staircase spirals up higher into the death faction housing sector. The dance
+and movement of flames combined with the deathly silence gives this place an
+eerie and unnatural feel.
+~
+0 1028 0 
+D0
+~
+~
+0 0 10033 0 0 0
+
+D1
+~
+~
+0 0 10048 0 0 0
+
+D2
+~
+~
+0 0 10035 0 0 0
+
+D3
+~
+~
+0 0 10026 0 0 0
+
+D4
+~
+~
+0 -1 2000 1 0 0
+
+S
+#10035
+The Academy North Precinct: Death Faction~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10034 0 0 0
+
+D1
+~
+~
+0 0 10062 0 0 0
+
+D2
+~
+~
+0 0 10036 0 0 0
+
+D3
+~
+~
+0 0 10017 0 0 0
+R M 0 10011 1 10035
+
+S
+#10036
+The Hall Of Sorrows~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10035 0 0 0
+
+D2
+~
+~
+0 0 10037 0 0 0
+R M 0 10010 1 10036
+
+S
+#10037
+The Hall Of Sorrows~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10036 0 0 0
+
+D2
+~
+~
+0 0 10038 0 0 0
+
+S
+#10038
+The Hall Of Sorrows~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10037 0 0 0
+
+D2
+~
+~
+0 0 10039 0 0 0
+
+S
+#10039
+Engen Wu Academy Center Square~
+You are at the north end of the garden of Engen Wu Academy. The scent of
+cherry blossoms floats through the air with a faint aroma, and to the
+south you can make out what appears to be a stream filled with running
+water. To the north lies a tunnel lined with boiling cauldrons, above the
+entranceway the symbol of a blazing scimitar.
+~
+0 1024 1 
+D0
+~
+~
+0 0 10038 0 0 0
+
+D1
+~
+~
+0 0 10050 0 0 0
+
+D2
+~
+~
+0 -1 10040 0 0 0
+
+D3
+~
+~
+0 0 10028 0 0 0
+
+S
+#10040
+Center of the Engen Wu Academy~
+You are at the center of the venerable Engen Wu Academy. The courtyard of
+this vast and crumbling citadel is a great garden, dotted with cherry
+blossom trees in full bloom. Through the center of the courtyard flows a
+gentle stream, burbling its way in a circular path around around an
+esoteric glyph set at the center of the courtyard, a mosaic which depicts
+the four factions found within the strange temple. The glyph is divided
+into four parts, the northern piece depicting a flaming scimitar, the east
+a mirage of potted bonsai trees, the south a melancholy corpse hanging
+from a meat hook, and the west a being of light in a state of bliss on a
+silken meditation mat.
+~
+0 1032 1 
+D0
+~
+door~
+0 -1 10039 0 0 0
+
+D1
+~
+door~
+0 -1 10051 0 0 0
+
+D2
+~
+door~
+0 -1 10041 0 0 0
+
+D3
+~
+door~
+0 -1 10029 0 0 0
+
+D4
+~
+~
+0 -1 10091 1 0 0
+
+D5
+~
+~
+0 -1 10081 1 0 0
+R M 0 10009 1 10040
+R O 0 10000 1 10040
+
+S
+#10041
+Engen Wu Academy Center Square~
+You are at the south end of the garden of Engen Wu Academy. The scent of
+cherry blossoms floats through the air with a faint aroma, and to the
+north you can make out what appears to be a stream filled with running
+water. To the south lies a dark hallway, above it pinned a man in
+spread-eagle position, his limbs rotted and blackened.
+~
+0 1024 1 
+D0
+~
+~
+0 -1 10040 0 0 0
+
+D1
+~
+~
+0 0 10052 0 0 0
+
+D2
+~
+~
+0 0 10042 0 0 0
+
+D3
+~
+~
+0 0 10030 0 0 0
+
+S
+#10042
+The Hall Of Despair~
+You are in the hall of despair. All is darkness here, cloaked in a sheen of
+floating shadows. To the east and west of you, on several pikes, are
+several decaying heads that appear to have been impaled and allowed to rot
+and fester. The hall of despair continues to the south, and to the north
+lies a courtyard filled with cherry trees and burbling water.
+~
+0 1024 0 
+D0
+~
+~
+0 0 10041 0 0 0
+
+D2
+~
+~
+0 0 10043 0 0 0
+
+S
+#10043
+The Hall Of Despair~
+The hall of despair reaches on into darkness, leading both north and south
+from here. The walls are covered in skins that appear to have been ripped
+from human corpses, and on several pikes sit decaying human heads in
+various states of decay. 
+~
+0 1024 0 
+D0
+~
+~
+0 0 10042 0 0 0
+
+D2
+~
+~
+0 0 10044 0 0 0
+
+S
+#10044
+The Hall Of Despair~
+You are swallowed in the shadows of the hall of despair. The walls are
+covered in bleeding skins encompassed by festering sores, and various
+spatters of blood and other bodily fluids cover the wooden floors. To the
+south is the central precinct of the decay faction, while north lies the
+rest of the hall of despair. 
+~
+0 1024 0 
+D0
+~
+~
+0 0 10043 0 0 0
+
+D2
+~
+~
+0 0 10045 0 0 0
+
+S
+#10045
+The Academy South Precinct: Decay Faction~
+You are in the central precinct of the decay faction. Swarms of flies float
+over everything, laying their eggs on the rotten remains of various limbs
+and other...unrecognizable body parts. The floors squish underfoot, their
+wooden slats covered in gaping holes which could easily trap a foot, if
+one is not careful where they step. The ceiling reaches up to a steepled
+peek, it's rust-colored wooden beams crisscrossing the chamber. To the
+east, above a small entranceway, lies a boar's head on a mantle, while to
+the western entrance is an elk's petrified face, caught in a grimace of
+eternal despair. An exit to the academy lies to the south, covered in
+flaps of rotting skin which move aside as one brushes them.
+~
+0 1024 0 
+D0
+~
+~
+0 0 10044 0 0 0
+
+D1
+~
+~
+0 0 10058 0 0 0
+
+D2
+~
+~
+0 0 10046 0 0 0
+
+D3
+~
+~
+0 0 10024 0 0 0
+
+S
+#10046
+The Academy South Precinct: Decay Faction~
+The soft purple glow of the wall lights illuminate the area. A translucent
+staircase that leads higher into the decay faction housing sector stands here
+in the middle of the room. Constructed out of solidified air it is a marvel to
+behold. The area hums with the presents of magic.
+~
+0 1036 0 
+D0
+~
+~
+0 0 10045 0 0 0
+
+D1
+~
+~
+0 0 10054 0 0 0
+
+D2
+~
+~
+0 0 10047 0 0 0
+
+D3
+~
+~
+0 0 10032 0 0 0
+
+D4
+~
+~
+0 -1 3500 1 0 0
+
+S
+#10047
+The hall of Decay portals~
+~
+0 1028 0 
+D0
+~
+~
+0 0 10046 0 0 0
+
+D2
+~
+~
+536870912 -1 10047 1 55 54
+
+> rand_prog 100~
+mppurge
+~
+|
+
+S
+#10048
+Death Faction Portal Room L15 - L30~
+~
+0 0 0 
+D3
+~
+~
+0 0 10034 0 0 0
+
+S
+#10049
+The Apothocary~
+~
+0 1024 0 
+D2
+~
+~
+0 0 10050 0 0 0
+R M 0 10006 1 10049
+  R G 0 10010 1
+
+S
+#10050
+Engen Wu Academy Center Square~
+You are at the north-east end of Engen Wu Academy Square. Cherry blossoms
+line the walkways which spiral west and south from here, around a stream
+in the center of the square. To the north lies the master of potions, and
+to the east the banker. 
+~
+0 1024 1 
+D0
+~
+~
+0 0 10049 0 0 0
+
+D1
+~
+~
+0 0 10055 0 0 0
+
+D2
+~
+~
+0 0 10051 0 0 0
+
+D3
+~
+~
+0 0 10039 0 0 0
+
+S
+#10051
+Engen Wu Academy Center Square~
+You are at the east end of the garden of Engen Wu Academy. The scent of
+cherry blossoms floats through the air with a faint aroma, and to the west
+you can make out what appears to be a stream filled with running water. To
+the east lies a tunnel lined with bonsai trees, and you can hear the
+chirping of birds in the distance.
+~
+0 1024 1 
+D0
+~
+~
+0 0 10050 0 0 0
+
+D1
+~
+~
+0 0 10064 0 0 0
+
+D2
+~
+~
+0 0 10052 0 0 0
+
+D3
+~
+~
+0 -1 10040 0 0 0
+
+S
+#10052
+Engen Wu Academy Center Square~
+You are at the south-east end of Engen Wu Academy Square. Cherry blossoms
+line the walkways which spiral west and north from here, around a stream
+in the center of the square. To the south lies the blacksmith, and to the
+east the healer. 
+~
+0 1024 1 
+D0
+~
+~
+0 0 10051 0 0 0
+
+D1
+~
+~
+0 0 10056 0 0 0
+
+D2
+~
+~
+0 0 10053 0 0 0
+
+D3
+~
+~
+0 0 10041 0 0 0
+
+S
+#10053
+The Academy Repair Shop~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10052 0 0 0
+R M 0 10007 1 10053
+
+S
+#10054
+Decay Faction Portals Room L1 - L15~
+A blackened portal stands in the center of this room, tinged with purple
+veins. It hums with the dark glow of black magick. The portal seems to tug
+on your armor with a life of its own, whilst pulsing with an insect-like
+buzz. The vortiginous depths seem to hint at some world beyond our own,
+and one would have to be very brave to enter them, indeed. 
+~
+0 1024 0 
+D3
+~
+~
+0 0 10046 0 0 0
+
+S
+#10055
+The Academy Bank~
+~
+0 1024 0 
+D3
+~
+~
+0 0 10050 0 0 0
+R M 0 10003 1 10055
+
+S
+#10056
+The Academy Healer~
+~
+0 1032 0 
+D3
+~
+~
+0 0 10052 0 0 0
+R M 0 10005 1 10056
+
+S
+#10057
+Iaijutsu Armor~
+~
+0 1024 0 
+D2
+~
+~
+0 0 10058 0 0 0
+
+S
+#10058
+Decay Faction: Physical Focus~
+The wooden slats of the floor below you are riddled with holes and the
+onset of putrefaction. Huts made of animal skins lie to the east, the
+north, and the south. Long-haired, pallid warriors beat on wardrums in the
+center of this great palisade. Flies float lazily through the air, buzzing
+around the remains of dead animals that are scattered across the floor
+discrepantly.
+~
+0 1024 0 
+D0
+~
+~
+0 0 10057 0 0 0
+
+D1
+~
+~
+0 0 10060 0 0 0
+
+D2
+~
+~
+0 0 10059 0 0 0
+
+D3
+~
+~
+0 0 10045 0 0 0
+
+S
+#10059
+Iaijutsu Weapons~
+The center of this skin hut is set with a table, covered in various odds
+and ends, mostly bits of metal and unrefined ore. On the table are also
+several weapons of various sizes and shapes, gigantic mallets, hammers,
+and other blunt instruments of death. In the far south of the hut is an
+enormous forge, smelted ore being shaped into weaponry by the pounding and
+sparking of hammers. 
+~
+0 1024 0 
+D0
+~
+~
+0 0 10058 0 0 0
+
+S
+#10060
+Decay Faction: Physical Abilities~
+This massive skin tent is set with practice dummies on each of the far
+corners, massive warriors striking blows against these straw mannequins.
+In the central pews sit several warriors, resting from a hard day of
+labor, and beating at wardrums in pace with the hardened blows of the
+fighters. At the far east side of the tent is a menacing figure, covered
+in spiked armor and wielding a terrifying hammer, ready to train the
+willing apprentice. 
+~
+0 1024 0 
+D3
+~
+~
+0 0 10058 0 0 0
+
+S
+#10061
+Kensei Armors~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10062 0 0 0
+R M 1 10014 1 10061
+
+S
+#10062
+Death Faction: Physical Focus~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10061 0 0 0
+
+D1
+~
+~
+0 0 10065 0 0 0
+
+D2
+~
+~
+0 0 10063 0 0 0
+
+D3
+~
+~
+0 0 10035 0 0 0
+
+S
+#10063
+Kensei Weapons~
+Type "house-select" to make this your permanant house.
+~
+0 1032 0 
+D0
+~
+~
+0 0 10062 0 0 0
+R M 1 10012 1 10063
+  R G 0 10019 1
+  R G 0 10018 1
+  R G 0 10017 1
+  R G 0 10016 1
+  R G 0 10015 1
+  R G 0 10014 1
+R M 1 2001 735 10063
+
+S
+#10064
+The Hall Of Tranquillity~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10066 0 0 0
+
+D3
+~
+~
+0 0 10051 0 0 0
+
+S
+#10065
+Death Faction: Physical Abilities~
+~
+0 1032 0 
+D3
+~
+~
+0 0 10062 0 0 0
+R M 1 10013 1 10065
+
+S
+#10066
+The Hall Of Tranquillity~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10067 0 0 0
+
+D3
+~
+~
+0 0 10064 0 0 0
+
+S
+#10067
+The Hall Of Tranquillity~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10072 0 0 0
+
+D3
+~
+~
+0 0 10066 0 0 0
+
+S
+#10068
+Kishi Weapons~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10071 0 0 0
+
+S
+#10069
+Sohei Weapons~
+~
+0 1032 0 
+D1
+~
+~
+0 0 10073 0 0 0
+
+S
+#10070
+Growth Physical Abilities~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10071 0 0 0
+
+S
+#10071
+Growth Faction: Physical Focus~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10070 0 0 0
+
+D1
+~
+~
+0 0 10075 0 0 0
+
+D2
+~
+~
+0 0 10072 0 0 0
+
+D3
+~
+~
+0 0 10068 0 0 0
+
+S
+#10072
+The Academy East Precinct: Growth Faction~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10071 0 0 0
+
+D1
+~
+~
+0 0 10078 0 0 0
+
+D2
+~
+~
+0 0 10073 0 0 0
+
+D3
+~
+~
+0 0 10067 0 0 0
+
+S
+#10073
+Growth Faction: Mental Focus~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10072 0 0 0
+
+D1
+~
+~
+0 0 10076 0 0 0
+
+D2
+~
+~
+0 0 10074 0 0 0
+
+D3
+~
+~
+0 0 10069 0 0 0
+
+S
+#10074
+Growth mental Abilities~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10073 0 0 0
+
+S
+#10075
+Kishi Armors~
+~
+0 1032 0 
+D3
+~
+~
+0 0 10071 0 0 0
+
+S
+#10076
+Sohei Armors~
+~
+0 1032 0 
+D3
+~
+~
+0 0 10073 0 0 0
+
+S
+#10077
+Growth Faction Portal Room: L15 - L30~
+~
+0 1032 0 
+D2
+~
+~
+0 0 10078 0 0 0
+
+S
+#10078
+The Academy East Precinct: Growth Faction~
+The soft green glow of the wall lights illuminate the area. Vines have entwined
+themselves into the shape of a staircase that leads up into the growth faction
+housing sector. The vines are thick and strong towards the center with slender
+and more delicate vines make up the stair treads. The whole assemblage is
+covered in a a variety of different foliage types.
+~
+0 1036 0 
+D0
+~
+~
+0 0 10077 0 0 0
+
+D1
+~
+~
+0 0 10080 0 0 0
+
+D2
+~
+~
+0 0 10079 0 0 0
+
+D3
+~
+~
+0 0 10072 0 0 0
+
+D4
+~
+~
+0 -1 3000 1 0 0
+
+S
+#10079
+Growth Faction Portal Room: L1 - L15~
+~
+0 1032 0 
+D0
+~
+~
+0 0 10078 0 0 0
+
+S
+#10080
+The Academy East Precinct: Map Exit~
+~
+0 1036 0 
+D1
+~
+~
+536870912 -1 10080 1 61 48
+
+D3
+~
+~
+0 0 10078 0 0 0
+
+> rand_prog 100~
+mppurge
+~
+|
+
+S
+#10081
+A Spiral Staircase~
+The spiral staircase found in the center of the glyph leads further
+downward here, plunging into darkness. To the east, north, and south lie
+several chambers, each containing donations from generous adventurers. 
+~
+0 1032 0 
+D0
+~
+~
+0 -1 10083 1 0 0
+
+D1
+~
+~
+0 -1 10090 1 0 0
+
+D2
+~
+~
+0 -1 10084 1 0 0
+
+D4
+~
+~
+0 -1 10040 1 0 0
+
+D5
+~
+~
+0 -1 10082 1 0 0
+
+S
+#10082
+The Bottom of the Spiral Staircase~
+You find yourself at the bottom of the spiral staircase, in a sanctuary of
+sorts, host to deities both good and evil. To the east lies the worship
+chamber of benevolent deities, the west the abode of evil, and to the
+south, the home of the central creators, who divide their time between
+acts of light and darkness. North of here is the hall of guilds.
+~
+0 1032 0 
+D0
+~
+~
+0 -1 10085 1 0 0
+
+D1
+~
+~
+0 -1 10088 1 0 0
+
+D2
+~
+~
+0 -1 10087 1 0 0
+
+D3
+~
+~
+0 -1 10089 1 0 0
+
+D4
+~
+~
+0 -1 10081 1 0 0
+
+S
+#10083
+Armor Donation Room~
+~
+0 1032 0 
+D2
+~
+~
+0 -1 10081 1 0 0
+
+S
+#10084
+Weapons Donation Room~
+~
+0 1032 0 
+D0
+~
+~
+0 -1 10081 1 0 0
+
+S
+#10085
+The Hall of Guilds~
+~
+0 1032 0 
+D0
+~
+~
+0 -1 10086 1 0 0
+
+D2
+~
+~
+0 -1 10082 1 0 0
+
+S
+#10086
+The Hall of Guilds~
+~
+0 1032 0 
+D2
+~
+~
+0 -1 10085 1 0 0
+
+S
+#10087
+The Hall of Neutal Deities~
+~
+0 1032 0 
+D0
+~
+~
+0 -1 10082 1 0 0
+
+S
+#10088
+The Hall of Pious Deities~
+~
+0 1032 0 
+D3
+~
+~
+0 -1 10082 1 0 0
+
+S
+#10089
+The Hall of Evil Deities~
+~
+0 1032 0 
+D1
+~
+~
+0 -1 10082 1 0 0
+
+S
+#10090
+Miscellaneous Donation Room~
+~
+0 1032 0 
+D3
+~
+~
+0 -1 10081 1 0 0
+
+S
+#10091
+The Academy Traveler Supplies~
+The ladder which leads upward into this loft is a rickety affair, but
+manages to get the job done. The room in which you have found yourself is
+littered with dusty tomes, water flasks, and other assorted wares for
+adventuring into unknown lands. Several windows show the vast landscape
+outside of the academy, and above the store is a great sunroof of domed
+glass, shining light from the orb of the heavens down upon the gardens
+below. 
+~
+0 1032 1 
+D5
+~
+~
+0 -1 10040 1 0 0
+R M 0 10008 1 10091
+  R G 0 34 1
+  R G 0 35 1
+  R G 0 10013 1
+  R G 0 10012 1
+  R G 0 10011 1
+
+S
+#0
+
+
+#SHOPS
+ 10002    1  8  0  0  0   120  90         0 23    ; Houjin
+ 10004   15  0  0  0  0   120  90         0 23    ; Suijo the container craftsman
+ 10006   10  0  0  0  0   120  90         0 23    ; shunyuan
+ 10008   19 17  0  0  0   120  90         0 23    ; merchant Chaoxiang
+ 10009    8  9  5  1 10   120  90         0 23    ; Dingxiang
+ 10011    8  9  5  0  0   120  90         0 23    ; the treasure dealer
+ 10012    5  0  0  0  0   120  90         0 23    ; Master Qinji
+ 10014    9  0  0  0  0   120  90         0 23    ; Gowlan the armor merchant
+ 10015    9  0  0  0  0   120  90         0 23    ; Sailkan the armor merchant
+0
+
+
+#REPAIRS
+ 10007    5  9  1         100   1         0 23    ; a newly created repair merchant Zongmeng
+0
+
+
+#SPECIALS
+S
+
+
+#$
